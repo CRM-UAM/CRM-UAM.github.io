@@ -1,23 +1,28 @@
+# Historia del CRM-UAM
 
-# Historia del GNB-UAM
+Presencia del CRM en eventos pasados
+--
 
-**En construcción**  
+* **1º Torneo Abierto de Mecatrónica-Robótica de Madrid** ([**web sumo**](1997_1erOpenMeca_sumo.html), [**web torneo**](1997_1erOpenMeca_torneo.html)) (Escuela Técnica Superior de Informática, Universidad Autónoma de Madrid, 28 de Octubre de 1997)  
+* **Concurso Nacional de robots HISPABOT 2004** [**resumen en la web iearobotics**](2004_HISPABOT/2004_HISPABOT_iearobotics.html) (UAH. Alcalá de Henares, Abril 2004). Participaron Cube-Revolutions, Queen-Mary, Papón y Melanie  
 
 
+Algunos de los robots que han pasado por el CRM
+--
 
-* Rastreador Slayer, con tracción delantera y cabeza giratoria. (Daniel Alvarez y Alberto Calvo)  
+* Rastreador **Slayer**, con tracción delantera y cabeza giratoria. (Daniel Alvarez y Alberto Calvo)  
 ![](200X_Slayer.jpg)  
 
-* Queen-Mary, otro rastreador que usa Cds como ruedas (Daniel Álvarez y Alberto Calvo)  
+* **Queen-Mary**, otro rastreador que usa CDs como ruedas (Daniel Álvarez y Alberto Calvo)  
 ![](200X_QueenMary.png)  
 
-* Skybot (Andrés Prieto-Moreno, Juan González Gómez, Ricardo Gómez)  
-![](200X_skybot.png)  
+* [**Skybot**](http://www.iearobotics.com/wiki/index.php?title=Skybot) (Andrés Prieto-Moreno, Juan González Gómez, Ricardo Gómez, 2005)  
+![](2005_skybot.png)  
 
-
-* Más robots:  
-
+* **Melanie**, [**Cube Revolutions**](http://www.iearobotics.com/wiki/index.php?title=Cube_Revolutions) y **Papón** (2004)  
 ![](2004_HISPABOT/2004_HISPABOT_iearobotics_files/melanie-cube-papon.png)  
 
+* Queen-Mary y robot anónimo:  
 ![](2004_HISPABOT/2004_HISPABOT_iearobotics_files/queen-mary.png)  
+
 
