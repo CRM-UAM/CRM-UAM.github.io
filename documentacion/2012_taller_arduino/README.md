@@ -6,6 +6,10 @@ En Mayo de 2012, Lucas Polo López, Miguel Gargallo Vázquez y Carlos García Sa
 
 ----------
 
+
+
+
+
 Documentación
 --
 
@@ -22,6 +26,10 @@ Diapositivas:
 * Diapositivas de la sesión #3b: Ensamblado del kit ([PDF](taller_arduino_2012_sesion_3b_ensambladoKit.pdf))  
 
 
+
+
+
+
 ----------
 
 Fotos del taller (23-29 mayo 2012)
@@ -32,20 +40,36 @@ Hector Menendez, ex-presidente del CRM, inspirando a futuros miembros :-)
 
 Lucas Polo explicando cómo se programa en Arduino:  
 ![](fotos/2012-05-23 15.27.25.jpg)  
+
 ![](fotos/2012-05-24 16.45.11.jpg)  
+
+
+
+
 
 ----------
 
 Día 2:  
 ![](fotos/2012-05-25 16.05.42.jpg)  
+
+Robot Púrpura de Raquel Villena y Mario "Gauss":  
 ![](fotos/2012-05-25 16.44.15.jpg)  
+
+
+
+
 
 ----------
 
 Día 3:  
 ![](fotos/2012-05-28 16.37.20.jpg)  
+
+Álvaro Pérez, Miguel Gargallo y Lucas Polo muy concentrados:  
 ![](fotos/2012-05-28 16.39.04.jpg)  
+
 ![](fotos/2012-05-28 17.12.32.jpg)  
+
+Raquel Villena, Mario "Gauss" y Púrpura:  
 ![](fotos/2012-05-28 17.14.19.jpg)  
 
 
