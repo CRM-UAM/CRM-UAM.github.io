@@ -11,7 +11,7 @@ Algunos de los robots que han pasado por el CRM
 --
 
 * **PolillaBot** (Miguel Gargallo, Lucas Polo, Álvaro Pérez, Carlos Garcia)
-![2011_PolillaBot/polillaBot_1.jpg]  
+![](2011_PolillaBot/polillaBot_1.jpg)  
 
 * Rastreador **Slayer**, con tracción delantera y cabeza giratoria. (Daniel Alvarez y Alberto Calvo)  
 ![](200X_Slayer.jpg)  
