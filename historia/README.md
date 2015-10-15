@@ -10,7 +10,7 @@ Presencia del CRM en eventos pasados
 Algunos de los robots que han pasado por el CRM
 --
 
-* **ArduSnake** con cuerpo impreso en 3D y electrónica donada por el diseñador Juan González (Obijuan)  
+* **ArduSnake** con cuerpo impreso en 3D (módulos [REPY1](http://www.thingiverse.com/thing:13442)) y electrónica donada por el diseñador Juan González (Obijuan)  
 <img src="2012_ArduSnake/2012-05-03 13.04.02.jpg" width="450"/>  
 
 * **PolillaBot** (Miguel Gargallo, Lucas Polo, Álvaro Pérez, Carlos Garcia)
