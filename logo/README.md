@@ -3,6 +3,14 @@
 
 
 
+Para presentaciones
+--
+Logo en PNG, transparente con el borde sombreado en blanco:  
+<img src="logo_crm_transparente_con_sombra.png" width="200"/>  
+
+
+
+
 Para documentos de texto
 --
 Logo en JPEG:  
@@ -11,13 +19,6 @@ Logo en JPEG:
 Logo en PNG, con el fondo transparente:  
 <img src="logo_crm_transparente.png" width="200"/>  
 
-
-
-
-Para presentaciones
---
-Logo en PNG, transparente con el borde sombreado en blanco:  
-<img src="logo_crm_transparente_con_sombra.png" width="200"/>  
 
 
 
