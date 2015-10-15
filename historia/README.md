@@ -17,7 +17,7 @@ Algunos de los robots que han pasado por el CRM
 ![](200X_QueenMary.png)  
 
 * [**Skybot**](http://www.iearobotics.com/wiki/index.php?title=Skybot) (Andrés Prieto-Moreno, Juan González Gómez, Ricardo Gómez, 2005)  
-![](2005_skybot.png)  
+![](2005_SkyBot.png)  
 
 * **Melanie**, [**Cube Revolutions**](http://www.iearobotics.com/wiki/index.php?title=Cube_Revolutions) y **Papón** (2004)  
 ![](2004_HISPABOT/2004_HISPABOT_iearobotics_files/melanie-cube-papon.png)  
