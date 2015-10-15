@@ -6,10 +6,10 @@
 Para documentos de texto
 --
 Logo en JPEG:  
-![](logo_crm_fondoBlanco.jpg =200x)  
+<img src="logo_crm_fondoBlanco.jpg" width="200"/>  
 
 Logo en PNG, con el fondo transparente:  
-![](logo_crm_transparente.png =200x)  
+<img src="logo_crm_transparente.png" width="200"/>  
 
 
 
@@ -17,7 +17,7 @@ Logo en PNG, con el fondo transparente:
 Para presentaciones
 --
 Logo en PNG, transparente con el borde sombreado en blanco:  
-![](logo_crm_transparente_con_sombra.png =200x)  
+<img src="logo_crm_transparente_con_sombra.png" width="200"/>  
 
 
 
