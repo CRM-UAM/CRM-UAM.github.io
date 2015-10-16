@@ -1,0 +1,113 @@
+/*
+*	
+*	Aplicacion de comunicacion entre Arduino bqZUM y android, por medio de bluetooth
+*	Recibe y grafica en tiempo real parametros y permite enviar del movil a la arduino *	4 parametros
+*	by .. Víctor Uceda 
+*
+*/
+
+/*var card = ui.addCard("bAddPar", 0, 0, ui.screenWidth, 400); 
+var r = card.addRow(2); // add a row to the card with two slots 
+r.addView(ui.addButton("Nuevo Parametro", function() {  })); // add firt view
+r.addView(ui.addButton("show", function() {  })); 
+*/
+/*var slider=[];
+
+var var2 = ui.addButton("Nuevo Parametro", ui.screenWidth/4, 100, ui.screenWidth/2, 150, function() { 
+    ui.inputDialog("Nombre", function(text) { 
+        slider[slider.length]=ui.addSlider(ui.screenWidth/4, 300, 500, 100, 100, 50, function(val) { 
+            ui.toast(val,1);
+        });
+    });
+
+
+});*/
+
+
+var numPar=3;
+var textPar=[];
+var sliderPar=[];
+var telemetriaEnable=true;
+var plot=[];
+var webPlot = dashboard.addPlot("accelerometer x", 400, 400, 850, 300, -100, 100);
+//dashboard.show(true);
+
+
+network.startBluetooth();
+
+console.log("hola")
+network.connectBluetoothByMac("98:D3:31:20:1A:43", function(data) {
+    if(telemetriaEnable===true){
+    var array=data.split(" ");
+    if(array[0] == "-T"){
+        console.log("DatosRecibidos= ");
+        for(var i=0;i<array[1];i++){
+            if((i+2)<array.length){
+                if(i==plot.length){
+                    plot[i]=ui.addPlot(0, 300+150*6+280*i, ui.screenWidth, 200, -100, 100);
+                    plot[i].setDefinition(ui.screenWidth/30);
+                }
+                console.log(array[i+2]);
+                
+                plot[i].update("x",array[i+2]);
+            }
+        }
+        console.log("|||");
+    }
+    }
+    //plot.update("x", data);
+    //plot2.update("y",-data);
+    
+    //webPlot.update(data);
+    
+});
+
+
+    var var0 = ui.addButton("Enviar Parametros", ui.screenWidth/4, 100, ui.screenWidth/2, 150, function() { 
+        var msg=textPar[0].getText();
+        for(i=1;i<4;i++){
+            msg=msg+","+textPar[i].getText();
+        }
+        network.sendBluetoothSerial(msg);
+
+
+        ui.toast(msg, 5);
+    });
+
+
+    textPar[0] = ui.addInput("Par1", 7*ui.screenWidth/10, 300, 2*ui.screenWidth/10, 100, function() { });
+    sliderPar[0] = ui.addSlider(ui.screenWidth/10, 300, 6*ui.screenWidth/10, 100, 100, 50, function(val) { 
+        textPar[0].setText(""+val);
+    });
+
+    textPar[1] = ui.addInput("Par2", 7*ui.screenWidth/10, 300+150, 2*ui.screenWidth/10, 100, function() { });
+    sliderPar[1] = ui.addSlider(ui.screenWidth/10, 300+150, 6*ui.screenWidth/10, 100, 100, 50, function(val) { 
+        textPar[1].setText(""+val);
+    });
+    
+    textPar[2] = ui.addInput("Par3", 7*ui.screenWidth/10, 300+150*2, 2*ui.screenWidth/10, 100, function() { });
+    sliderPar[2] = ui.addSlider(ui.screenWidth/10, 300+150*2, 6*ui.screenWidth/10, 100, 100, 50, function(val) { 
+        textPar[2].setText(""+val);
+    });
+
+    textPar[3] = ui.addInput("Par4", 7*ui.screenWidth/10, 300+150*3, 2*ui.screenWidth/10, 100, function() { });
+    sliderPar[3] = ui.addSlider(ui.screenWidth/10, 300+150*3, 6*ui.screenWidth/10, 100, 100, 50, function(val) { 
+        textPar[3].setText(""+val);
+    });
+
+
+var card = ui.addCard("Telemetria", 0, 300+150*3, ui.screenWidth, 600); 
+var r = card.addRow(2); // add a row to the card with two slots 
+r.addView(ui.addButton("Start", function() { telemetriaEnable=true; })); // add firt view
+r.addView(ui.addButton("Stop", function() { telemetriaEnable=false; })); // add second view
+
+
+
+
+//network.sendBluetoothSerial("20,30,50\n");
+
+
+
+
+
+
