@@ -5,7 +5,7 @@ El Club de Robótica-Mecatrónica se fundó en 1997 por estudiantes, con gran ap
 
 Presencia del CRM en eventos pasados
 --
-* (2005-2008) Participación de miembros del CRM en las **Campus Party** [2005](http://www.iearobotics.com/personal/juan/eventos/evento03/), [2006](http://www.iearobotics.com/personal/juan/eventos/evento17/), [2007](http://www.iearobotics.com/blog/2007/07/24/campus-party-2007/), 2008 ([a](http://www.iearobotics.com/blog/2008/08/08/resumen-campus-party-2008/), [b](http://www.iearobotics.com/wiki/index.php?title=Campus_Party_2008)) (Andrés Prieto Moreno, Juan González Gómez, Iván González)
+* (2005-2008) Participación de miembros del CRM en las **Campus Party** [2005](http://www.iearobotics.com/personal/juan/eventos/evento03/), [2006](http://www.iearobotics.com/personal/juan/eventos/evento17/), [2007](http://www.iearobotics.com/blog/2007/07/24/campus-party-2007/), [2008](http://www.iearobotics.com/wiki/index.php?title=Campus_Party_2008) (Andrés Prieto Moreno, Juan González Gómez, Iván González, entre otros)
 
 * (2006) Hispabot 
 * (2006) **ROBOLID'06**: El Club presentó dos robots, Slayer y Margarita. **Slayer ganó en la categoría de Rastreadores y Margarita fue quinto en la categoría de Sumo**. [**resumen en la web de ARDE**](http://www.arde.cc/competiciones/robolid-2006/), [**vídeo de Slayer**](https://www.youtube.com/watch?v=GXij8BVFPP0), [**vídeo de Margarita**](https://www.youtube.com/watch?v=l2qdEMfkfEo)
@@ -24,6 +24,9 @@ Algunos de los robots que han pasado por el CRM
 
 * (2011) **PolillaBot** (Miguel Gargallo, Lucas Polo, Álvaro Pérez, Carlos Garcia)
 <img src="robots/2011_PolillaBot/polillaBot_1.jpg" width="450"/>  
+
+* (2008) Robot [**FlatBot**](http://www.iearobotics.com/wiki/index.php?title=Robot_FlatBot) (Andrés Prieto-Moreno)
+![](eventos/200X_CampusParty/2008_CampusParty_FlatBot.jpg)
 
 * (2008) Robot **Johny** para el concurso de robots Lego de la Campus Party 08
 ![](eventos/200X_CampusParty/2008_CampusParty_Johny_lego.jpg)  
@@ -57,7 +60,7 @@ Algunos de los robots que han pasado por el CRM
 
 ## Campus Party 2006
 
-Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. Todos los robots de la mesa han salido de la UAM  
+Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. Todos los robots de la mesa han salido de la UAM. [**Vídeo de la oruga Benita (construida en 1996)**](https://www.youtube.com/watch?v=5pRC8NfJ7X0)  
 ![](eventos/200X_CampusParty/2006_CampusParty_iearobotics_index4_files/miercoles-16-alejandro-andres-frikies.jpg)  
 
 Gedeón Domínguez e Iván González, modelo de frikies :-)  
