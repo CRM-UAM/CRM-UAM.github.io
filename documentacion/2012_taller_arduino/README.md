@@ -48,7 +48,7 @@ Lucas Polo explicando cómo se programa en Arduino:
 # Día 2
 <img src="fotos/2012-05-25 16.05.42.jpg" width="450"/>  
 
-Robot Púrpura de Raquel Villena y Mario "Gauss":  
+Robot "Púrpura" de Raquel Villena y Mario "Gauss":  
 <img src="fotos/2012-05-25 16.44.15.jpg" width="450"/>  
 
 
