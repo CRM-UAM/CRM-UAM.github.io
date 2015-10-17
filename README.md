@@ -9,5 +9,5 @@ Bienvenido al repositorio principal del Club de Robótica. Si te gusta la robót
 * [Temas administrativos](administrativo)  
 
 
-<img src="logo/logo_crm_transparente_con_sombra.png" width="350" align="right"/>  
+<img src="logo/logo_crm_transparente_con_sombra.png" width="100" align="right"/>  
 
