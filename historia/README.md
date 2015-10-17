@@ -1,6 +1,6 @@
 # Historia del CRM-UAM
 
-El Club de Robótica-Mecatrónica se fundó en 1997 por estudiantes con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM estuvieron [Andrés Prieto Moreno](), [Juan González Gómez](), [Iván González](), etc  
+El Club de Robótica-Mecatrónica se fundó en 1997 por estudiantes, con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2010) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Alberto Calvo, Daniel Álvarez, Antonio Carballo, [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
 (PENDIENTE DE REDACCIÓN)  
 
 Presencia del CRM en eventos pasados
@@ -24,7 +24,7 @@ Algunos de los robots que han pasado por el CRM
 * (2011) **PolillaBot** (Miguel Gargallo, Lucas Polo, Álvaro Pérez, Carlos Garcia)
 <img src="robots/2011_PolillaBot/polillaBot_1.jpg" width="450"/>  
 
-* (circa 2005) Rastreador **Slayer**, con tracción delantera y cabeza giratoria. **Ganador de la categoría rastreadores en Robolid'06**. (Daniel Alvarez y Alberto Calvo) Vídeos: [**Slayer en el CRM**](https://www.youtube.com/watch?v=koTuxa8mScI) ([**otro**](https://www.youtube.com/watch?v=BRsTaI17uao)), [**Slayer en la Campus Party 2008**](https://www.youtube.com/watch?v=QCTAsrCcZpA)  
+* (circa 2005) Rastreador **Slayer**, con tracción delantera y cabeza giratoria. **Ganador de la categoría rastreadores en Robolid'06**. (Daniel Álvarez y Alberto Calvo) Vídeos: [**Slayer en el CRM**](https://www.youtube.com/watch?v=koTuxa8mScI) ([**otro**](https://www.youtube.com/watch?v=BRsTaI17uao)), [**Slayer en la Campus Party 2008**](https://www.youtube.com/watch?v=QCTAsrCcZpA)  
 <img src="robots/200X_Slayer.jpg" width="450"/>  
 
 * (2006) Robot de sumo **Margarita**, **5ª posición en Robolid'06**  
@@ -62,7 +62,7 @@ Juan en la prueba libre
 Alberto y Queen-Mary  
 ![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/alberto-queen-mary.png)  
 
-Arturo, Dani y Alberto  
+Arturo, Daniel y Alberto  
 ![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/arturo-dani-alberto.png)  
 
 ## Alcabot 2002
