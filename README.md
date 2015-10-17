@@ -8,6 +8,6 @@ Bienvenido al repositorio principal del Club de Robótica. Si te gusta la robót
 * [Pantallas informativas](pantallas)  
 * [Temas administrativos](administrativo)  
 
-![](logo/logo_crm_transparente_con_sombra.png)  
 
+<img src="logo/logo_crm_transparente_con_sombra.png" width="450" align="right"/>  
 

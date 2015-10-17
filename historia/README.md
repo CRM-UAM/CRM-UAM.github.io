@@ -72,7 +72,7 @@ Algunos de los robots que han pasado por el CRM
 Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. Todos los robots de la mesa han salido de la UAM. [**Vídeo de la oruga Benita (construida en 1996)**](https://www.youtube.com/watch?v=5pRC8NfJ7X0)  
 ![](eventos/200X_CampusParty/2006_CampusParty_iearobotics_index4_files/miercoles-16-alejandro-andres-frikies.jpg)  
 
-Gedeón Domínguez e Iván González, modelo de frikies :-)  
+Gedeón Domínguez e Iván González, modelo de frikis :-)  
 ![](eventos/200X_CampusParty/2006_CampusParty_iearobotics_index_files/sab-22-gedeon-ivan1.jpg)  
 
 
