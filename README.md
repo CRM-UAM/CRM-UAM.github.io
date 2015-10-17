@@ -1,6 +1,6 @@
 # Club de Robótica-Mecatrónica de la UAM
 
-Bienvenido al repositorio principal del Club de Robótica. Si te gusta la robótica, no dudes en ponerte en contacto con nosotros.  
+Bienvenido al repositorio principal del Club de Robótica. Si te gusta la robótica, no dudes en [ponerte en contacto](https://groups.google.com/forum/#!forum/crm-uam) con nosotros.  
 
 * [Documentación de proyectos y eventos](documentacion)  
 * [Historia del CRM-UAM](historia)  
@@ -9,5 +9,5 @@ Bienvenido al repositorio principal del Club de Robótica. Si te gusta la robót
 * [Temas administrativos](administrativo)  
 
 
-<img src="logo/logo_crm_transparente_con_sombra.png" width="100" align="right"/>  
+<img src="logo/logo_crm_transparente_con_sombra.png" width="200" align="right"/>  
 
