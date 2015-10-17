@@ -68,6 +68,7 @@ Arturo, Dani y Alberto
 ## Alcabot 2002
 
 Equipo: Antonio Carballo Anton, Luis Jorge Alloza Román, y Ramón Vazquez Pablo  
-![](eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg)  
+<img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" width="400"/>  
+
 
 
