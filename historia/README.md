@@ -3,7 +3,7 @@
 El Club de Robótica-Mecatrónica se fundó en 1997 por estudiantes, con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2010) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Alberto Calvo, Daniel Álvarez, Antonio Carballo, [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
 (PENDIENTE DE REDACCIÓN)  
 
-Presencia del CRM en eventos pasados
+Presencia del CRM en eventos frikis
 --
 * (2005-2008) Participación de miembros del CRM en las **Campus Party** [2005](http://www.iearobotics.com/personal/juan/eventos/evento03/), [2006](http://www.iearobotics.com/personal/juan/eventos/evento17/), [2007](http://www.iearobotics.com/blog/2007/07/24/campus-party-2007/), [2008](http://www.iearobotics.com/wiki/index.php?title=Campus_Party_2008) (Andrés Prieto Moreno, Juan González Gómez, Iván González, entre otros)
 
@@ -25,7 +25,7 @@ Algunos de los robots que han pasado por el CRM
 * (2011) **PolillaBot** (Miguel Gargallo, Lucas Polo, Álvaro Pérez, Carlos Garcia)
 <img src="robots/2011_PolillaBot/polillaBot_1.jpg" width="450"/>  
 
-* (2008) Robot [**FlatBot**](http://www.iearobotics.com/wiki/index.php?title=Robot_FlatBot) (Andrés Prieto-Moreno)
+* (2008) Robot [**FlatBot**](http://www.iearobotics.com/wiki/index.php?title=Robot_FlatBot) (Andrés Prieto-Moreno) Usado en el [Taller FlatBot](http://www.iearobotics.com/wiki/index.php?title=Taller_FlatBot) de la Campus Party 08
 ![](eventos/200X_CampusParty/2008_CampusParty_FlatBot.jpg)
 
 * (2008) Robot **Johny** para el concurso de robots Lego de la Campus Party 08
