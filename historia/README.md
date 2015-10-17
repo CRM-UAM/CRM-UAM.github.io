@@ -78,10 +78,10 @@ Gedeón Domínguez e Iván González, modelo de frikies :-)
 
 ## HISPABOT 2004
 
-UAM-Team:  
+UAM-Team: En la derecha están Alejandro, Juan, el grupo Papón, Ramón y Cristina que se pasaron para ver el concurso (ellos participaron el año anterior, también en la prueba libre). En la parte inferior de la foto se ven los robots robot Hexápodo Melanie , Cube Revolutions y Papón.  
 ![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/uam-team.png)  
 
-Juan en la prueba libre  
+Juan en la prueba libre con [**Cube Revolutions**](http://www.iearobotics.com/wiki/index.php?title=Cube_Revolutions)  
 ![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/juan-prueba-libre.png)  
 
 Alberto y Queen-Mary  
