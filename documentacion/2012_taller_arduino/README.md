@@ -37,31 +37,31 @@ Diapositivas:
 # Día 1
 
 Hector Menendez, ex-presidente del CRM, inspirando a futuros miembros :-)  
-![](fotos/2012-05-23 15.15.37.jpg)  
+<img src="fotos/2012-05-23 15.15.37.jpg" width="450"/>  
 
 Lucas Polo explicando cómo se programa en Arduino:  
-![](fotos/2012-05-23 15.27.25.jpg)  
+<img src="fotos/2012-05-23 15.27.25.jpg" width="450"/>  
 
-![](fotos/2012-05-24 16.45.11.jpg)  
+<img src="fotos/2012-05-24 16.45.11.jpg" width="450"/>  
 
 
 # Día 2
-![](fotos/2012-05-25 16.05.42.jpg)  
+<img src="fotos/2012-05-25 16.05.42.jpg" width="450"/>  
 
 Robot Púrpura de Raquel Villena y Mario "Gauss":  
-![](fotos/2012-05-25 16.44.15.jpg)  
+<img src="fotos/2012-05-25 16.44.15.jpg" width="450"/>  
 
 
 # Día 3
-![](fotos/2012-05-28 16.37.20.jpg)  
+<img src="fotos/2012-05-28 16.37.20.jpg" width="450"/>  
 
 Álvaro Pérez, Miguel Gargallo y Lucas Polo muy concentrados:  
-![](fotos/2012-05-28 16.39.04.jpg)  
+<img src="fotos/2012-05-28 16.39.04.jpg" width="450"/>  
 
-![](fotos/2012-05-28 17.12.32.jpg)  
+<img src="fotos/2012-05-28 17.12.32.jpg" width="450"/>  
 
 Raquel Villena y Mario "Gauss" con el robot "Púrpura":  
-![](fotos/2012-05-28 17.14.19.jpg)  
+<img src="fotos/2012-05-28 17.14.19.jpg" width="450"/>  
 
 
 ----------
