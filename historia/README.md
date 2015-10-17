@@ -1,11 +1,11 @@
 # Historia del CRM-UAM
 
-El Club de Robótica-Mecatrónica se fundó en 1997 por estudiantes, con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2010) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo, [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
+El Club de Robótica-Mecatrónica fue fundado por estudiantes de la [Universidad Autónoma de Madrid](http://www.uam.es/) en 1997, con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2010) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo, [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
 (PENDIENTE DE REDACCIÓN)  
 
 Presencia del CRM en eventos frikis
 --
-* (2005-2008) Participación de miembros del CRM en las **Campus Party** [2005](http://www.iearobotics.com/personal/juan/eventos/evento03/), [2006](http://www.iearobotics.com/personal/juan/eventos/evento17/), [2007](http://www.iearobotics.com/blog/2007/07/24/campus-party-2007/), [2008](http://www.iearobotics.com/wiki/index.php?title=Campus_Party_2008) (Andrés Prieto Moreno, Juan González Gómez, Iván González...)  
+* (2005-2008) Participación de miembros del CRM en las **Campus Party** [2005](http://www.iearobotics.com/personal/juan/eventos/evento03/), [2006](http://www.iearobotics.com/personal/juan/eventos/evento17/), [2007](http://www.iearobotics.com/blog/2007/07/24/campus-party-2007/), [2008](http://www.iearobotics.com/wiki/index.php?title=Campus_Party_2008) (Andrés Prieto Moreno, Juan González Gómez, Iván González...). El robot Slayer llegó a las semifinales del concurso de velocistas de la Campus Party 2008 ([vídeo](https://www.youtube.com/watch?v=QCTAsrCcZpA))  
 
 * (2006) **ROBOLID'06**: El Club presentó dos robots, Slayer y Margarita. **Slayer ganó en la categoría de Rastreadores y Margarita fue quinto en la categoría de Sumo**. [**resumen en la web de ARDE**](http://www.arde.cc/competiciones/robolid-2006/), [**vídeo de Slayer**](https://www.youtube.com/watch?v=GXij8BVFPP0), [**vídeo de Margarita**](https://www.youtube.com/watch?v=l2qdEMfkfEo)  
 
@@ -40,22 +40,22 @@ Algunos de los robots que han pasado por el CRM
 * (2008) Robot **Johny** para el concurso de robots Lego de la Campus Party 08  
 ![](eventos/200X_CampusParty/2008_CampusParty_Johny_lego.jpg)  
 
-* (circa 2005) Rastreador **Slayer**, con tracción delantera y cabeza giratoria. **Ganador de la categoría rastreadores en Robolid'06**. (Daniel Álvarez y Alberto Calvo) Vídeos: [**Slayer en el CRM**](https://www.youtube.com/watch?v=koTuxa8mScI) ([**otro**](https://www.youtube.com/watch?v=BRsTaI17uao)), [**Slayer en la Campus Party 2008**](https://www.youtube.com/watch?v=QCTAsrCcZpA)  
+* (circa 2005) Rastreador **Slayer**, con tracción delantera y cabeza giratoria. **Ganador de la categoría rastreadores en Robolid'06**. (Daniel Álvarez y Alberto Calvo) Vídeos: [**en el CRM (I)**](https://www.youtube.com/watch?v=koTuxa8mScI), ([**en el CRM (II)**](https://www.youtube.com/watch?v=BRsTaI17uao)), [**en la Campus Party'08**](https://www.youtube.com/watch?v=QCTAsrCcZpA)  
 <img src="robots/200X_Slayer.jpg" width="450"/>  
 
-* (2006) Robot de sumo **Margarita**, **5ª posición en Robolid'06**  
+* (2006) Robot de sumo **Margarita**, **5ª posición en Robolid'06** ([video](https://www.youtube.com/watch?v=l2qdEMfkfEo))  
 ![](robots/2006_Margarita.png)  
 
 * (circa 2004) **Queen-Mary**, otro rastreador que usa CDs como ruedas (Daniel Álvarez y Alberto Calvo). [**Vídeo de Queen Mary en el CRM**](https://www.youtube.com/watch?v=7RbjuzbLHUs)  
 ![](robots/200X_QueenMary.png)  
 
-* (2005) [**Skybot**](http://www.iearobotics.com/wiki/index.php?title=Skybot) (Andrés Prieto-Moreno, Juan González Gómez, Ricardo Gómez)  
+* (2005) [**Skybot**](http://www.iearobotics.com/wiki/index.php?title=Skybot) (Andrés Prieto-Moreno, Juan González Gómez, Ricardo Gómez). Utilizado en multitud de talleres docentes en la Universidad Autónoma de Madrid y en eventos de la Campus Party. Robot antecesor del [**MiniSkyBot**](http://www.thingiverse.com/thing:7989), **el primer robot libre e imprimible del mundo**.  
 ![](robots/2005_SkyBot.png)  
 
-* (2004) **Melanie**, [**Cube Revolutions**](http://www.iearobotics.com/wiki/index.php?title=Cube_Revolutions) y **Papón**  
+* (2004) Hexápodo **Melanie**, [**Cube Revolutions**](http://www.iearobotics.com/wiki/index.php?title=Cube_Revolutions) y **Papón**.  
 ![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/melanie-cube-papon.png)  
 
-* (circa 2004) Queen-Mary y robot anónimo:  
+* (circa 2004) Queen-Mary y robot anónimo. [vídeo de Queen Mary en Hispabot'04](https://www.youtube.com/watch?v=Af-piKdG3yk)  
 ![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/queen-mary.png)  
 
 * (2002) **Mach I**, participante en Alcabot'02 (Antonio Carballo)  
@@ -93,7 +93,7 @@ Arturo, Daniel y Alberto
 
 ## Alcabot 2002
 
-Equipo: Antonio Carballo Anton, Luis Jorge Alloza Román, y Ramón Vazquez Pablo  
+Equipo: Antonio Carballo Anton, Luis Jorge Alloza Román, y Ramón Vazquez Pablo. El robot es el velocista **MACH I**   
 <img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" width="400"/>  
 
 
