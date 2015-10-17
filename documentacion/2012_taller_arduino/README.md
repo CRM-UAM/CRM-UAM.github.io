@@ -32,9 +32,10 @@ Diapositivas:
 
 ----------
 
-Fotos del taller (23-29 mayo 2012)
---
-Día 1:  
+# Fotos del taller (23-29 mayo 2012)
+
+# Día 1
+
 Hector Menendez, ex-presidente del CRM, inspirando a futuros miembros :-)  
 ![](fotos/2012-05-23 15.15.37.jpg)  
 
@@ -44,24 +45,14 @@ Lucas Polo explicando cómo se programa en Arduino:
 ![](fotos/2012-05-24 16.45.11.jpg)  
 
 
-
-
-
-----------
-
-Día 2:  
+# Día 2
 ![](fotos/2012-05-25 16.05.42.jpg)  
 
 Robot Púrpura de Raquel Villena y Mario "Gauss":  
 ![](fotos/2012-05-25 16.44.15.jpg)  
 
 
-
-
-
-----------
-
-Día 3:  
+# Día 3
 ![](fotos/2012-05-28 16.37.20.jpg)  
 
 Álvaro Pérez, Miguel Gargallo y Lucas Polo muy concentrados:  
@@ -69,7 +60,7 @@ Día 3:
 
 ![](fotos/2012-05-28 17.12.32.jpg)  
 
-Raquel Villena, Mario "Gauss" y Púrpura:  
+Raquel Villena y Mario "Gauss" con el robot "Púrpura":  
 ![](fotos/2012-05-28 17.14.19.jpg)  
 
 

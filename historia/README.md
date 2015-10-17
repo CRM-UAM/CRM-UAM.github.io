@@ -40,7 +40,7 @@ Algunos de los robots que han pasado por el CRM
 * (2008) Robot **Johny** para el concurso de robots Lego de la Campus Party 08  
 ![](eventos/200X_CampusParty/2008_CampusParty_Johny_lego.jpg)  
 
-* (circa 2005) Rastreador **Slayer**, con tracción delantera y cabeza giratoria. **Ganador de la categoría rastreadores en Robolid'06**. (Daniel Álvarez y Alberto Calvo) Vídeos: [**en el CRM (I)**](https://www.youtube.com/watch?v=koTuxa8mScI), ([**en el CRM (II)**](https://www.youtube.com/watch?v=BRsTaI17uao)), [**en la Campus Party'08**](https://www.youtube.com/watch?v=QCTAsrCcZpA)  
+* (circa 2005) Rastreador **Slayer**, con tracción delantera y cabeza giratoria. **Ganador de la categoría rastreadores en Robolid'06**. (Daniel Álvarez y Alberto Calvo) Vídeos: [**en el CRM (I)**](https://www.youtube.com/watch?v=koTuxa8mScI), [**en el CRM (II)**](https://www.youtube.com/watch?v=BRsTaI17uao), [**en la Campus Party'08**](https://www.youtube.com/watch?v=QCTAsrCcZpA)  
 <img src="robots/200X_Slayer.jpg" width="450"/>  
 
 * (2006) Robot de sumo **Margarita**, **5ª posición en Robolid'06** ([video](https://www.youtube.com/watch?v=l2qdEMfkfEo))  
