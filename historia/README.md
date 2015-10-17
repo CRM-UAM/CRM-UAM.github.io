@@ -1,16 +1,18 @@
 # Historia del CRM-UAM
 
-El Club de Robótica-Mecatrónica se fundó en 1997 por estudiantes, con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2010) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Alberto Calvo, Daniel Álvarez, Antonio Carballo, [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
+El Club de Robótica-Mecatrónica se fundó en 1997 por estudiantes, con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2010) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo, [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
 (PENDIENTE DE REDACCIÓN)  
 
 Presencia del CRM en eventos frikis
 --
-* (2005-2008) Participación de miembros del CRM en las **Campus Party** [2005](http://www.iearobotics.com/personal/juan/eventos/evento03/), [2006](http://www.iearobotics.com/personal/juan/eventos/evento17/), [2007](http://www.iearobotics.com/blog/2007/07/24/campus-party-2007/), [2008](http://www.iearobotics.com/wiki/index.php?title=Campus_Party_2008) (Andrés Prieto Moreno, Juan González Gómez, Iván González, entre otros)
+* (2005-2008) Participación de miembros del CRM en las **Campus Party** [2005](http://www.iearobotics.com/personal/juan/eventos/evento03/), [2006](http://www.iearobotics.com/personal/juan/eventos/evento17/), [2007](http://www.iearobotics.com/blog/2007/07/24/campus-party-2007/), [2008](http://www.iearobotics.com/wiki/index.php?title=Campus_Party_2008) (Andrés Prieto Moreno, Juan González Gómez, Iván González...)
 
-* (2006) Hispabot 
 * (2006) **ROBOLID'06**: El Club presentó dos robots, Slayer y Margarita. **Slayer ganó en la categoría de Rastreadores y Margarita fue quinto en la categoría de Sumo**. [**resumen en la web de ARDE**](http://www.arde.cc/competiciones/robolid-2006/), [**vídeo de Slayer**](https://www.youtube.com/watch?v=GXij8BVFPP0), [**vídeo de Margarita**](https://www.youtube.com/watch?v=l2qdEMfkfEo)
+
 * (2004) **Concurso Nacional de robots HISPABOT'04**: [**resumen en la web iearobotics**](http://www.iearobotics.com/personal/juan/conferencias/conf14/), [**web Hispabot 04**](http://asimov.depeca.uah.es/alcabot/hispabot2004/), [**vídeo Queen-Mary**](https://www.youtube.com/watch?v=Af-piKdG3yk), [vídeo Slayer](https://www.youtube.com/watch?v=PIP5i6H5zKo), [**vídeo Melanie**](https://www.youtube.com/watch?v=cWKl-8FBR9Y) (UAH. Alcalá de Henares, Abril 2004). Participaron Cube-Revolutions, Queen-Mary, Papón y Melanie. **Ganó los puestos 1º y 2º.**  
+
 * (2002) **III Concurso de microrrobots de la Universidad de Alcalá, ALCABOT'02**: Participaron el rastreador Aragorn (por Luis Jorge Alloza Román y Ramón Vázquez Pablo), el velocista MACH I (por Antonio Carballo) y el sumo Sproket (por Ramón Vázquez Pablo). [**web alcabot**](http://asimov.depeca.uah.es/alcabot/alcabot2002/)
+
 * (1997) **1º Torneo Abierto de Mecatrónica-Robótica de Madrid**: ([**web sumo**](http://robotic-design.mister-i.com/sumo.html), [**web torneo**](http://robotic-design.mister-i.com/torneo.html), [**vídeo**](https://www.youtube.com/watch?v=AXeh6zWayp8)) (Escuela Técnica Superior de Informática, Universidad Autónoma de Madrid, 28 de Octubre de 1997)  
 
 *Estaríamos muy agradecidos de recibir más información (nuevos datos, vídeos, fotografías) o correcciones. Si dispones de ellos, por favor no dudes en [ponerte en contacto](https://groups.google.com/forum/#!forum/crm-uam) con nosotros.*
@@ -19,13 +21,20 @@ Presencia del CRM en eventos frikis
 Algunos de los robots que han pasado por el CRM
 --
 
+* (2013) **Véctor 9000** (Víctor Uceda, Carlos García) Participante en Cosmobot'13, categoría velocistas
+<img src="robots/2013_Vector-9000.jpg" width="450"/>  
+
+* (2012) **HKTR-9000** (Lucas Polo Miguel Gargallo, Carlos García) Utilizado en el [Taller de introducción a la robótica 2012](../documentacion/2012_taller_arduino)
+<img src="robots/2012_HKTR-9000.jpg" width="450"/>  
+
+
 * (2011) **ArduSnake** con cuerpo impreso en 3D (módulos [REPY1](http://www.thingiverse.com/thing:13442)) y electrónica donada por el diseñador Juan González (Obijuan). [**Foto de las piezas**](robots/2012_ArduSnake/2012-04-18 18.51.13_ImpresoraHalconMilenario.jpg) siendo fabricadas por [Halcón Milenario](http://www.reprap.org/wiki/Clone_wars:Impresora_Halc%C3%B3n_Milenario)  
 <img src="robots/2012_ArduSnake/2012-05-03 13.04.02.jpg" width="450"/>  
 
 * (2011) **PolillaBot** (Miguel Gargallo, Lucas Polo, Álvaro Pérez, Carlos Garcia)
 <img src="robots/2011_PolillaBot/polillaBot_1.jpg" width="450"/>  
 
-* (2008) Robot [**FlatBot**](http://www.iearobotics.com/wiki/index.php?title=Robot_FlatBot) (Andrés Prieto-Moreno) Usado en el [Taller FlatBot](http://www.iearobotics.com/wiki/index.php?title=Taller_FlatBot) de la Campus Party 08
+* (2008) Robot [**FlatBot**](http://www.iearobotics.com/wiki/index.php?title=Robot_FlatBot) (Andrés Prieto-Moreno) Utilizado en el [Taller FlatBot](http://www.iearobotics.com/wiki/index.php?title=Taller_FlatBot) de la Campus Party 08
 ![](eventos/200X_CampusParty/2008_CampusParty_FlatBot.jpg)
 
 * (2008) Robot **Johny** para el concurso de robots Lego de la Campus Party 08
