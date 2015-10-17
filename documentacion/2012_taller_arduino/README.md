@@ -4,6 +4,9 @@ En Mayo de 2012, Lucas Polo López, Miguel Gargallo Vázquez y Carlos García Sa
 
 **MEMORIA-RESUMEN DEL TALLER:** [PDF](MEMORIA_ResumenTallerArduino2012.pdf), [ODT](MEMORIA_ResumenTallerArduino2012.odt)  
 
+**VÍDEOS DEL TALLER:** [vídeo 1](https://www.youtube.com/watch?v=4ZO9BoCVn4U), [vídeo 2](https://www.youtube.com/watch?v=QlhNiiyTSb0) (Cámaras y edición Borja Gil Pérez y Carlos García)  
+
+
 ----------
 
 
