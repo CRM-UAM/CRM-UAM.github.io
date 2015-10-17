@@ -5,6 +5,7 @@ El Club de Robótica-Mecatrónica se fundó en 1997 por estudiantes, con gran ap
 
 Presencia del CRM en eventos pasados
 --
+* (2005-2008) Participación de miembros del CRM en las **Campus Party** [2005](http://www.iearobotics.com/personal/juan/eventos/evento03/), [2006](http://www.iearobotics.com/personal/juan/eventos/evento17/), [2007](http://www.iearobotics.com/blog/2007/07/24/campus-party-2007/), 2008 ([a](http://www.iearobotics.com/blog/2008/08/08/resumen-campus-party-2008/), [b](http://www.iearobotics.com/wiki/index.php?title=Campus_Party_2008)) (Andrés Prieto Moreno, Juan González Gómez, Iván González)
 
 * (2006) Hispabot 
 * (2006) **ROBOLID'06**: El Club presentó dos robots, Slayer y Margarita. **Slayer ganó en la categoría de Rastreadores y Margarita fue quinto en la categoría de Sumo**. [**resumen en la web de ARDE**](http://www.arde.cc/competiciones/robolid-2006/), [**vídeo de Slayer**](https://www.youtube.com/watch?v=GXij8BVFPP0), [**vídeo de Margarita**](https://www.youtube.com/watch?v=l2qdEMfkfEo)
@@ -12,7 +13,7 @@ Presencia del CRM en eventos pasados
 * (2002) **III Concurso de microrrobots de la Universidad de Alcalá, ALCABOT'02**: Participaron el rastreador Aragorn (por Luis Jorge Alloza Román y Ramón Vázquez Pablo), el velocista MACH I (por Antonio Carballo) y el sumo Sproket (por Ramón Vázquez Pablo). [**web alcabot**](http://asimov.depeca.uah.es/alcabot/alcabot2002/)
 * (1997) **1º Torneo Abierto de Mecatrónica-Robótica de Madrid**: ([**web sumo**](http://robotic-design.mister-i.com/sumo.html), [**web torneo**](robotic-design.mister-i.com/torneo.html), [**vídeo**](https://www.youtube.com/watch?v=AXeh6zWayp8)) (Escuela Técnica Superior de Informática, Universidad Autónoma de Madrid, 28 de Octubre de 1997)  
 
-
+*Estaríamos muy agradecidos de recibir más información (nuevos datos, vídeos, fotografías) o correcciones. Si dispones de ellos, por favor no dudes en [ponerte en contacto](https://groups.google.com/forum/#!forum/crm-uam) con nosotros.*
 
 
 Algunos de los robots que han pasado por el CRM
@@ -23,6 +24,9 @@ Algunos de los robots que han pasado por el CRM
 
 * (2011) **PolillaBot** (Miguel Gargallo, Lucas Polo, Álvaro Pérez, Carlos Garcia)
 <img src="robots/2011_PolillaBot/polillaBot_1.jpg" width="450"/>  
+
+* (2008) Robot **Johny** para el concurso de robots Lego de la Campus Party 08
+![](eventos/200X_CampusParty/2008_CampusParty_Johny_lego.jpg)  
 
 * (circa 2005) Rastreador **Slayer**, con tracción delantera y cabeza giratoria. **Ganador de la categoría rastreadores en Robolid'06**. (Daniel Álvarez y Alberto Calvo) Vídeos: [**Slayer en el CRM**](https://www.youtube.com/watch?v=koTuxa8mScI) ([**otro**](https://www.youtube.com/watch?v=BRsTaI17uao)), [**Slayer en la Campus Party 2008**](https://www.youtube.com/watch?v=QCTAsrCcZpA)  
 <img src="robots/200X_Slayer.jpg" width="450"/>  
@@ -51,6 +55,15 @@ Algunos de los robots que han pasado por el CRM
 # Fotos de los eventos
 
 
+## Campus Party 2006
+
+Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. Todos los robots de la mesa han salido de la UAM  
+![](eventos/200X_CampusParty/2006_CampusParty_iearobotics_index4_files/miercoles-16-alejandro-andres-frikies.jpg)  
+
+Gedeón Domínguez e Iván González, modelo de frikies :-)  
+![](eventos/200X_CampusParty/2006_CampusParty_iearobotics_index_files/sab-22-gedeon-ivan1.jpg)  
+
+
 ## HISPABOT 2004
 
 UAM-Team:  
@@ -65,10 +78,12 @@ Alberto y Queen-Mary
 Arturo, Daniel y Alberto  
 ![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/arturo-dani-alberto.png)  
 
+
 ## Alcabot 2002
 
 Equipo: Antonio Carballo Anton, Luis Jorge Alloza Román, y Ramón Vazquez Pablo  
 <img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" width="400"/>  
+
 
 
 
