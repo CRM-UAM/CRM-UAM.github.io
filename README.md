@@ -9,5 +9,13 @@ Bienvenido al repositorio principal del Club de Robótica. Si te gusta la robót
 * [Temas administrativos](administrativo)  
 
 
-<img src="logo/logo_crm_transparente_con_sombra.png" width="200" align="right"/>  
+
+
+<table border="0" style="width:100%">
+  <tr>
+    <td><img src="logo/logo-eps.png" width="200" alt="Escuela Politécnica Superior"/></td>
+    <td><img src="logo/logo-uam.png" width="200" alt="Universidad Autónoma de Madrid"/></td>
+    <td><img src="logo/logo_crm_transparente_con_sombra.png" width="200" alt="Club de Robótica-Mecatrónica"/></td>
+  </tr>
+</table>
 
