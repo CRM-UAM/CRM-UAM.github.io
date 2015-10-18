@@ -75,6 +75,8 @@ Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. Todos los robots de
 Gedeón Domínguez e Iván González, modelo de frikis :-)  
 ![](eventos/200X_CampusParty/2006_CampusParty_iearobotics_index_files/sab-22-gedeon-ivan1.jpg)  
 
+[Primer vídeo en YouTube de la Campus Party 2006](https://www.youtube.com/watch?v=ehymwnycVmg) por Gedeón Domínguez (en primer plano, Juan González).  
+
 
 ## HISPABOT 2004
 
