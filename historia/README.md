@@ -1,12 +1,19 @@
 # Historia del CRM-UAM
 
 El Club de Robótica-Mecatrónica fue fundado por estudiantes de la [Universidad Autónoma de Madrid](http://www.uam.es/) en 1997, con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2008) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo e [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
-De 2009 a 2011 fue [Héctor David Ménendez](http://aida.ii.uam.es/researchers/facultystaff/hector-d-menendez) quien tomó las riendas de la asociación, promoviendo multitud de talleres de Arduino e iniciativas tan interesantes como el *Encuentro de Estudiantes por la Ciencia y la Cultura*.
+De 2009 a 2011 fue [Héctor David Ménendez](http://aida.ii.uam.es/researchers/facultystaff/hector-d-menendez) quien tomó las riendas de la asociación, promoviendo multitud de talleres de Arduino e iniciativas tan interesantes como el *Encuentro de Estudiantes por la Ciencia y la Cultura* (organizado junto con [David Camacho Fernández](http://aida.ii.uam.es/researchers/facultystaff/camacho-david)).  
 De 2011 a 2014, los estudiantes Miguel Gargallo, Lucas Polo, Antonio Ortega, Álvaro Pérez y Carlos García
 (PENDIENTE DE REDACCIÓN)  
 
+
+
+
 Presencia del CRM en eventos frikis
 --
+* (2012) **Taller de Arduino con el robot HKTR-9000** organizado por Lucas Polo, Miguel Gargallo y Carlos García. Vinieron 20 estudiantes y se construyeron cinco robots capaces de seguir líneas y esquivar obstáculos. [más información](../documentacion/2012_taller_arduino), [vídeo 1](https://www.youtube.com/watch?v=4ZO9BoCVn4U), [vídeo 2](https://www.youtube.com/watch?v=QlhNiiyTSb0)  
+
+* (2011) El CRM y el [Club de Informática](http://uam.es/cdi) cooperan en el **Encuentro de Estudiantes por la Ciencia y la Cultura**. Fue organizado por David Camacho y Héctor Ménendez y tuvo un gran éxito entre los estudiantes (~80 personas). Además de las charlas educativas, destacaron los talleres de construcción de cohetes y de papiroflexia. *Escuela Politécnica Superior, 4-8 de Julio de 2011*. [noticia en la web de la UAM](http://www.uam.es/ss/Satellite/es/1242652866332/1242655953936/cursocortaduracion/cursoCortaDuracion/Encuentro_de_Estudiantes_por_la_Ciencia_y_la_Cultura.htm)  
+
 * (2005-2008) Participación de miembros del CRM en las **Campus Party** [2005](http://www.iearobotics.com/personal/juan/eventos/evento03/), [2006](http://www.iearobotics.com/personal/juan/eventos/evento17/), [2007](http://www.iearobotics.com/blog/2007/07/24/campus-party-2007/), [2008](http://www.iearobotics.com/wiki/index.php?title=Campus_Party_2008) (Andrés Prieto Moreno, Juan González Gómez, Iván González...). El robot Slayer llegó a las semifinales del concurso de velocistas de la Campus Party 2008 ([vídeo](https://www.youtube.com/watch?v=QCTAsrCcZpA))  
 
 * (2006) **ROBOLID'06**: El Club presentó dos robots, Slayer y Margarita. **Slayer ganó en la categoría de Rastreadores y Margarita fue quinto en la categoría de Sumo**. [**resumen en la web de ARDE**](http://www.arde.cc/competiciones/robolid-2006/), [**vídeo de Slayer**](https://www.youtube.com/watch?v=GXij8BVFPP0), [**vídeo de Margarita**](https://www.youtube.com/watch?v=l2qdEMfkfEo)  
