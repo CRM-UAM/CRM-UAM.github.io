@@ -1,6 +1,8 @@
 # Historia del CRM-UAM
 
-El Club de Robótica-Mecatrónica fue fundado por estudiantes de la [Universidad Autónoma de Madrid](http://www.uam.es/) en 1997, con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2010) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo, [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
+El Club de Robótica-Mecatrónica fue fundado por estudiantes de la [Universidad Autónoma de Madrid](http://www.uam.es/) en 1997, con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2008) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo e [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
+De 2009 a 2011 fue [Héctor David Ménendez](http://aida.ii.uam.es/researchers/facultystaff/hector-d-menendez) quien tomó las riendas de la asociación, promoviendo multitud de talleres de Arduino e iniciativas tan interesantes como el *Encuentro de Estudiantes por la Ciencia y la Cultura*.
+De 2011 a 2014, los estudiantes Miguel Gargallo, Lucas Polo, Antonio Ortega, Álvaro Pérez y Carlos García
 (PENDIENTE DE REDACCIÓN)  
 
 Presencia del CRM en eventos frikis
@@ -24,8 +26,8 @@ Algunos de los robots que han pasado por el CRM
 * (2013) **Véctor 9000** (Víctor Uceda, Carlos García) Participante en Cosmobot'13, categoría velocistas. [**vídeo**](https://www.youtube.com/watch?v=wgSMBDEtGO0)  
 <img src="robots/2013_Vector-9000.jpg" width="450"/>  
 
-* (2012) **HKTR-9000** (Lucas Polo Miguel Gargallo, Carlos García) Utilizado en el [Taller de introducción a la robótica 2012](../documentacion/2012_taller_arduino)  
-<img src="robots/2012_HKTR-9000.jpg" width="450"/>  
+* (2012) **HKTR-9000** (Lucas Polo, Miguel Gargallo, Carlos García) Diseñado a partir del PolillaBot y utilizado en el [Taller de introducción a la robótica 2012](../documentacion/2012_taller_arduino). El nombre HKTR (*Héctor*) es en honor de Héctor Ménendez, ex-presidente del CRM-UAM.  
+<img src="robots/2012_HKTR-9000/2012_HKTR-9000.jpg" width="450"/>  
 
 
 * (2011) **ArduSnake** con cuerpo impreso en 3D (módulos [REPY1](http://www.thingiverse.com/thing:13442)) y electrónica donada por el diseñador Juan González (Obijuan). [**Foto de las piezas**](robots/2012_ArduSnake/2012-04-18 18.51.13_ImpresoraHalconMilenario.jpg) siendo fabricadas por [Halcón Milenario](http://www.reprap.org/wiki/Clone_wars:Impresora_Halc%C3%B3n_Milenario)  

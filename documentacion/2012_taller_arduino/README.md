@@ -66,7 +66,31 @@ Robot "Púrpura" de Raquel Villena y Mario "Gauss":
 Raquel Villena y Mario "Gauss" con el robot "Púrpura":  
 <img src="fotos/2012-05-28 17.14.19.jpg" width="450"/>  
 
+Los cinco HKTR-9000 construidos en el taller:  
+<img src="fotos/2012-05-28 14.29.29.jpg" width="450"/>  
 
 ----------
 
+
+
+# Preparación del taller
+
+Para el taller diseñamos el HKTR-9000 (a la izquierda) basándonos en el PolillaBot (a la derecha)  
+<img src="fotos/setupTaller/2012-05-23 19.06.47.jpg" width="450"/>  
+
+Diseñamos las PCBs (CRM-Shield para Arduino) usando KiCad, y las fabricamos mediante el método de ataque con cloruro férrico:  
+<img src="fotos/setupTaller/2012-05-17 17.15.44.jpg" width="450"/>  
+<img src="fotos/setupTaller/2012-05-17 17.17.11.jpg" width="450"/>  
+
+Aquí se ve cómo eliminamos el tóner negro que protegía las pistas de cobre durante el proceso:  
+<img src="fotos/setupTaller/2012-05-17 18.05.14.jpg" width="450"/>  
+
+Realización de taladros:  
+<img src="fotos/setupTaller/2012-05-18 18.17.46.jpg" width="450"/>  
+
+Soldadura de la PCB con los sensores de línea infrarrojos CNY70:  
+<img src="fotos/setupTaller/2012-05-18 19.12.32.jpg" width="450"/>  
+
+Montando uno de los robots de prueba:  
+<img src="fotos/setupTaller/2012-05-18 19.20.34.jpg" width="450"/>  
 
