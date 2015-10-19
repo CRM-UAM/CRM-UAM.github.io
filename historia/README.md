@@ -79,11 +79,13 @@ Algunos de los robots que han pasado por el CRM
 
 
 
-# Fotos de los eventos
+Fotos de los eventos
+--
 
+Algunas fotos de los eventos frikis en los que ha participado el CRM
 
-## Campus Party 2006
-
+Campus Party 2006
+==
 Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. Todos los robots de la mesa han salido de la UAM. [**Vídeo de la oruga Benita (construida en 1996)**](https://www.youtube.com/watch?v=5pRC8NfJ7X0)  
 ![](eventos/200X_CampusParty/2006_CampusParty_iearobotics_index4_files/miercoles-16-alejandro-andres-frikies.jpg)  
 
@@ -93,8 +95,8 @@ Gedeón Domínguez e Iván González, modelo de frikis :-)
 [Primer vídeo en YouTube de la Campus Party 2006](https://www.youtube.com/watch?v=ehymwnycVmg) por Gedeón Domínguez (en primer plano, Juan González).  
 
 
-## HISPABOT 2004
-
+HISPABOT 2004
+==
 UAM-Team: En la derecha están Alejandro, Juan, el grupo Papón, Ramón y Cristina que se pasaron para ver el concurso (ellos participaron el año anterior, también en la prueba libre). En la parte inferior de la foto se ven los robots robot Hexápodo Melanie , Cube Revolutions y Papón.  
 ![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/uam-team.png)  
 
@@ -108,8 +110,8 @@ Arturo, Daniel y Alberto
 ![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/arturo-dani-alberto.png)  
 
 
-## Alcabot 2002
-
+Alcabot 2002
+==
 Equipo: Antonio Carballo Anton, Luis Jorge Alloza Román, y Ramón Vazquez Pablo. El robot es el velocista **MACH I**   
 <img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" width="400"/>  
 
