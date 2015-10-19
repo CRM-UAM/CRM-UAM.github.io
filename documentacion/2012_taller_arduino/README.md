@@ -1,4 +1,9 @@
-# Taller de introducción a la robótica con el robot HKTR-9000
+---
+layout: page
+title: Taller de introducción a la robótica con el robot HKTR-9000
+permalink: /documentacion/2012_taller_arduino/
+---
+
 
 En Mayo de 2012, Lucas Polo López, Miguel Gargallo Vázquez y Carlos García Saura organizamos desde el Club de Robótica y Mecatrónica un taller de iniciación a la robótica, para el cual necesitamos diseñar un printbot usando los componentes de los que ya disponíamos: el HKTR-9000  
 

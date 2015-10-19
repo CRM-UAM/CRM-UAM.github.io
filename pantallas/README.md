@@ -1,4 +1,8 @@
-# Publicidad en las pantallas de la EPS
+---
+layout: page
+title: Publicidad en las pantallas de la EPS
+permalink: /pantallas/
+---
 
 
 Plantillas para promocionar los eventos del club con "spamming" del bueno :-)  

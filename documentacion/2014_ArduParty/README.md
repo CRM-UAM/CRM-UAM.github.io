@@ -1,4 +1,8 @@
-# ArduParty 2014 con material de bq
+---
+layout: page
+title: ArduParty 2014 con material de bq
+permalink: /documentacion/2014_ArduParty/
+---
 
 
 Fotos del taller (23-29 mayo 2012)

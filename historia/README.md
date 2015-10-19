@@ -1,7 +1,13 @@
-# Historia del CRM-UAM
+---
+layout: page
+title: Historia del CRM-UAM
+permalink: /historia/
+---
 
 El Club de Robótica-Mecatrónica fue fundado por estudiantes de la [Universidad Autónoma de Madrid](http://www.uam.es/) en 1997, con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2008) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo e [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
+
 De 2009 a 2011 fue [Héctor David Ménendez](http://aida.ii.uam.es/researchers/facultystaff/hector-d-menendez) quien tomó las riendas de la asociación, promoviendo multitud de talleres de Arduino e iniciativas tan interesantes como el *Encuentro de Estudiantes por la Ciencia y la Cultura* (organizado junto con [David Camacho Fernández](http://aida.ii.uam.es/researchers/facultystaff/camacho-david)).  
+
 De 2011 a 2014, los estudiantes Miguel Gargallo, Lucas Polo, Antonio Ortega, Álvaro Pérez y Carlos García
 (PENDIENTE DE REDACCIÓN)  
 

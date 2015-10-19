@@ -1,4 +1,9 @@
-# Documentación de proyectos y eventos del CRM-UAM
+---
+layout: page
+title: Documentación de proyectos y eventos
+permalink: /documentacion/
+---
+
 
 * (2014) [**ArduParty 2014 con material de bq**](2014_ArduParty)  
 * (2012) [**Taller de introducción a la robótica con el robot HKTR-9000**](2012_taller_arduino)  

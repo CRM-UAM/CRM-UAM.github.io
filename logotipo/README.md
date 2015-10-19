@@ -1,6 +1,8 @@
-# Logo oficial del Club de Robótica y Mecatrónica
-
-
+---
+layout: page
+title: Logotipo oficial
+permalink: /logotipo/
+---
 
 
 Para presentaciones
@@ -31,9 +33,9 @@ Ficheros ([PDF](chapas/logo_crm_chapas.pdf), [ODG](chapas/logo_crm_chapas.odg)) 
 
 
 
-Origen del logo
+Origen del logotipo
 ==
-Aunque desconocemos el autor original del logo, sabemos que se basó en la siguiente obra de la colección [**"animals"**](http://www.russianpaintings.net/russian_paintings.vphp?author=971&sort=size) del ilustrador japonés [**Hajime Sorayama**](https://en.wikipedia.org/wiki/Hajime_Sorayama):  
+Aunque desconocemos el autor original del logotipo, sabemos que se basó en la siguiente obra de la colección [**"animals"**](http://www.russianpaintings.net/russian_paintings.vphp?author=971&sort=size) del ilustrador japonés [**Hajime Sorayama**](https://en.wikipedia.org/wiki/Hajime_Sorayama):  
 <img src="animal_n15_Hajime_Sorayama.jpg" width="250"/>  
 *Animal. #15* by Hajime Sorayama  
 
