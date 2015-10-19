@@ -12,3 +12,5 @@ markdown: kramdown
 gems:
   - jekyll-redirect-from
 
+permalink: /blog/:year/:month/:day/:title.html
+
