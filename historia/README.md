@@ -30,7 +30,7 @@ Presencia del CRM en eventos frikis
 
 * (1997) **1º Torneo Abierto de Mecatrónica-Robótica de Madrid**: ([**web sumo**](http://robotic-design.mister-i.com/sumo.html), [**web torneo**](http://robotic-design.mister-i.com/torneo.html), [**vídeo torneo**](https://www.youtube.com/watch?v=ug1Dt8B3yGs), [**vídeo sumo**](https://www.youtube.com/watch?v=AXeh6zWayp8)) (Escuela Técnica Superior de Informática, Universidad Autónoma de Madrid, 28 de Octubre de 1997)  
 
-*Estaríamos muy agradecidos de recibir más información (nuevos datos, vídeos, fotografías) o correcciones. Si dispones de ellos, por favor no dudes en [ponerte en contacto](https://groups.google.com/forum/#!forum/crm-uam) con nosotros.*  
+*Estaríamos muy agradecidos de recibir más información (nuevos datos, vídeos, fotografías) o correcciones. Si dispones de ellos, por favor no dudes en [ponerte en contacto](/contacto) con nosotros.*  
 
 
 Algunos de los robots que han pasado por el CRM
