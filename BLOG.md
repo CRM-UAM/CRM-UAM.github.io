@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
+title: Entradas del blog
+permalink: /blog/
 ---
 
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
