@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-Bienvenid@ a la web principal del Club de Robótica y Mecatrónica de la [**Escuela Politécnica Superior**](http://www.eps.uam.es/) de la [**Universidad Autónoma de Madrid**](http://www.uam.es/).  
+Bienvenid@ a la web oficial del Club de Robótica y Mecatrónica de la [**Escuela Politécnica Superior**](http://www.eps.uam.es/) de la [**Universidad Autónoma de Madrid**](http://www.uam.es/).  
 
 * [**Historia del CRM-UAM**](/historia)  
 * [**Documentación de proyectos y eventos**](/documentacion)  
