@@ -29,6 +29,8 @@ Logos muy comprimidos, con fondo transparente:
 <img src="logo_crm-32x32.png"/>
 <img src="logo_crm-16x16.png"/>
 
+Favicon (múltiples resoluciones): [favicon.ico](/favicon.ico)  
+
 
 
 Para fabricar chapas
