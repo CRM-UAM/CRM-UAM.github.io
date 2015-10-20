@@ -8,28 +8,24 @@ permalink: /logotipo/
 Para presentaciones
 ==
 Logo en PNG, transparente con el borde sombreado en blanco:  
-<img src="logo_crm_transparente_con_sombra.png" width="100"/>  
-
+<a href="logo_crm_transparente_con_sombra.png"><img src="logo_crm_transparente_con_sombra.png" width="100"/></a>  
 
 
 
 Para documentos de texto
 ==
-Logo en JPEG:
-<img src="logo_crm_fondoBlanco.jpg" width="50"/>  
-
-Logo en PNG, con el fondo transparente:
-<img src="logo_crm_transparente.png" width="50"/>  
+[Logo en JPEG](logo_crm_fondoBlanco.jpg)  
+[Logo en PNG, fondo transparente sin sombra](logo_crm_transparente.png)  
 
 
 Para la web
 ==
-Logos muy comprimidos, con fondo transparente:
-<img src="logo_crm-192x192.png" width="50"/>
-<img src="logo_crm-32x32.png"/>
-<img src="logo_crm-16x16.png"/>
-
-Favicon (múltiples resoluciones): [favicon.ico](/favicon.ico)  
+Logos muy comprimidos, con fondo transparente:  
+[16px](logo_crm-16x16.png),
+[32px](logo_crm-32x32.png),
+[64px](logo_crm-64x64.png),
+[192px](logo_crm-192x192.png),
+[.ico {16,32,48,64}px](/favicon.ico)  
 
 
 
