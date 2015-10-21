@@ -24,6 +24,7 @@ Fotos del taller (23-29 mayo 2012)
 
 <img src="fotos/2014-09-19 14.12.29.jpg" width="450"/>  
 
+Organizadores: Pablo Moreno, Miguel Rodríguez, Carlos García y Víctor Uceda  
 <img src="fotos/2014-09-19 14.32.52.jpg" width="450"/>  
 
 
