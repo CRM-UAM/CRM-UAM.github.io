@@ -116,5 +116,5 @@ Equipo: Antonio Carballo Anton, Luis Jorge Alloza Román, y Ramón Vazquez Pablo
 <img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" width="400"/>  
 
 
-
+*¿Algún link roto? (webs, fotos, vídeos, etc). Recupéralo en [nuestro archivo](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/historia) y [avísanos](http://crm-uam.github.io/contacto).*  
 
