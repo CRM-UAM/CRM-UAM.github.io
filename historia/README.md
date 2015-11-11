@@ -11,14 +11,13 @@ De 2009 a 2011 fue [Héctor David Ménendez](http://aida.ii.uam.es/researchers/f
 De 2011 a 2014, los estudiantes Miguel Gargallo, Lucas Polo, Antonio Ortega, Álvaro Pérez y Carlos García
 (PENDIENTE DE REDACCIÓN)  
 
+Las actividades que organiza el club pueden encontrarse en la sección [actividades](../actividades).  
 
-
-
-Presencia del CRM en eventos frikis
+Presencia del Club de Robótica en eventos frikis
 --
-* (2012) **Taller de Arduino con el robot HKTR-9000** organizado por Lucas Polo, Miguel Gargallo y Carlos García. Vinieron 20 estudiantes y se construyeron cinco robots capaces de seguir líneas y esquivar obstáculos. [más información](../documentacion/2012_taller_arduino), [vídeo 1](https://www.youtube.com/watch?v=4ZO9BoCVn4U), [vídeo 2](https://www.youtube.com/watch?v=QlhNiiyTSb0)  
+* (2015) Participación del robot [CRMaze](https://github.com/CRM-UAM/CRMaze) (de Víctor Uceda y Carlos García) en el concurso de Laberinto de la [**Open Source Hardware Demonstration (OSHWDem 2015)**](http://oshwdem.org/category/ediciones-anteriores/oshwdem-2015/). *Domus de A Coruña, 7 de Noviembre de 2015*  
 
-* (2011) El CRM y el [Club de Informática](http://uam.es/cdi) cooperan en el **Encuentro de Estudiantes por la Ciencia y la Cultura**. Fue organizado por David Camacho y Héctor Ménendez y tuvo un gran éxito entre los estudiantes (~80 personas). Además de las charlas educativas, destacaron los talleres de construcción de cohetes y de papiroflexia. *Escuela Politécnica Superior, 4-8 de Julio de 2011*. [noticia en la web de la UAM](http://www.uam.es/ss/Satellite/es/1242652866332/1242655953936/cursocortaduracion/cursoCortaDuracion/Encuentro_de_Estudiantes_por_la_Ciencia_y_la_Cultura.htm)  
+* (2013) Participación del robot Véctor 9000 (de Víctor Uceda y Carlos García) en la categoría Velocistas de **Cosmobot 2013**. *Museo de la Ciencia de Alcobendas, 3 de Marzo de 2013*  
 
 * (2005-2008) Participación de miembros del CRM en las **Campus Party** [2005](http://www.iearobotics.com/personal/juan/eventos/evento03/), [2006](http://www.iearobotics.com/personal/juan/eventos/evento17/), [2007](http://www.iearobotics.com/blog/2007/07/24/campus-party-2007/), [2008](http://www.iearobotics.com/wiki/index.php?title=Campus_Party_2008) (Andrés Prieto Moreno, Juan González Gómez, Iván González...). El robot Slayer llegó a las semifinales del concurso de velocistas de la Campus Party 2008 ([vídeo](https://www.youtube.com/watch?v=QCTAsrCcZpA))  
 
@@ -30,7 +29,7 @@ Presencia del CRM en eventos frikis
 
 * (1997) **1º Torneo Abierto de Mecatrónica-Robótica de Madrid**: ([**web sumo**](http://robotic-design.mister-i.com/sumo.html), [**web torneo**](http://robotic-design.mister-i.com/torneo.html), [**vídeo torneo**](https://www.youtube.com/watch?v=ug1Dt8B3yGs), [**vídeo sumo**](https://www.youtube.com/watch?v=AXeh6zWayp8)) (Escuela Técnica Superior de Informática, Universidad Autónoma de Madrid, 28 de Octubre de 1997)  
 
-*Estaríamos muy agradecidos de recibir más información (nuevos datos, vídeos, fotografías) o correcciones. Si dispones de ellos, por favor no dudes en [ponerte en contacto](/contacto) con nosotros.*  
+
 
 
 Algunos de los robots que han pasado por el CRM
@@ -39,7 +38,7 @@ Algunos de los robots que han pasado por el CRM
 * (2013) **Véctor 9000** (Víctor Uceda, Carlos García) Participante en Cosmobot'13, categoría velocistas. [**vídeo**](https://www.youtube.com/watch?v=wgSMBDEtGO0)  
 <img src="robots/2013_Vector-9000.jpg" width="450"/>  
 
-* (2012) **HKTR-9000** (Lucas Polo, Miguel Gargallo, Carlos García) Diseñado a partir del PolillaBot y utilizado en el [Taller de introducción a la robótica 2012](../documentacion/2012_taller_arduino). El nombre HKTR (*Héctor*) es en honor de Héctor Ménendez, ex-presidente del CRM-UAM.  
+* (2012) **HKTR-9000** (Lucas Polo, Miguel Gargallo, Carlos García) Diseñado a partir del PolillaBot y utilizado en el [Taller de introducción a la robótica 2012](../actividades/2012_taller_arduino). El nombre HKTR (*Héctor*) es en honor de Héctor Ménendez, ex-presidente del CRM-UAM.  
 <img src="robots/2012_HKTR-9000/2012_HKTR-9000.jpg" width="450"/>  
 
 
@@ -115,6 +114,9 @@ Alcabot 2002
 Equipo: Antonio Carballo Anton, Luis Jorge Alloza Román, y Ramón Vazquez Pablo. El robot es el velocista **MACH I**   
 <img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" width="400"/>  
 
+<br/>
 
-*¿Algún link roto? (webs, fotos, vídeos, etc). Recupéralo en [nuestro archivo](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/historia) y [avísanos](http://crm-uam.github.io/contacto).*  
+*¿Algún link roto? (webs, fotos, vídeos, etc). Recupéralo en [nuestro archivo](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/historia) y [avísanos](../contacto).*  
+
+*Estaríamos muy agradecidos de recibir más información (nuevos datos, vídeos, fotografías) o correcciones. Si dispones de ellos, por favor no dudes en [ponerte en contacto](../contacto) con nosotros.*  
 

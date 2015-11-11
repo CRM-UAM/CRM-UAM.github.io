@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Taller de introducción a la robótica con el robot HKTR-9000
-permalink: /documentacion/2012_taller_arduino/
+permalink: /actividades/2012_taller_arduino/
 ---
 
 
