@@ -22,6 +22,4 @@ Diseñadas por Lucas Polo, Víctor Uceda y Carlos García
 
 <img src="2014_Cartel_ArduParty.png" width="200"/>  
 
-<img src="Metal_Texture_PLUS_Metal_Grid.jpg" width="200"/>  
-
 
