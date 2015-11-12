@@ -6,7 +6,7 @@ permalink: /actividades/
 
 * (2014) [**ArduParty 2014**](2014_ArduParty), taller organizado por Víctor Uceda, Carlos García, Pablo Moreno y Miguel Rodríguez. *Escuela Politécnica Superior, 19 de Septiembre de 2014*  
 
-* (2013) **Taller de iniciación a OpenScad** organizado por Carlos García. *Escuela Politécnica Superior, 3 de Octubre de 2013*. [más información](https://github.com/carlosgs/tutorial-OpenScad)  
+* (2013) [**Taller de iniciación a OpenScad**](https://github.com/carlosgs/tutorial-OpenScad) organizado por Carlos García. *Escuela Politécnica Superior, 3 de Octubre de 2013*  
 
 * (2012) [**Taller de introducción a la robótica con el robot HKTR-9000**](2012_taller_arduino) organizado por Lucas Polo, Miguel Gargallo y Carlos García. Vinieron 20 estudiantes y se construyeron cinco robots capaces de seguir líneas y esquivar obstáculos. [vídeo 1](https://www.youtube.com/watch?v=4ZO9BoCVn4U), [vídeo 2](https://www.youtube.com/watch?v=QlhNiiyTSb0)  
 
