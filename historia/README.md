@@ -4,14 +4,52 @@ title: Historia del CRM-UAM
 permalink: /historia/
 ---
 
-El Club de Robótica-Mecatrónica fue fundado por estudiantes de la [Universidad Autónoma de Madrid](http://www.uam.es/) en 1997, con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2008) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo e [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
+El Club de Robótica-Mecatrónica (CRM) fue fundado en 1997 por estudiantes de la [Universidad Autónoma de Madrid](http://www.uam.es/), con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2008) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo e [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
 
-De 2009 a 2011 fue [Héctor David Ménendez](http://aida.ii.uam.es/researchers/facultystaff/hector-d-menendez) quien tomó las riendas de la asociación, promoviendo multitud de talleres de Arduino e iniciativas tan interesantes como el *Encuentro de Estudiantes por la Ciencia y la Cultura* (organizado junto con [David Camacho Fernández](http://aida.ii.uam.es/researchers/facultystaff/camacho-david)).  
+De 2009 a 2011 fue [Héctor David Ménendez](http://aida.ii.uam.es/researchers/facultystaff/hector-d-menendez) quien tomó las riendas de la asociación, reabriendo el club y promoviendo multitud de talleres de Arduino e iniciativas tan interesantes como el *Encuentro de Estudiantes por la Ciencia y la Cultura* (organizado junto con [David Camacho Fernández](http://aida.ii.uam.es/researchers/facultystaff/camacho-david)).  
 
-De 2011 a 2014, los estudiantes Miguel Gargallo, Lucas Polo, Antonio Ortega, Álvaro Pérez y Carlos García
-(PENDIENTE DE REDACCIÓN)  
+Desde entonces el CRM-UAM lo han administrado las siguientes juntas directivas:  
 
-Las actividades que organiza el club pueden encontrarse en la sección [actividades](../actividades).  
+<table border="1px" width="100%">
+  <tr>
+    <th>Curso</th>
+    <th>Presidente</th>
+    <th>Vice-pres.</th>
+    <th>Secretario</th>
+    <th>Tesorero</th>
+    <th>Vocales</th>
+  </tr>
+  <tr>
+    <td><i>2012-13</i></td>
+    <td>Miguel Gargallo</td> <!--Presidente-->
+    <td><a href="http://lucaspolo.eu">Lucas Polo</a></td> <!--Vice-presidente-->
+    <td>Antonio Ortega</td> <!--Secretario-->
+    <td>Antonio Ortega</td> <!--Tesorero-->
+    <td>Álvaro Pérez<br/>Carlos García</td> <!--Vocales-->
+  </tr>
+  <tr>
+    <td><i>2013-14</i></td>
+    <td>Miguel Gargallo</td> <!--Presidente-->
+    <td>Carlos García</td> <!--Vice-presidente-->
+    <td>Pablo Molins</td> <!--Secretario-->
+    <td>Víctor Uceda</td> <!--Tesorero-->
+    <td></td> <!--Vocales-->
+  </tr>
+  <tr>
+    <td><i>2014-15</i></td>
+    <td>Víctor Uceda</td> <!--Presidente-->
+    <td>Rodrigo Jiménez</td> <!--Vice-presidente-->
+    <td>Cristina Kasner</td> <!--Secretario-->
+    <td>Guillermo Ruíz</td> <!--Tesorero-->
+    <td></td> <!--Vocales-->
+  </tr>
+</table>
+<br/>
+
+A pesar de ser una asociación gestionada por estudiantes, **el Club de Robótica-Mecatrónica apoya a cualquier miembro de la comunidad universitaria que quiera llevar a cabo proyectos relacionados con la robótica**.
+Es decir, tanto estudiantes como profesores pueden inscribirse y así disponer de un espacio de trabajo agradable con herramientas de uso común (impresoras 3D, soldadores, sierras, alicates, destornilladores, etc) así como los materiales necesarios (cables, componentes, motores, baterías, etc). También disponemos de un [foro](../contacto) donde ayudarnos unos a otros.
+
+Además el club organiza periódicamente diversas [actividades](../actividades) para fomentar la robótica entre los estudiantes.  
 
 Presencia del Club de Robótica en eventos frikis
 --
@@ -35,86 +73,98 @@ Presencia del Club de Robótica en eventos frikis
 Algunos de los robots que han pasado por el CRM
 --
 
-* (2013) **Véctor 9000** (Víctor Uceda, Carlos García) Participante en Cosmobot'13, categoría velocistas. [**vídeo**](https://www.youtube.com/watch?v=wgSMBDEtGO0)  
-<img src="robots/2013_Vector-9000.jpg" width="450"/>  
+* (2013) **Véctor 9000** (Víctor Uceda, Carlos García) Participante en Cosmobot'13, categoría velocistas. *La categoría velocistas consiste en trazar en el suelo una línea cerrada que deben seguir los robots. Gana el robot que complete el recorrido en el menor tiempo posible*. [**vídeo**](https://www.youtube.com/watch?v=wgSMBDEtGO0)  
+<center><img src="robots/2013_Vector-9000.jpg" width="40%"/></center><br/>
 
-* (2012) **HKTR-9000** (Lucas Polo, Miguel Gargallo, Carlos García) Diseñado a partir del PolillaBot y utilizado en el [Taller de introducción a la robótica 2012](../actividades/2012_taller_arduino). El nombre HKTR (*Héctor*) es en honor de Héctor Ménendez, ex-presidente del CRM-UAM.  
-<img src="robots/2012_HKTR-9000/2012_HKTR-9000.jpg" width="450"/>  
+* (2012) **HKTR-9000** (Lucas Polo, Miguel Gargallo, Carlos García) Diseñado a partir del PolillaBot y utilizado en el [Taller de introducción a la robótica 2012](../actividades/2012_taller_arduino). El nombre HKTR (*Héctor*) es en honor de Héctor Ménendez, ex-presidente del CRM-UAM. *El HKTR-9000 dispone de sensores de línea, de luz, y de distancia, así como LEDs y un altavoz. De este modo se puede programar para seguir fuentes luminosas, esquivar obstáculos y seguir una línea trazada en el suelo.*  
+<center><img src="robots/2012_HKTR-9000/2012_HKTR-9000.jpg" width="40%"/></center><br/>
 
 
-* (2011) **ArduSnake** con cuerpo impreso en 3D (módulos [REPY1](http://www.thingiverse.com/thing:13442)) y electrónica donada por el diseñador Juan González (Obijuan). [**Foto de las piezas**](robots/2012_ArduSnake/2012-04-18 18.51.13_ImpresoraHalconMilenario.jpg) siendo fabricadas por [Halcón Milenario](http://www.reprap.org/wiki/Clone_wars:Impresora_Halc%C3%B3n_Milenario)  
-<img src="robots/2012_ArduSnake/2012-05-03 13.04.02.jpg" width="450"/>  
+* (2011) **ArduSnake**, un robot modular de tipo "serpiente" con el cuerpo impreso en 3D (módulos [REPY1](http://www.thingiverse.com/thing:13442)) y electrónica donada por el diseñador Juan González (Obijuan). [**Foto de las piezas**](robots/2012_ArduSnake/2012-04-18 18.51.13_ImpresoraHalconMilenario.jpg) siendo fabricadas por [Halcón Milenario](http://www.reprap.org/wiki/Clone_wars:Impresora_Halc%C3%B3n_Milenario)  
+<center><img src="robots/2012_ArduSnake/2012-05-03 13.04.02.jpg" width="40%"/></center><br/>
 
-* (2011) **PolillaBot** (Miguel Gargallo, Lucas Polo, Álvaro Pérez, Carlos Garcia)  
-<img src="robots/2011_PolillaBot/polillaBot_1.jpg" width="450"/>  
+* (2011) **PolillaBot** (Miguel Gargallo, Lucas Polo, Álvaro Pérez, Carlos Garcia). *Éste robot nos sirvió de iniciación a los sensores de luz, su función era dirigirse hacia las fuentes luminosas situadas a su alrededor*  
+<center><img src="robots/2011_PolillaBot/polillaBot_1.jpg" width="40%"/></center><br/>
 
-* (2008) Robot [**FlatBot**](http://www.iearobotics.com/wiki/index.php?title=Robot_FlatBot) (Andrés Prieto-Moreno) Utilizado en el [Taller FlatBot](http://www.iearobotics.com/wiki/index.php?title=Taller_FlatBot) de la Campus Party 08  
-![](eventos/200X_CampusParty/2008_CampusParty_FlatBot.jpg)  
+* (2008) Robot [**FlatBot**](http://www.iearobotics.com/wiki/index.php?title=Robot_FlatBot) (Andrés Prieto-Moreno). Utilizado en el [Taller FlatBot](http://www.iearobotics.com/wiki/index.php?title=Taller_FlatBot) de la Campus Party 08. *Como puede apreciarse, se trata de una plataforma móvil donde situar un ordenador portátil a modo de "cerebro" controlador del robot*  
+<center><img src="eventos/200X_CampusParty/2008_CampusParty_FlatBot.jpg" width="80%"/></center><br/>
 
 * (2008) Robot **Johny** para el concurso de robots Lego de la Campus Party 08  
-![](eventos/200X_CampusParty/2008_CampusParty_Johny_lego.jpg)  
+<center><img src="eventos/200X_CampusParty/2008_CampusParty_Johny_lego.jpg" width="40%"/></center><br/>
 
 * (circa 2005) Rastreador **Slayer**, con tracción delantera y cabeza giratoria. **Ganador de la categoría rastreadores en Robolid'06**. (Daniel Álvarez y Alberto Calvo) Vídeos: [**en el CRM (I)**](https://www.youtube.com/watch?v=koTuxa8mScI), [**en el CRM (II)**](https://www.youtube.com/watch?v=BRsTaI17uao), [**en la Campus Party'08**](https://www.youtube.com/watch?v=QCTAsrCcZpA)  
-<img src="robots/200X_Slayer.jpg" width="450"/>  
+<center><img src="robots/200X_Slayer.jpg" width="40%"/></center><br/>
 
-* (2006) Robot de sumo **Margarita**, **5ª posición en Robolid'06** ([video](https://www.youtube.com/watch?v=l2qdEMfkfEo))  
-![](robots/2006_Margarita.png)  
+* (2006) Robot de sumo **Margarita**, **5ª posición en Robolid'06**. *El objetivo de la categoría "sumo" es expulsar al robot contrincante del ring*. ([video](https://www.youtube.com/watch?v=l2qdEMfkfEo))  
+<center><img src="robots/2006_Margarita.png" width="40%"/></center><br/>
 
 * (circa 2004) **Queen-Mary**, otro rastreador que usa CDs como ruedas (Daniel Álvarez y Alberto Calvo). [**Vídeo de Queen Mary en el CRM**](https://www.youtube.com/watch?v=7RbjuzbLHUs)  
-![](robots/200X_QueenMary.png)  
+<center><img src="robots/200X_QueenMary.png" width="40%"/></center><br/>
 
 * (2005) [**Skybot**](http://www.iearobotics.com/wiki/index.php?title=Skybot) (Andrés Prieto-Moreno, Juan González Gómez, Ricardo Gómez). Utilizado en multitud de talleres docentes en la Universidad Autónoma de Madrid y en eventos de la Campus Party. Robot antecesor del [**MiniSkyBot**](http://www.thingiverse.com/thing:7989), **el primer robot libre e imprimible del mundo**.  
-![](robots/2005_SkyBot.png)  
+<center><img src="robots/2005_SkyBot.png" width="40%"/></center><br/>
 
-* (2004) Hexápodo **Melanie**, [**Cube Revolutions**](http://www.iearobotics.com/wiki/index.php?title=Cube_Revolutions) y **Papón**.  
-![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/melanie-cube-papon.png)  
+* (2004) Hexápodo **Melanie**, [**Cube Revolutions**](http://www.iearobotics.com/wiki/index.php?title=Cube_Revolutions) (un robot modular de tipo oruga) y **Papón**.  
+<center><img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/melanie-cube-papon.png" width="50%"/></center><br/>
 
-* (circa 2004) Queen-Mary y robot anónimo. [vídeo de Queen Mary en Hispabot'04](https://www.youtube.com/watch?v=Af-piKdG3yk)  
-![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/queen-mary.png)  
+* (circa 2004) Queen-Mary y robot anónimo. Ambos son robots seguidores de línea. [vídeo de Queen Mary en Hispabot'04](https://www.youtube.com/watch?v=Af-piKdG3yk)  
+<center><img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/queen-mary.png" width="40%"/></center><br/>
 
-* (2002) **Mach I**, participante en Alcabot'02 (Antonio Carballo)  
-![](robots/2002_Mach-I.jpg)  
-
-
+* (2002) **Mach I**, un robot seguidor de línea, participante en Alcabot'02 (Antonio Carballo)  
+<center><img src="robots/2002_Mach-I.jpg" width="30%"/></center><br/>
 
 
-Fotos de los eventos
+
+
+Fotos de los eventos en los que hemos estado
 --
-
-Algunas fotos de los eventos frikis en los que ha participado el CRM
 
 Campus Party 2006
 ==
+
+<center>
+<img src="eventos/200X_CampusParty/2006_CampusParty_iearobotics_index4_files/miercoles-16-alejandro-andres-frikies.jpg" height="200px"/>
+<img src="eventos/200X_CampusParty/2006_CampusParty_iearobotics_index_files/sab-22-gedeon-ivan1.jpg" height="200px"/>
+</center>
+
 Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. Todos los robots de la mesa han salido de la UAM. [**Vídeo de la oruga Benita (construida en 1996)**](https://www.youtube.com/watch?v=5pRC8NfJ7X0)  
-![](eventos/200X_CampusParty/2006_CampusParty_iearobotics_index4_files/miercoles-16-alejandro-andres-frikies.jpg)  
 
-Gedeón Domínguez e Iván González, modelo de frikis :-)  
-![](eventos/200X_CampusParty/2006_CampusParty_iearobotics_index_files/sab-22-gedeon-ivan1.jpg)  
-
-[Primer vídeo en YouTube de la Campus Party 2006](https://www.youtube.com/watch?v=ehymwnycVmg) por Gedeón Domínguez (en primer plano, Juan González).  
+[Primer vídeo en YouTube de la Campus Party 2006](https://www.youtube.com/watch?v=ehymwnycVmg) por Gedeón Domínguez (se ve en primer plano a Juan González).  
 
 
 HISPABOT 2004
 ==
-UAM-Team: En la derecha están Alejandro, Juan, el grupo Papón, Ramón y Cristina que se pasaron para ver el concurso (ellos participaron el año anterior, también en la prueba libre). En la parte inferior de la foto se ven los robots robot Hexápodo Melanie , Cube Revolutions y Papón.  
-![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/uam-team.png)  
 
-Juan en la prueba libre con [**Cube Revolutions**](http://www.iearobotics.com/wiki/index.php?title=Cube_Revolutions)  
-![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/juan-prueba-libre.png)  
+<center><img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/uam-team.png" width="40%"/></center><br/>
+UAM-Team: En la derecha están Alejandro, Juan, el grupo Papón, Ramón y Cristina que se pasaron para ver el concurso (ellos participaron el año anterior, también en la prueba libre). En la parte inferior de la foto se ven los robots robot Hexápodo Melanie , Cube Revolutions y Papón.
 
-Alberto y Queen-Mary  
-![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/alberto-queen-mary.png)  
-
-Arturo, Daniel y Alberto  
-![](eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/arturo-dani-alberto.png)  
+<table border="0" width="100%">
+  <tr>
+    <td>
+      <img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/juan-prueba-libre.png" height="200px"/><br/>
+      Juan en la prueba libre con <a href="http://www.iearobotics.com/wiki/index.php?title=Cube_Revolutions">Cube Revolutions</a>
+    </td>
+    <td>
+      <img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/arturo-dani-alberto.png" height="200px"/><br/>
+      Arturo, Daniel y Alberto
+    </td>
+    <td>
+      <img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/alberto-queen-mary.png" height="200px"/><br/>
+      Alberto y Queen-Mary
+    </td>
+  </tr>
+</table>
 
 
 Alcabot 2002
 ==
-Equipo: Antonio Carballo Anton, Luis Jorge Alloza Román, y Ramón Vazquez Pablo. El robot es el velocista **MACH I**   
-<img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" width="400"/>  
+
+<center><img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" width="40%"/></center><br/>
+Equipo: Antonio Carballo Antón, Luis Jorge Alloza Román, y Ramón Vazquez Pablo. Sostienen el robot velocista **MACH I**
 
 <br/>
+
+*Créditos de las imágenes: La mayoría de las fotos pre-2009 han sido obtenidas de la web <http://iearobotics.com/>*
 
 *¿Algún link roto? (webs, fotos, vídeos, etc). Recupéralo en [nuestro archivo](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/historia) y [avísanos](../contacto).*  
 
