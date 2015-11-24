@@ -2,9 +2,8 @@
 layout: page
 title: Entradas del blog
 permalink: /blog/
+warning: La web está en: <http://crm.ii.uam.es/>
 ---
-
-<!-- Si ves este mensaje es que estás en el repositorio GitHub. La web está en: http://crm.ii.uam.es/ -->
 
 <div class="home">
 
