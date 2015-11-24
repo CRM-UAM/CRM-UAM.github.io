@@ -2,7 +2,7 @@
 layout: page
 title: Actividades organizadas por el Club
 permalink: /actividades/
-AVISO: Éste es el repositorio GitHub, la web está en <http://crm.ii.uam.es/>
+AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
 * (2014) [**ArduParty 2014**](2014_ArduParty), taller organizado por Víctor Uceda, Carlos García, Pablo Moreno y Miguel Rodríguez. *Escuela Politécnica Superior, 19 de Septiembre de 2014*  

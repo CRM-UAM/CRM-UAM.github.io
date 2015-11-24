@@ -2,7 +2,7 @@
 layout: page
 title: Logotipo oficial
 permalink: /logotipo/
-AVISO: Éste es el repositorio GitHub, la web está en <http://crm.ii.uam.es/>
+AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
 

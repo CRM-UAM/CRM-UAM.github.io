@@ -2,7 +2,7 @@
 layout: page
 title: Contacta con nosotros
 permalink: /contacto/
-AVISO: Éste es el repositorio GitHub, la web está en <http://crm.ii.uam.es/>
+AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
 
