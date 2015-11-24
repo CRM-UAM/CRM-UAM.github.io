@@ -2,6 +2,7 @@
 layout: page
 title: Publicidad en las pantallas de la EPS
 permalink: /pantallas/
+AVISO: Éste es el repositorio GitHub, la web está en <http://crm.ii.uam.es/>
 ---
 
 Plantillas para promocionar los eventos del club con "spamming" del bueno :-)  

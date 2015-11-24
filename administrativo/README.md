@@ -2,6 +2,7 @@
 layout: page
 title: Temas administrativos
 permalink: /administrativo/
+AVISO: Éste es el repositorio GitHub, la web está en <http://crm.ii.uam.es/>
 ---
 
 

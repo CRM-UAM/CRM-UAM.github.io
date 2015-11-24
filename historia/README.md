@@ -2,6 +2,7 @@
 layout: page
 title: Historia del CRM-UAM
 permalink: /historia/
+AVISO: Éste es el repositorio GitHub, la web está en <http://crm.ii.uam.es/>
 ---
 
 El Club de Robótica-Mecatrónica (CRM) fue fundado en 1997 por estudiantes de la [Universidad Autónoma de Madrid](http://www.uam.es/), con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2008) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo e [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
