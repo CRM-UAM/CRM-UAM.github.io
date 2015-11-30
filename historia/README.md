@@ -120,6 +120,30 @@ Algunos de los robots que han pasado por el CRM
 Fotos de los eventos en los que hemos estado
 --
 
+Campus Party EU 2013 (Londres)
+==
+
+<table border="0" width="100%">
+  <tr>
+    <td>
+      <img src="eventos/2013_CampusParty/2013_CampusParty_AngelVictorErik.jpg" height="230px"/><br/>
+      A la izquierda Ángel Pérez, y a la derecha Víctor Uceda y Erik Velasco
+    </td>
+    <td>
+      <img src="eventos/2013_CampusParty/2013_CampusParty_ConcursoVex.jpg" height="230px"/><br/>
+      Miembros del CRM ganaron el mini-concurso de robótica VEX
+    </td>
+  </tr>
+</table>
+
+
+Cosmobot 2013 (Alcobendas)
+==
+
+<center><img src="eventos/2013_Cosmobot/2013_Cosmobot_JuanCarlosVictor_Vector9000.jpg" width="50%"/></center><br/>
+Juan González, que vino a visitarnos, y el UAM-Team: Carlos García y Víctor Uceda. El robot es el velocista [Véctor 9000](https://www.youtube.com/watch?v=wgSMBDEtGO0)
+
+
 Campus Party 2006
 ==
 
