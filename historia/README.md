@@ -54,6 +54,9 @@ Además el club organiza periódicamente diversas [actividades](../actividades) 
 
 Presencia del Club de Robótica en eventos frikis
 --
+
+* (2015) Participación en la [**V Jornada GMV de Robótica**](http://www.gmv.com/es/Empresa/Comunicacion/NotasDePrensa/2015/NP_017_VJornadaRobotica.html). Primer premio en el concurso "Concurrent Design Facility (CDF) for Robotics". [Entrada en el blog](/blog/2015/11/26/VjornadaGMVrobotica.html)
+
 * (2015) Participación del robot [CRMaze](https://github.com/CRM-UAM/CRMaze) (de Víctor Uceda y Carlos García) en el concurso de Laberinto de la [**Open Source Hardware Demonstration (OSHWDem 2015)**](http://oshwdem.org/category/ediciones-anteriores/oshwdem-2015/). *Domus de A Coruña, 7 de Noviembre de 2015*  
 
 * (2013) Participación del robot Véctor 9000 (de Víctor Uceda y Carlos García) en la categoría Velocistas de **Cosmobot 2013**. *Museo de la Ciencia de Alcobendas, 3 de Marzo de 2013*  
@@ -119,6 +122,25 @@ Algunos de los robots que han pasado por el CRM
 
 Fotos de los eventos en los que hemos estado
 --
+
+V Jornada GMV de Robótica 2015 (Tres Cantos)
+==
+
+[Entrada en el blog](/blog/2015/11/26/VjornadaGMVrobotica.html)
+
+<table border="0" width="100%">
+  <tr>
+    <td>
+      <img src="eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV.jpg" height="230px"/><br/>
+      Demostración de los robots <i>Foxiris</i> de GMV (izquierda), <i>MiR100</i> de Robotplus (al fondo) y <i>Aunav</i> de Proytecsa (derecha).
+    </td>
+    <td>
+      <img src="eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV_team.jpg" height="230px"/><br/>
+      Miembros del CRM ganaron el concurso <i>"Concurrent Design Facility (CDF) for Robotics"</i> junto con estudiantes de la UPM.
+    </td>
+  </tr>
+</table>
+
 
 Campus Party EU 2013 (Londres)
 ==
