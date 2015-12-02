@@ -1,0 +1,183 @@
+\documentclass[12pt,twoside]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+
+\usepackage{setspace}
+
+\usepackage{enumitem}
+
+\usepackage[normalem]{ulem}
+
+\usepackage[table,xcdraw]{xcolor}
+
+\usepackage[export]{adjustbox}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Definitions for the title page
+\newcommand{\reporttitle}{
+	Solicitud de Subvención\\
+	y \\
+	Memoria de Actividades 2014-15
+}
+\newcommand{\reportauthor}{Asociación Club de Robótica-Mecatrónica}
+
+
+
+\setlength{\parskip}{\baselineskip}
+\setlength{\parindent}{0pt}
+
+\usepackage{hyperref}
+\hypersetup{
+    hyperindex, linktoc=page, breaklinks,
+    pdfauthor=\reportauthor,pdftitle=\reporttitle
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% load some definitions and default packages
+\input{includes}
+
+\date{Diciembre de 2015}
+
+\addto\captionsspanish{\renewcommand{\chaptername}{Parte}}
+
+\begin{document}
+
+\begin{titlepage}
+
+\newcommand{\HRule}{\rule{\linewidth}{1mm}} % Defines a new command for the horizontal lines, change thickness here
+
+
+%----------------------------------------------------------------------------------------
+%	LOGO SECTION
+%----------------------------------------------------------------------------------------
+
+\includegraphics[width = 6cm]{fotos/logo-eps.png}
+\hfill
+\includegraphics[width = 6cm]{fotos/logo-uam.png}
+
+
+
+\center % Center remainder of the page
+
+%----------------------------------------------------------------------------------------
+%	HEADING SECTIONS
+%----------------------------------------------------------------------------------------
+
+\textsc{\Large Escuela Politécnica Superior}\\[0.1cm] 
+\textsc{\Large Universidad Autónoma de Madrid}\\[0.5cm] 
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+
+\HRule \\[0.4cm]
+\begin{spacing}{1.5}
+{ \fontsize{0.8cm}{1em} \bfseries \reporttitle}\\ % Title of your document
+\vspace{0.5cm}
+{ \fontsize{0.7cm}{1em} \bfseries \reportauthor} \\
+\end{spacing}
+\HRule \\[1.5cm]
+
+
+\includegraphics[width = 7cm]{fotos/logo_crm-192x192.png}
+
+\vfill
+
+%----------------------------------------------------------------------------------------
+%	FOOTER & DATE SECTION
+%----------------------------------------------------------------------------------------
+
+
+\makeatletter
+{ \Large \@date }
+\vfill
+\makeatother
+
+
+\end{titlepage}
+
+\clearpage{\pagestyle{empty}\cleardoublepage}
+
+
+% page numbering etc.
+\pagenumbering{roman}
+\setcounter{page}{1}
+\pagestyle{fancy}
+
+
+
+
+
+
+\begin{spacing}{0.1}
+\tableofcontents 
+\end{spacing}
+
+\clearpage{\pagestyle{empty}\cleardoublepage}
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\fancyhead[LE,RO]{\slshape}
+%\fancyhead[LE,RO]{\slshape \rightmark}
+\fancyhead[LO,RE]{\slshape \leftmark}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\chapter{Presupuesto para nuevas actividades}
+
+\section{Solicitud de subvención}
+
+
+
+
+
+
+
+\chapter{Memoria del curso anterior}
+
+\section{Talleres y proyectos internos}
+
+\subsection{Construcción de un cuadrucóptero}
+
+\subsection{Uso de la impresora 3D por estudiantes}
+
+\subsection{Re-organización del local para fomentar la participación}
+
+\begin{itemize}
+\item Actualización de la página web
+\item Limpieza del local (reciclado de equipos obsoletos que ocupaban espacio, mesas despejadas para facilitar la labor del equipo de limpieza)
+\item Organización del material de los armarios y de las herramientas gracias a un panel de madera con ganchos.
+\item Cada estudiante puede solicitar una caja de proyecto donde guardar todo el material que necesite. Dichas cajas están etiquetadas con su nombre y año, de este modo es posible organizar mejor el inventario disponible.
+\end{itemize}
+
+El nuevo enfoque del Club de Robótica es apoyar a cualquier miembro de la comunidad universitaria que quiera llevar a cabo proyectos relacionados con la robótica. Es decir, tanto estudiantes como profesores pueden inscribirse y así disponer de un espacio de trabajo agradable con herramientas de uso común (impresoras 3D, soldadores, sierras, alicates, destornilladores, etc) así como los materiales necesarios (cables, componentes, motores, baterías, etc).
+
+Además disponemos de un foro donde nos ayudamos unos a otros, y periódicamente seguimos organizando actividades para fomentar la robótica entre los estudiantes. 
+
+
+\section{Participación en eventos nacionales}
+
+
+\subsection{Concurso de resolución de laberintos en la OSHWDem 2015}
+
+
+\subsection{V jornada GMV de robótica}
+
+
+
+
+\chapter{Junta directiva actualizada}
+
+
+
+
+\end{document}
