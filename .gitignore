@@ -4,4 +4,10 @@ _drafts/
 .DS_Store
 *.swp
 .sass-cache
+*.aux
+*.lof
+*.log
+*.out
+*.synctex.gz
+*.toc
 
