@@ -78,44 +78,44 @@ Algunos de los robots que han pasado por el CRM
 --
 
 * (2013) **Véctor 9000** (Víctor Uceda, Carlos García) Participante en Cosmobot'13, categoría velocistas. *La categoría velocistas consiste en trazar en el suelo una línea cerrada que deben seguir los robots. Gana el robot que complete el recorrido en el menor tiempo posible*. [**vídeo**](https://www.youtube.com/watch?v=wgSMBDEtGO0)  
-<center><img src="robots/2013_Vector-9000.jpg" width="40%"/></center><br/>
+<center><img src="robots/2013_Vector-9000.jpg" height="200px"/></center><br/>
 
 * (2012) **HKTR-9000** (Lucas Polo, Miguel Gargallo, Carlos García) Diseñado a partir del PolillaBot y utilizado en el [Taller de introducción a la robótica 2012](../actividades/2012_taller_arduino). El nombre HKTR (*Héctor*) es en honor de Héctor Ménendez, ex-presidente del CRM-UAM. *El HKTR-9000 dispone de sensores de línea, de luz, y de distancia, así como LEDs y un altavoz. De este modo se puede programar para seguir fuentes luminosas, esquivar obstáculos y seguir una línea trazada en el suelo.*  
-<center><img src="robots/2012_HKTR-9000/2012_HKTR-9000.jpg" width="40%"/></center><br/>
+<center><img src="robots/2012_HKTR-9000/2012_HKTR-9000.jpg" height="200px"/></center><br/>
 
 
 * (2011) **ArduSnake**, un robot modular de tipo "serpiente" con el cuerpo impreso en 3D (módulos [REPY1](http://www.thingiverse.com/thing:13442)) y electrónica donada por el diseñador Juan González (Obijuan). [**Foto de las piezas**](robots/2012_ArduSnake/2012-04-18 18.51.13_ImpresoraHalconMilenario.jpg) siendo fabricadas por [Halcón Milenario](http://www.reprap.org/wiki/Clone_wars:Impresora_Halc%C3%B3n_Milenario)  
-<center><img src="robots/2012_ArduSnake/2012-05-03 13.04.02.jpg" width="40%"/></center><br/>
+<center><img src="robots/2012_ArduSnake/2012-05-03 13.04.02.jpg" height="200px"/></center><br/>
 
 * (2011) **PolillaBot** (Miguel Gargallo, Lucas Polo, Álvaro Pérez, Carlos Garcia). *Éste robot nos sirvió de iniciación a los sensores de luz, su función era dirigirse hacia las fuentes luminosas situadas a su alrededor*  
-<center><img src="robots/2011_PolillaBot/polillaBot_1.jpg" width="40%"/></center><br/>
+<center><img src="robots/2011_PolillaBot/polillaBot_1.jpg" height="200px"/></center><br/>
 
 * (2008) Robot [**FlatBot**](http://www.iearobotics.com/wiki/index.php?title=Robot_FlatBot) (Andrés Prieto-Moreno). Utilizado en el [Taller FlatBot](http://www.iearobotics.com/wiki/index.php?title=Taller_FlatBot) de la Campus Party 08. *Como puede apreciarse, se trata de una plataforma móvil donde situar un ordenador portátil a modo de "cerebro" controlador del robot*  
-<center><img src="eventos/200X_CampusParty/2008_CampusParty_FlatBot.jpg" width="80%"/></center><br/>
+<center><img src="eventos/200X_CampusParty/2008_CampusParty_FlatBot.jpg" height="200px"/></center><br/>
 
 * (2008) Robot **Johny** para el concurso de robots Lego de la Campus Party 08  
-<center><img src="eventos/200X_CampusParty/2008_CampusParty_Johny_lego.jpg" width="40%"/></center><br/>
+<center><img src="eventos/200X_CampusParty/2008_CampusParty_Johny_lego.jpg" height="200px"/></center><br/>
 
 * (circa 2005) Rastreador **Slayer**, con tracción delantera y cabeza giratoria. **Ganador de la categoría rastreadores en Robolid'06**. (Daniel Álvarez y Alberto Calvo) Vídeos: [**en el CRM (I)**](https://www.youtube.com/watch?v=koTuxa8mScI), [**en el CRM (II)**](https://www.youtube.com/watch?v=BRsTaI17uao), [**en la Campus Party'08**](https://www.youtube.com/watch?v=QCTAsrCcZpA)  
-<center><img src="robots/200X_Slayer.jpg" width="40%"/></center><br/>
+<center><img src="robots/200X_Slayer.jpg" height="200px"/></center><br/>
 
 * (2006) Robot de sumo **Margarita**, **5ª posición en Robolid'06**. *El objetivo de la categoría "sumo" es expulsar al robot contrincante del ring*. ([video](https://www.youtube.com/watch?v=l2qdEMfkfEo))  
-<center><img src="robots/2006_Margarita.png" width="40%"/></center><br/>
+<center><img src="robots/2006_Margarita.png" height="200px"/></center><br/>
 
 * (circa 2004) **Queen-Mary**, otro rastreador que usa CDs como ruedas (Daniel Álvarez y Alberto Calvo). [**Vídeo de Queen Mary en el CRM**](https://www.youtube.com/watch?v=7RbjuzbLHUs)  
-<center><img src="robots/200X_QueenMary.png" width="40%"/></center><br/>
+<center><img src="robots/200X_QueenMary.png" height="200px"/></center><br/>
 
 * (2005) [**Skybot**](http://www.iearobotics.com/wiki/index.php?title=Skybot) (Andrés Prieto-Moreno, Juan González Gómez, Ricardo Gómez). Utilizado en multitud de talleres docentes en la Universidad Autónoma de Madrid y en eventos de la Campus Party. Robot antecesor del [**MiniSkyBot**](http://www.thingiverse.com/thing:7989), **el primer robot libre e imprimible del mundo**.  
-<center><img src="robots/2005_SkyBot.png" width="40%"/></center><br/>
+<center><img src="robots/2005_SkyBot.png" height="200px"/></center><br/>
 
 * (2004) Hexápodo **Melanie**, [**Cube Revolutions**](http://www.iearobotics.com/wiki/index.php?title=Cube_Revolutions) (un robot modular de tipo oruga) y **Papón**.  
-<center><img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/melanie-cube-papon.png" width="50%"/></center><br/>
+<center><img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/melanie-cube-papon.png" height="200px"/></center><br/>
 
 * (circa 2004) Queen-Mary y robot anónimo. Ambos son robots seguidores de línea. [vídeo de Queen Mary en Hispabot'04](https://www.youtube.com/watch?v=Af-piKdG3yk)  
-<center><img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/queen-mary.png" width="40%"/></center><br/>
+<center><img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/queen-mary.png" height="200px"/></center><br/>
 
 * (2002) **Mach I**, un robot seguidor de línea, participante en Alcabot'02 (Antonio Carballo)  
-<center><img src="robots/2002_Mach-I.jpg" width="30%"/></center><br/>
+<center><img src="robots/2002_Mach-I.jpg" height="200px"/></center><br/>
 
 
 
@@ -126,16 +126,14 @@ Fotos de los eventos en los que hemos estado
 V Jornada GMV de Robótica 2015 (Tres Cantos)
 ==
 
-[Entrada en el blog](/blog/2015/11/26/VjornadaGMVrobotica.html)
-
 <table border="0" width="100%">
   <tr>
     <td>
-      <img src="eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV.jpg" height="230px"/><br/>
-      Demostración de los robots <i>Foxiris</i> de GMV (izquierda), <i>MiR100</i> de Robotplus (al fondo) y <i>Aunav</i> de Proytecsa (derecha).
+      <img src="eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV.jpg" height="200px"/><br/>
+      Demostración de los robots <i>Foxiris</i> de GMV (izquierda), <i>MiR100</i> de Robotplus (al fondo) y <i>Aunav</i> de Proytecsa (derecha). <a href="/blog/2015/11/26/VjornadaGMVrobotica.html">Entrada en nuestro blog</a>
     </td>
     <td>
-      <img src="eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV_team.jpg" height="230px"/><br/>
+      <img src="eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV_team.jpg" height="200px"/><br/>
       Miembros del CRM ganaron el concurso <i>"Concurrent Design Facility (CDF) for Robotics"</i> junto con estudiantes de la UPM.
     </td>
   </tr>
@@ -148,11 +146,11 @@ Campus Party EU 2013 (Londres)
 <table border="0" width="100%">
   <tr>
     <td>
-      <img src="eventos/2013_CampusParty/2013_CampusParty_AngelVictorErik.jpg" height="230px"/><br/>
+      <img src="eventos/2013_CampusParty/2013_CampusParty_AngelVictorErik.jpg" height="200px"/><br/>
       A la izquierda Ángel Pérez, y a la derecha Víctor Uceda y Erik Velasco
     </td>
     <td>
-      <img src="eventos/2013_CampusParty/2013_CampusParty_ConcursoVex.jpg" height="230px"/><br/>
+      <img src="eventos/2013_CampusParty/2013_CampusParty_ConcursoVex.jpg" height="200px"/><br/>
       Miembros del CRM ganaron el mini-concurso de robótica VEX
     </td>
   </tr>
@@ -162,7 +160,7 @@ Campus Party EU 2013 (Londres)
 Cosmobot 2013 (Alcobendas)
 ==
 
-<center><img src="eventos/2013_Cosmobot/2013_Cosmobot_JuanCarlosVictor_Vector9000.jpg" width="50%"/></center><br/>
+<center><img src="eventos/2013_Cosmobot/2013_Cosmobot_JuanCarlosVictor_Vector9000.jpg" height="200px"/></center><br/>
 Juan González, que vino a visitarnos, y el UAM-Team: Carlos García y Víctor Uceda. El robot es el velocista [Véctor 9000](https://www.youtube.com/watch?v=wgSMBDEtGO0)
 
 
@@ -182,9 +180,6 @@ Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. Todos los robots de
 HISPABOT 2004
 ==
 
-<center><img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/uam-team.png" width="40%"/></center><br/>
-UAM-Team: En la derecha están Alejandro, Juan, el grupo Papón, Ramón y Cristina que se pasaron para ver el concurso (ellos participaron el año anterior, también en la prueba libre). En la parte inferior de la foto se ven los robots robot Hexápodo Melanie , Cube Revolutions y Papón.
-
 <table border="0" width="100%">
   <tr>
     <td>
@@ -202,16 +197,39 @@ UAM-Team: En la derecha están Alejandro, Juan, el grupo Papón, Ramón y Cristi
   </tr>
 </table>
 
+<center><img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/uam-team.png" height="200px"/></center><br/>
+UAM-Team: En la derecha están Alejandro, Juan, el grupo Papón, Ramón y Cristina que se pasaron para ver el concurso (ellos participaron el año anterior, también en la prueba libre). En la parte inferior de la foto se ven los robots robot Hexápodo Melanie , Cube Revolutions y Papón.
+
+
+IV feria Madrid por la Ciencia (14-Feb-2003 en IFEMA)
+==
+
+<table border="0" width="100%">
+  <tr>
+    <td>
+      <img src="eventos/2003_FeriaMadridPorLaCiencia/MVC-007F.JPG" height="110px"/><br/>
+      <img src="eventos/2003_FeriaMadridPorLaCiencia/MVC-010F.JPG" height="110px" vspace="5px"/><br/>
+    </td>
+    <td>
+      <img src="eventos/2003_FeriaMadridPorLaCiencia/MVC-018F.JPG" height="200px"/><br/>
+    </td>
+    <td>
+      <img src="eventos/2003_FeriaMadridPorLaCiencia/articulo_gaceta_universitaria.jpg" height="230px"/><br/>
+    </td>
+  </tr>
+</table>
+
+Fotos del evento y el artículo que apareció al día siguiente en la *Gaceta Universitaria*.
 
 Alcabot 2002
 ==
 
-<center><img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" width="40%"/></center><br/>
+<center><img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" height="200px"/></center><br/>
 Equipo: Antonio Carballo Antón, Luis Jorge Alloza Román, y Ramón Vazquez Pablo. Sostienen el robot velocista **MACH I**
 
 <br/>
 
-*Créditos de las imágenes: La mayoría de las fotos pre-2009 han sido obtenidas de la web <http://iearobotics.com/>*
+*Créditos de las imágenes: La mayoría de las fotos pre-2009 han sido obtenidas de la web <http://iearobotics.com/>. Gracias a Juan González por recuperar las fotos de la feria "Madrid por la Ciencia"*
 
 *¿Algún link roto? (webs, fotos, vídeos, etc). Recupéralo en [nuestro archivo](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/historia) y [avísanos](../contacto).*  
 
