@@ -11,4 +11,6 @@ Foro oficial: **<https://groups.google.com/forum/#!forum/crm-uam>**
 
 Repositorio en GitHub: **<https://github.com/CRM-UAM/>**  
 
+Teléfono del local B-111: +34 91 497 3616  
+
 
