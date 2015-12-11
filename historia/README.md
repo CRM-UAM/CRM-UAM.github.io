@@ -44,6 +44,14 @@ Desde entonces el CRM-UAM lo han administrado las siguientes juntas directivas:
     <td>Guillermo Ruíz</td> <!--Tesorero-->
     <td></td> <!--Vocales-->
   </tr>
+  <tr>
+    <td><i>2015-16</i></td>
+    <td>Carlos García</td> <!--Presidente-->
+    <td>Rodrigo Jiménez</td> <!--Vice-presidente-->
+    <td>Jaime Aragón</td> <!--Secretario-->
+    <td>Cristina Kasner</td> <!--Tesorero-->
+    <td>Víctor Uceda<br/>Pablo Molins</td> <!--Vocales-->
+  </tr>
 </table>
 <br/>
 
