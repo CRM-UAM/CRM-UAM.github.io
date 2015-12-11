@@ -65,6 +65,8 @@ Presencia del Club de Robótica en eventos frikis
 
 * (2006) **ROBOLID'06**: El Club presentó dos robots, Slayer y Margarita. **Slayer ganó en la categoría de Rastreadores y Margarita fue quinto en la categoría de Sumo**. [**resumen en la web de ARDE**](http://www.arde.cc/competiciones/robolid-2006/), [**vídeo de Slayer**](https://www.youtube.com/watch?v=GXij8BVFPP0), [**vídeo de Margarita**](https://www.youtube.com/watch?v=l2qdEMfkfEo)  
 
+* (2005) Participación en las **Sesiones de robótica UPSAM**. Andrés y Juan presentaron varios robots (el Skybot, los "ojos", Cube Revolutions, la Hormiga Benita, Pucho Bot, y el Robot "Observer"). [**diapositivas de la presentación**](/historia/eventos/2005_sesionesRoboticaUPSAM/)  
+
 * (2004) **Concurso Nacional de robots HISPABOT'04**: [**resumen en la web iearobotics**](http://www.iearobotics.com/personal/juan/conferencias/conf14/), [**web Hispabot 04**](http://asimov.depeca.uah.es/alcabot/hispabot2004/), [**vídeo Queen-Mary**](https://www.youtube.com/watch?v=Af-piKdG3yk), [vídeo Slayer](https://www.youtube.com/watch?v=PIP5i6H5zKo), [**vídeo Melanie**](https://www.youtube.com/watch?v=cWKl-8FBR9Y) (UAH. Alcalá de Henares, Abril 2004). Participaron Cube-Revolutions, Queen-Mary, Papón y Melanie. **El CRM ganó los puestos 1º y 2º.**  
 
 * (2002) **III Concurso de microrrobots de la Universidad de Alcalá, ALCABOT'02**: Participaron el rastreador Aragorn (por Luis Jorge Alloza Román y Ramón Vázquez Pablo), el velocista MACH I (por Antonio Carballo) y el sumo Sproket (por Ramón Vázquez Pablo). [**web alcabot**](http://asimov.depeca.uah.es/alcabot/alcabot2002/)
@@ -172,7 +174,7 @@ Campus Party 2006
 <img src="eventos/200X_CampusParty/2006_CampusParty_iearobotics_index_files/sab-22-gedeon-ivan1.jpg" height="200px"/>
 </center>
 
-Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. Todos los robots de la mesa han salido de la UAM. [**Vídeo de la oruga Benita (construida en 1996)**](https://www.youtube.com/watch?v=5pRC8NfJ7X0)  
+Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. Todos los robots de la mesa han salido de la UAM. [**Vídeo de la Hormiga Benita (construida en 1996)**](https://www.youtube.com/watch?v=5pRC8NfJ7X0)  
 
 [Primer vídeo en YouTube de la Campus Party 2006](https://www.youtube.com/watch?v=ehymwnycVmg) por Gedeón Domínguez (se ve en primer plano a Juan González).  
 
