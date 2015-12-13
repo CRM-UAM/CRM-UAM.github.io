@@ -177,12 +177,20 @@ Juan González, que vino a visitarnos, y el UAM-Team: Carlos García y Víctor U
 Campus Party 2006
 ==
 
-<center>
-<img src="eventos/200X_CampusParty/2006_CampusParty_iearobotics_index4_files/miercoles-16-alejandro-andres-frikies.jpg" height="200px"/>
-<img src="eventos/200X_CampusParty/2006_CampusParty_iearobotics_index_files/sab-22-gedeon-ivan1.jpg" height="200px"/>
-</center>
+<table border="0" width="100%">
+  <tr>
+    <td>
+      <img src="eventos/200X_CampusParty/2006_CampusParty_iearobotics_index4_files/miercoles-16-alejandro-andres-frikies.jpg" height="150px"/><br/>
+      <img src="eventos/200X_CampusParty/2006_CampusParty_iearobotics_index_files/sab-22-gedeon-ivan1.jpg" height="150px" vspace="5px"/><br/>
+    </td>
+    <td>
+      <img src="eventos/200X_CampusParty/2006_CampusParty_iearobotics_index2_files/GANADORES-CP2006.jpg" height="300px"/><br/>
+    </td>
+  </tr>
+</table>
 
-Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. Todos los robots de la mesa han salido de la UAM. [**Vídeo de la Hormiga Benita (construida en 1996)**](https://www.youtube.com/watch?v=5pRC8NfJ7X0)  
+
+Sup-izq: Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. [**Vídeo de la Hormiga Benita (construida en 1996)**](https://www.youtube.com/watch?v=5pRC8NfJ7X0). Inf-Izq: Gedeón Domínguez e Iván González. Derecha: Desconocido, Alberto Calvo, Francisco Reinoso "Furri" y Alejandro Alonso.  
 
 [Primer vídeo en YouTube de la Campus Party 2006](https://www.youtube.com/watch?v=ehymwnycVmg) por Gedeón Domínguez (se ve en primer plano a Juan González).  
 
