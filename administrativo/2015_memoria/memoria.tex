@@ -156,10 +156,96 @@ Local B-111 -- Escuela Politécnica Superior
 \subsubsection{Responsable de proyecto y equipo de trabajo}
 Jaime y Rodrigo
 \subsubsection{Descripción}
+Tal y como se detalla en la memoria de actividades, el año pasado presentamos un presupuesto para la construcción de un drone.
+
+Como recordatorio la idea principal era construir un cuadricóptero manejado por control remoto capaz de detectar y evitar obstáculos en un modo de control autónomo.
+
+Durante el pasado año académico completamos con éxito la primera parte del proyecto y ya tenemos construido y calibrado el cuadricóptero que ha pasado satisfactoriamente las primeras pruebas de vuelo teleoperado.
+
+Queremos por tanto duante este próximo curso proseguir con el proyecto realizando el módulo de vuelo autónomo.
+
 \subsubsection{Objetivos}
-\subsubsection{Contenido}
+
+\subsection{Detalles y Contenido}
+Nuestra intención es filtrar las señales que llegan al receptor del cuadricóptero mediante las medidas de los sensores ultrasónicos y con ayuda de la arduino para evitar posibles colisiones.
+
+Existen numerosos cuadricóptero ya fabricados que disponen de GPS y son semi-autónomos puesto que se les proporcionan unas coordenadas y este realiza la ruta deseada, pero siempre en campo abierto y sin obstáculos.
+
+Por eso queremos marcar la diferencia e intentar diseñar uno de los primeros cuadricópteros que no solo fuesen capaces de ir hasta unas determinadas coordenadas en campo abierto, sino que fuese capaz de detectar los obstáculos que se encuentre a su paso y los evite, modificando la ruta inicial gracias a los sensores y los cálculos realizados por la controladora.
+
+
 \subsubsection{Previsión de desarrollo}
+En la primera parte de este proyecto nos hemos dedicado exclusivamente a la fabricación de un Drone básico para lo cual hemos comprado las partes principales como son la estructura, motores, variadores, bateria, mando, receptor, y la controladora de vuelo (con GPS). Una vez concluida satisfactoriamente esta primera parte , es decir, habiendo construido el cuadricoptero y lograr pilotarlo, nos disponemos a pedir presupuesto para la continuación de este proyecto.
+
+Al empezar este proyecto parecía algo ambicioso y difícil de llevar a cabo pero hemos construido un drone completamente funcional y lo hemos calibrado para que tenga unas condiciones de vuelo óptimas, por lo que vemos mucho más cerca el poder llevar a cabo la idea inicial y comenzar este año con la continuación de nuestro prototipo para que sea capaz de volar de manera autónoma o ser controlado de forma remota en primera persona (con unas gafas de realidad virtual FPV  first person view). Esta es nuestra meta debido a que sería lo que realmente diferenciaría nuestro trabajo en el CRM de otros proyectos, ya que la idea de que sea completamente autónomo es pionera en el campo y debido a la diversidad de estudiantes (Telecomunicación, informática y doble grado de informática y matemáticas) creemos que tenemos los conocimientos para llevarlo a cabo.
+
 \subsubsection{Presupuesto}
+El coste de las piezas se disparó debido a unos gastos de aduanas bastante más elevados de lo esperado.
+
+Por lo que con el presupuesto de este año hemos podido construir únicamente el drone (sin elementos de visión artificial ni sensores necesarios para el vuelo autónomo) concluyendo así lo que podríamos denominar la primera parte del proyecto.
+
+Enumeramos a continuación los elementos presupuestados para esta segunda fase, junto con su precio, enlace de compra y la descripción y justificación:
+
+\begin{itemize}
+\item  Sensor de distancia por ultrasonidos [x6] 18,03\euro{}/u
+
+Enlace: \url{www.electan.com/sensor-distancia-por-ultrasonidos-ping-p-3134.html}
+
+Con estos sensores pretendemos detectar obstaculos en cualquiera de las seis direciones posibles de movimiento del dron (norte, sur, este, oeste, y los dos movimientos verticales) creando un mapa virtual de obtaculos y pudiendo así evitarlos modificando la ruta óptima lo menos posibles.
+
+\centerline{
+    \includegraphics[width=0.45\linewidth]{fotos/sensor_ultra.jpg}}
+
+\item Helices eficientes (HQ 6") [x3 packs] 5,30\euro{}
+
+Enlace: \url{flyduino.net/Multikopter-Propeller-CW-CCW_44}
+
+Sin duda las hélices  son las partes del drone que más expuestas a colisiones están. Por ello pedimos presupuesto para comprar 3 juegos de este tipo hélices, que además son de una calidad alta lo que disminuirá el riesgo a que se partan, pero aun así, es seguro, que necesitaremos recambios.
+
+\centerline{
+    \includegraphics[width=0.45\linewidth]{fotos/helices.jpg}}
+
+\item Cámara y transmisor de imagen. 29\euro{}.
+
+Enlace: \url{www.rctimer.com/product-1318.html}
+
+Esta será la cámara y el transmisor de video que nos permitirá grabar la imagen y transmitirla a tiempo real a nuestras gafas de realidad virtual.
+
+\centerline{
+    \includegraphics[width=0.45\linewidth]{fotos/camara.jpg}}
+
+
+\item Módulo receptor de imagen. 28\euro{}.
+
+Enlace: \url{www.hobbyking.com/hobbyking/store/__83195__Fat_Shark_Raceband_5_8GHz_Module.html}
+
+Con este módulo podemos recibir la imagen enviada por el dron para procesarla en el ordenador o mandar a las gafas de realidad aumentada del operador.
+
+\centerline{
+    \includegraphics[width=0.45\linewidth]{fotos/receptor.jpg}}
+
+\item Antenas de polarización circular. 20\euro{}.
+
+Enlace: \url{www.rctimer.com/product-1099-index.html}
+
+Las antenas que incluyen el transmisor y el módulo receptor son de polarización lineal y nos podrían provocar problemas debido a los cambios de orientación del drone por lo que queremos comprar estas antenas de polarización circular que con un precio bastante asequible nos permitirían alcanzar más del doble de distancia si distorsiones.
+
+
+\centerline{
+    \includegraphics[width=0.45\linewidth]{fotos/antena.jpg}}
+
+\item Gafas de realidad aumentada FPV. 320\euro{}.
+
+Enlace: \url{www.hobbyking.com/hobbyking/store/__84640__Fatshark_Dominator_V3_Headset_EU_Warehouse_.html}
+
+Estas gafas son necesarias para poder pilotar el drone en primera persona (First Person View). Sabemos que son un elemento caro, pero esto nos abrirá numerosas puertas para el futuro ya que como se observa en los anteriores componentes el transmisor y la cámara son bastante baratos y podríamos realizar numerosos proyectos donde dar utilidad a estas gafas de realidad virtual. Una de las cuantiosas ventajas que tienen estas  gafas son por ejemplo unos acelerómetros que nos permitirán girar la cámara del drone (instalando dos servos) con el movimiento de nuestra cabeza, lo que daría una sensación de inmersión total. A diferencia de otros de nuestros componentes estas gafas se podrían adquirir en Europa, por lo que no habría ningún coste adicional de aduanas.
+
+
+
+\centerline{
+    \includegraphics[width=0.45\linewidth]{fotos/gafas.jpg}}
+
+\end{itemize}
 
 
 \subsection{Construcción Fresadora Cyclone PCB}
@@ -311,10 +397,6 @@ Cargador Pilas 9V                       & \scalebox{.8}{\href{http://es.rs-onlin
 \section{Participación en eventos nacionales y representación de la UAM}
 
 \section{Solicitud de subvención}
-
-
-
-
 
 
 
