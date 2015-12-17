@@ -140,7 +140,7 @@ V Jornada GMV de Robótica 2015 (Tres Cantos)
   <tr>
     <td>
       <img src="eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV.jpg" height="200px"/><br/>
-      Demostración de los robots <i>Foxiris</i> de GMV (izquierda), <i>MiR100</i> de Robotplus (al fondo) y <i>Aunav</i> de Proytecsa (derecha). <a href="/blog/2015/11/26/VjornadaGMVrobotica.html">Entrada en nuestro blog</a>
+      Demostración de los robots <i>Foxiris</i> de GMV (izquierda), <i>MiR100</i> de Robotplus (al fondo) y <i>Aunav</i> de Proytecsa (derecha). <a href="/blog/2015/11/26/VjornadaGMVrobotica.html"><b>Entrada en nuestro blog</b></a>
     </td>
     <td>
       <img src="eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV_team.jpg" height="200px"/><br/>
@@ -148,6 +148,26 @@ V Jornada GMV de Robótica 2015 (Tres Cantos)
     </td>
   </tr>
 </table>
+
+
+OSHWDem 2015 (A Coruña)
+==
+
+<table border="0" width="100%">
+  <tr>
+    <td>
+      <img src="/historia/eventos/2015_OSHWDem/2015-CRMaze_VictorCarlos.jpg" height="150px"/><br/>
+    </td>
+    <td>
+      <img src="/historia/eventos/2015_OSHWDem/2015-11-07_montajeLaberinto2.jpg" height="130px"/><br/>
+    </td>
+    <td>
+      <img src="/historia/eventos/2015_OSHWDem/2015-11-07_publico.jpg" height="160px"/><br/>
+    </td>
+  </tr>
+</table>
+
+Víctor y Carlos construyeron el robot [**CRMaze**](https://github.com/CRM-UAM/CRMaze) para participar en el concurso de resolución de laberintos (*"micromouse"*) de la OSHWDem 2015. [**Entrada en nuestro blog**](/blog/2015/11/07/OSHWDem.html)
 
 
 Campus Party EU 2013 (Londres)
