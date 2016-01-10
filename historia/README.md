@@ -133,6 +133,13 @@ Algunos de los robots que han pasado por el CRM
 Fotos de los eventos en los que hemos estado
 --
 
+Feria de las Asociaciones de la UAM 2015 (EPS Cantoblanco)
+==
+
+<img src="eventos/2015_FeriaDeLasAsociacionesEPSUAM/2015_FeriaAsociaciones_CarlosCrisVictorJaviPablo.jpg" height="200px"/><br/>
+<a href="/blog/2015/12/15/FeriaDeLasAsociacionesUAM.html"><b>Entrada en nuestro blog</b></a>
+
+
 V Jornada GMV de Robótica 2015 (Tres Cantos)
 ==
 
@@ -190,7 +197,7 @@ Campus Party EU 2013 (Londres)
 Cosmobot 2013 (Alcobendas)
 ==
 
-<center><img src="eventos/2013_Cosmobot/2013_Cosmobot_JuanCarlosVictor_Vector9000.jpg" height="200px"/></center><br/>
+<img src="eventos/2013_Cosmobot/2013_Cosmobot_JuanCarlosVictor_Vector9000.jpg" height="200px"/><br/>
 Juan González, que vino a visitarnos, y el UAM-Team: Carlos García y Víctor Uceda. El robot es el velocista [Véctor 9000](https://www.youtube.com/watch?v=wgSMBDEtGO0)
 
 
@@ -262,7 +269,7 @@ Fotos del evento y el artículo que apareció al día siguiente en la *Gaceta Un
 Alcabot 2002
 ==
 
-<center><img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" height="200px"/></center><br/>
+<img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" height="200px"/><br/>
 Equipo: Antonio Carballo Antón, Luis Jorge Alloza Román, y Ramón Vazquez Pablo. Sostienen el robot velocista **MACH I**
 
 <br/>
