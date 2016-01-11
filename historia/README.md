@@ -136,7 +136,7 @@ Fotos de los eventos en los que hemos estado
 Feria de las Asociaciones de la UAM 2015 (EPS Cantoblanco)
 ==
 
-<img src="eventos/2015_FeriaDeLasAsociacionesEPSUAM/2015_FeriaAsociaciones_CarlosCrisVictorJaviPablo.jpg" height="200px"/><br/>
+<img src="eventos/2015_FeriaDeLasAsociacionesUAM/2015_FeriaAsociaciones_CarlosCrisVictorJaviPablo.jpg" height="200px"/><br/>
 <a href="/blog/2015/12/15/FeriaDeLasAsociacionesUAM.html"><b>Entrada en nuestro blog</b></a>
 
 

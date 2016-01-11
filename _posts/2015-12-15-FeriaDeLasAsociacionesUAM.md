@@ -9,10 +9,10 @@ Este año hemos podido participar en la Feria de las Asociaciones, que fue organ
 <table border="0" width="100%">
   <tr>
     <td>
-      <img src="/historia/eventos/2015_FeriaDeLasAsociacionesEPSUAM/2015_feriaAsociaciones.jpg" height="300px"/><br/>
+      <img src="/historia/eventos/2015_FeriaDeLasAsociacionesUAM/2015_feriaAsociaciones.jpg" height="300px"/><br/>
     </td>
     <td>
-      <img src="/historia/eventos/2015_FeriaDeLasAsociacionesEPSUAM/2015-12-15 13.24.56.jpg" height="290px"/><br/>
+      <img src="/historia/eventos/2015_FeriaDeLasAsociacionesUAM/2015-12-15 13.24.56.jpg" height="290px"/><br/>
     </td>
   </tr>
 </table>
