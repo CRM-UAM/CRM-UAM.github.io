@@ -11,8 +11,12 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 Bienvenid@ a la web oficial del Club de Robótica y Mecatrónica (CRM) de la [**Escuela Politécnica Superior**](http://www.eps.uam.es/) de la [**Universidad Autónoma de Madrid**](http://www.uam.es/).  
 
 <div style="border-radius: 25px; background: #fcf8dd; border: 3px solid #fcdb05; padding: 20px; width: 100%;">
-{% capture my-include %}{% include AVISO.md %}{% endcapture %}
-{{ my-include | markdownify }}
+{% for post in site.posts limit:1 %}
+  <h2>
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </h2>
+  {{ post.content }}
+{% endfor %}
 </div><br/>
 
 Nuestro objetivo es apoyar a cualquier miembro de la comunidad universitaria que quiera llevar a cabo proyectos relacionados con la robótica.

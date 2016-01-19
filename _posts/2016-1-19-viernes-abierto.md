@@ -1,8 +1,10 @@
+---
+layout: post
+title:  "Siguiente Viernes abierto: 22 de Enero"
+author: "Carlos García Saura"
+---
 
-<img style="float: right; border: 0; margin: 0; border-radius: 25px;" src="https://pbs.twimg.com/media/CUrlybYWoAAnNhi.jpg" width="180px">
-
-Siguiente Viernes abierto: 22 de Enero
---
+<img style="float: right; border: 0; margin: 0; border-radius: 25px;" src="https://pbs.twimg.com/media/CUzg4xuWUAAzbb9.jpg" width="200px">
 
 **Hora:** A partir de las 15h  
 **Lugar:** Local B-111 (Planta baja del edificio B)  
