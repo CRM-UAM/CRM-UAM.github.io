@@ -33,9 +33,8 @@ Logos muy comprimidos, con fondo transparente:
 
 Para fabricar chapas:
 ==
-Ficheros ([PDF](chapas/logo_crm_chapas.pdf), [ODG](chapas/logo_crm_chapas.odg)) para imprimir en A4 y fabricar chapas como ésta:  
-<img src="chapas/2012-05-16 11.49.02.jpg" width="300"/>  
-
+Ficheros ([PDF](Chapas/logo_crm_chapas.pdf), [ODG](Chapas/logo_crm_chapas.odg)) para imprimir en A4 y fabricar chapas como ésta:  
+<img src="Chapas/2012-05-16 11.49.02.jpg" width="300"/>  
 
 
 

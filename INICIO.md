@@ -28,7 +28,7 @@ Además **disponemos de un [foro](/contacto)** donde ayudarnos unos a otros, y p
 * [**Blog de noticias**](/blog)  
 * [**Historia del CRM-UAM**](/historia)  
 * [**Actividades organizadas por el club**](/actividades)  
-* [**Logotipo**](/logotipo)  
+* [**Logotipo y marketing**](/logotipo)  
 * [**Pantallas informativas**](/pantallas)  
 * [**Temas administrativos**](/administrativo)  
 
