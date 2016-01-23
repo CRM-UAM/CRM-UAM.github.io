@@ -30,12 +30,16 @@ Logos muy comprimidos, con fondo transparente:
 [.png 192px](logo_crm-192x192.png) \| [.ico multi-res {16,32,48,64}px](/favicon.ico)  
 
 
-
 Para fabricar chapas:
 ==
 Ficheros ([PDF](Chapas/logo_crm_chapas.pdf), [ODG](Chapas/logo_crm_chapas.odg)) para imprimir en A4 y fabricar chapas como ésta:  
 <img src="Chapas/2012-05-16 11.49.02.jpg" width="300"/>  
 
+
+Tarjetas de visita:
+==
+Diseñada por Víctor Uceda. Array de tarjetas ([PDF](Tarjetas/2015_ArrayTarjetas_continuo.pdf), [.pages](Tarjetas/2015_ArrayTarjetas_continuo.pages)).  
+<img src="Tarjetas/2015_tarjetaCRM.jpg" width="350"/>  
 
 
 Origen del logotipo
