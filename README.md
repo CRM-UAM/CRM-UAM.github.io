@@ -12,21 +12,23 @@ Cómo contribuir
 Para clonar localmente éste repositorio por primera vez:
 ```
 git clone git@github.com:CRM-UAM/CRM-UAM.github.io.git CRM
+cd ./CRM/
 ```
 
 Para descargar los últimos cambios: (importante hacer ésto cada vez que vayamos a empezar a trabajar localmente en el repositorio)
 ```
-cd ./CRM/
 git pull
 ```
 
 Para previsualizar a la web: (necesario tener instalado [jekyll](http://jekyllrb.com/))
 ```
-cd ./CRM/
 jekyll serve
 ```
 Éste comando se encarga de compilar localmente la web y proporciona una URL local con la que previsualizar los cambios realizados en tiempo real
 
+
+¿Quieres ser miembro?
+--
 
 [**Avísanos**](/contacto) si quieres que te agreguemos como miembr@ en GitHub para que puedas colaborar (crear nuevos repositorios, subir imágenes, etc)
 
