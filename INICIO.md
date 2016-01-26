@@ -35,3 +35,6 @@ Además **disponemos de un [foro](/contacto)** donde ayudarnos unos a otros, y p
 
 Si te gusta la robótica, no dudes en [**ponerte en contacto**](/contacto) con nosotros.  
 
+[Formulario de **inscripción** de nuevos miembros](/registro)
+--
+
