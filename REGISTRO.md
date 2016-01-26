@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /registro
+permalink: /registro/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
