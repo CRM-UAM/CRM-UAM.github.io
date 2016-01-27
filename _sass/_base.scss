@@ -21,6 +21,11 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+
+    background-image: url("/css/bg_top.png"), url("/css/bg_bottom.png"), url("/css/bg_tile.jpg");
+    background-repeat: no-repeat, no-repeat, repeat;
+    background-size: $content-width 60px, $content-width 100%, 240px;
+    background-position: center top, center bottom;
 }
 
 
