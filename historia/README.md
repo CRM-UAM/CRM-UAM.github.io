@@ -75,6 +75,8 @@ Presencia del Club de Robótica en eventos frikis
 
 * (2005) Participación en las **Sesiones de robótica UPSAM**. Andrés y Juan presentaron varios robots (el Skybot, los "ojos", Cube Revolutions, la Hormiga Benita, Pucho Bot, y el Robot "Observer"). [**diapositivas de la presentación**](/historia/eventos/2005_sesionesRoboticaUPSAM/)  
 
+* (2005) Participación en **Robolid'05** con el robot Slayer (Daniel Álvarez y Alberto Calvo) en las categorías de rastreadores y velocistas. Más información [en el blog de iearobotics](http://www.iearobotics.com/personal/juan/conferencias/conf7/)
+
 * (2004) **Concurso Nacional de robots HISPABOT'04**: [**resumen en la web iearobotics**](http://www.iearobotics.com/personal/juan/conferencias/conf14/), [**web Hispabot 04**](http://asimov.depeca.uah.es/alcabot/hispabot2004/), [**vídeo Queen-Mary**](https://www.youtube.com/watch?v=Af-piKdG3yk), [vídeo Slayer](https://www.youtube.com/watch?v=PIP5i6H5zKo), [**vídeo Melanie**](https://www.youtube.com/watch?v=cWKl-8FBR9Y) (UAH. Alcalá de Henares, Abril 2004). Participaron Cube-Revolutions, Queen-Mary, Papón y Melanie. **El CRM ganó los puestos 1º y 2º.**  
 
 * (2002) **III Concurso de microrrobots de la Universidad de Alcalá, ALCABOT'02**: Participaron el rastreador Aragorn (por Luis Jorge Alloza Román y Ramón Vázquez Pablo), el velocista MACH I (por Antonio Carballo) y el sumo Sproket (por Ramón Vázquez Pablo). [**web alcabot**](http://asimov.depeca.uah.es/alcabot/alcabot2002/)
@@ -106,7 +108,7 @@ Algunos de los robots que han pasado por el CRM
 * (2008) Robot **Johny** para el concurso de robots Lego de la Campus Party 08  
 <center><img src="eventos/200X_CampusParty/2008_CampusParty_Johny_lego.jpg" height="200px"/></center><br/>
 
-* (2005) Rastreador **Slayer**, con tracción delantera y cabeza giratoria. **Ganador de la categoría rastreadores en Robolid'06**. (Daniel Álvarez y Alberto Calvo) Vídeos: [**en el CRM (I)**](https://www.youtube.com/watch?v=koTuxa8mScI), [**en el CRM (II)**](https://www.youtube.com/watch?v=BRsTaI17uao), [**en la Campus Party'08**](https://www.youtube.com/watch?v=QCTAsrCcZpA)  
+* (2005) Rastreador **Slayer**, con tracción delantera y cabeza giratoria. Participó en Robolid'05 por primera vez. **Ganador de la categoría rastreadores en Robolid'06**. (Daniel Álvarez y Alberto Calvo) Vídeos: [**en el CRM (I)**](https://www.youtube.com/watch?v=koTuxa8mScI), [**en el CRM (II)**](https://www.youtube.com/watch?v=BRsTaI17uao), [**en la Campus Party'08**](https://www.youtube.com/watch?v=QCTAsrCcZpA)  
 <center><img src="robots/2005_Slayer/2005_Slayer.jpg" height="200px"/></center><br/>
 
 * (2006) Robot de sumo **Margarita**, **5ª posición en Robolid'06**. *El objetivo de la categoría "sumo" es expulsar al robot contrincante del ring*. ([video](https://www.youtube.com/watch?v=l2qdEMfkfEo))  
@@ -222,6 +224,26 @@ Sup-izq: Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. [**Vídeo 
 [Primer vídeo en YouTube de la Campus Party 2006](https://www.youtube.com/watch?v=ehymwnycVmg) por Gedeón Domínguez (se ve en primer plano a Juan González).  
 
 
+Robolid 2005
+==
+
+<table border="0" width="100%">
+  <tr>
+    <td>
+      <img src="eventos/2005_Robolid/2005_Robolid05_iearobotics_index_files/javi.jpg" height="200px"/><br/>
+    </td>
+    <td>
+      <img src="eventos/2005_Robolid/2005_Robolid05_iearobotics_index_files/dani-alberto2.jpg" height="200px"/><br/>
+    </td>
+    <td>
+      <img src="eventos/2005_Robolid/2005_Robolid05_iearobotics_index_files/juan-seguritron.jpg" height="200px"/><br/>
+    </td>
+  </tr>
+</table>
+
+Más información [en el blog de iearobotics](http://www.iearobotics.com/personal/juan/conferencias/conf7/)
+
+
 HISPABOT 2004
 ==
 
@@ -232,8 +254,7 @@ HISPABOT 2004
       Juan en la prueba libre con <a href="http://www.iearobotics.com/wiki/index.php?title=Cube_Revolutions">Cube Revolutions</a>
     </td>
     <td>
-      <img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/arturo-dani-alberto.png" height="200px"/><br/>
-      Arturo, Daniel y Alberto
+      <img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/uam-team.png" height="200px"/><br/>
     </td>
     <td>
       <img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/alberto-queen-mary.png" height="200px"/><br/>
@@ -242,7 +263,6 @@ HISPABOT 2004
   </tr>
 </table>
 
-<center><img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/uam-team.png" height="200px"/></center><br/>
 UAM-Team: En la derecha están Alejandro, Juan, el grupo Papón, Ramón y Cristina que se pasaron para ver el concurso (ellos participaron el año anterior, también en la prueba libre). En la parte inferior de la foto se ven los robots robot Hexápodo Melanie , Cube Revolutions y Papón.
 
 
