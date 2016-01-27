@@ -11,10 +11,10 @@ El 22 de Enero tuvimos el primer "viernes abierto" del Club de Robótica. El tem
 <table border="0" width="100%">
   <tr>
     <td>
-      <img src="/historia/eventos/PuertasAbiertas/2016_ViernesAbierto22enero/2016-01-22 16.40.04.jpg" height="200px"/><br/>
+      <img src="/actividades/PuertasAbiertas/2016_ViernesAbierto22enero/2016-01-22 16.40.04.jpg" height="200px"/><br/>
     </td>
     <td>
-      <img src="/historia/eventos/PuertasAbiertas/2016_ViernesAbierto22enero/2016-01-22 18.56.21.jpg" height="200px"/><br/>
+      <img src="/actividades/PuertasAbiertas/2016_ViernesAbierto22enero/2016-01-22 18.56.21.jpg" height="200px"/><br/>
     </td>
   </tr>
 </table>
