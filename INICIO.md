@@ -23,7 +23,7 @@ Bienvenid@ a la web oficial del Club de Robótica y Mecatrónica (CRM) de la [**
 Nuestro objetivo es apoyar a cualquier miembro de la comunidad universitaria que quiera llevar a cabo proyectos relacionados con la robótica.
 Es decir, **tanto estudiantes como profesores pueden inscribirse y así disponer de un espacio de trabajo agradable con herramientas de uso común** (impresoras 3D, soldadores, multímetros, sierras, etc) **así como los materiales necesarios** (componentes y cables, motores, baterías, etc).
 
-Además **disponemos de un [foro](/contacto)** donde ayudarnos unos a otros, y periódicamente organizamos **diversas [actividades](/actividades)** para fomentar la robótica entre los estudiantes.  
+Además **disponemos de un [foro (lista de correo)](/contacto)** donde ayudarnos unos a otros, y periódicamente organizamos **diversas [actividades](/actividades)** para fomentar la robótica entre los estudiantes.  
 
 
 * [**Blog de noticias**](/blog)  
@@ -33,8 +33,8 @@ Además **disponemos de un [foro](/contacto)** donde ayudarnos unos a otros, y p
 * [**Pantallas informativas**](/pantallas)  
 * [**Temas administrativos**](/administrativo)  
 
-Si te gusta la robótica, no dudes en [**ponerte en contacto**](/contacto) con nosotros.  
+Si te gusta la robótica, no dudes en [**ponerte en contacto**](/contacto) con nosotros, o directamente rellena el  
 
-[Formulario de **inscripción** de nuevos miembros](/registro)
+&gt;&gt; [Formulario de **inscripción** de nuevos miembros](/registro) &lt;&lt;
 --
 
