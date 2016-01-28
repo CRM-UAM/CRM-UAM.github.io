@@ -30,7 +30,7 @@ jekyll serve
 ¿Quieres ser miembro?
 --
 
-[**Avísanos**](/contacto) si quieres que te agreguemos como miembr@ en GitHub para que puedas colaborar (crear nuevos repositorios, subir imágenes, etc)
+[Inscríbete](http://crm.ii.uam.es/registro/) si quieres que te agreguemos como miembr@ en GitHub para que puedas colaborar (crear nuevos repositorios, subir imágenes, etc)
 
 *Nota: Una vez seas miembr@, si quieres que aparezca en tu perfil de GitHub que pertneces al CRM, debes habilitarlo seleccionado "public" desde el siguiente enlace: <https://github.com/orgs/CRM-UAM/people>*
 
