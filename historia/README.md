@@ -219,7 +219,7 @@ Campus Party 2006
 </table>
 
 
-Sup-izq: Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. [**Vídeo de la Hormiga Benita (construida en 1996)**](https://www.youtube.com/watch?v=5pRC8NfJ7X0). Inf-Izq: Gedeón Domínguez e Iván González. Derecha: Desconocido, Alberto Calvo, Francisco Reinoso "Furri" y Alejandro Alonso.  
+Sup-izq: Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. [**Vídeo de la Hormiga Benita (construida en 1996)**](https://www.youtube.com/watch?v=5pRC8NfJ7X0). Inf-Izq: Gedeón Domínguez e Iván González. Derecha: Daniel Álvarez, Alberto Calvo, Francisco Reinoso "Furri" y Alejandro Alonso.  
 
 [Primer vídeo en YouTube de la Campus Party 2006](https://www.youtube.com/watch?v=ehymwnycVmg) por Gedeón Domínguez (se ve en primer plano a Juan González).  
 
