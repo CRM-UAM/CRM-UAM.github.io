@@ -8,10 +8,8 @@ permalink: /blog/feed.xml
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <link>{{ site.url }}{{ site.baseurl }}</link>
     <atom:link href="{{ "/blog/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts limit:10 %}
       <item>
