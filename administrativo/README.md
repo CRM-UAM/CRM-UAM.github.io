@@ -6,7 +6,7 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
 
-* Información para el cobro de subvenciones. [PDF](cobro_de_subvenciones.pdf)
+* Información para el cobro de subvenciones (_CIF de la UAM: Q-2818013-A_). [PDF](cobro_de_subvenciones.pdf)
 * Ficha de inscripción. [PDF](ficha_inscripcion/ficha_inscripcion.pdf), [ODT](ficha_inscripcion/ficha_inscripcion.odt) (la proporcionamos nosotros ya impresa)
 * Plantilla de petición extraordinaria de presupuesto. [ODT](plantilla_peticion_subvencion.odt)
 * Lista de actividades para 2016. [PDF](ListaActividades2016.pdf)
