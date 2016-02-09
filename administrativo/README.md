@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Temas administrativos
+title: Temas administrativos y transparencia
 permalink: /administrativo/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
@@ -23,7 +23,7 @@ Memorias y solicitudes de presupuesto
 --
 
 * Información para el cobro de subvenciones (_CIF de la UAM: Q-2818013-A_). [PDF](cobro_de_subvenciones.pdf)
-* [Facturas](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/administrativo/Facturas/)
+* [Facturas y gastos](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/administrativo/Facturas/)
 * Plantilla de petición extraordinaria de presupuesto. [ODT](plantilla_peticion_subvencion.odt)
 * Memoria 2015. [PDF](Memorias/2015_memoria/memoria.pdf)
 * Memoria 2014. [PDF1](Memorias/2014_memoria/Memoria_CRM_2014.pdf), [PDF2](Memorias/2014_memoria/Presupuestos14_15.pdf)

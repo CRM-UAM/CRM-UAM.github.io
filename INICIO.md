@@ -31,7 +31,7 @@ Además **disponemos de un [foro (lista de correo)](/contacto)** donde ayudarnos
 * [**Actividades organizadas por el club**](/actividades)  
 * [**Logotipo y marketing**](/logotipo)  
 * [**Pantallas informativas**](/pantallas)  
-* [**Temas administrativos**](/administrativo)  
+* [**Temas administrativos y transparencia**](/administrativo)  
 
 Si te gusta la robótica, no dudes en [**ponerte en contacto**](/contacto) con nosotros, o directamente rellena el  
 
