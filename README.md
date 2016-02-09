@@ -2,7 +2,7 @@
 
 Bienvenid@ al repositorio GitHub del Club de Robótica y Mecatrónica (CRM) de la [**Escuela Politécnica Superior**](http://www.eps.uam.es/) de la [**Universidad Autónoma de Madrid**](http://www.uam.es/)  
 
-Éste repositorio contiene tanto la web <http://crm.ii.uam.es> como los documentos más relevantes de la asociación
+Este repositorio contiene tanto la web <http://crm.ii.uam.es> como los documentos más relevantes de la asociación
 
 
 
@@ -31,7 +31,7 @@ Para previsualizar a la web: (necesario tener instalado [jekyll](http://jekyllrb
 ```
 jekyll serve --watch
 ```
-Éste comando se encarga de compilar localmente la web y proporciona una URL local con la que previsualizar los cambios realizados en tiempo real
+Este comando se encarga de compilar localmente la web y proporciona una URL local con la que previsualizar los cambios realizados en tiempo real
 
 
 ¿Quieres ser miembro?
