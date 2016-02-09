@@ -20,9 +20,16 @@ Para descargar los últimos cambios: (importante hacer ésto cada vez que vayamo
 git pull
 ```
 
+Instalación de [jekyll](http://jekyllrb.com/):
+```
+sudo apt-get install ruby ruby-dev
+sudo gem install jekyll
+sudo gem install jekyll-redirect-from
+```
+
 Para previsualizar a la web: (necesario tener instalado [jekyll](http://jekyllrb.com/))
 ```
-jekyll serve
+jekyll serve --watch
 ```
 Éste comando se encarga de compilar localmente la web y proporciona una URL local con la que previsualizar los cambios realizados en tiempo real
 
