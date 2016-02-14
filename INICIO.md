@@ -32,7 +32,7 @@ También proporcionamos ayuda (técnica y económica) a los estudiantes que busc
       </a>
     </td>
     <td>
-      <a href="https://github.com/CRM-UAM/">
+      <a href="https://github.com/CRM-UAM/" target="_blank">
       <center><img src="/imagenes_web/iconos/cohete.png"/><br/><b>Proyectos</b></center>
       </a>
     </td>
@@ -73,4 +73,5 @@ También proporcionamos ayuda (técnica y económica) a los estudiantes que busc
 
 <br/>
 
-Si te gusta la robótica, no dudes en [**ponerte en contacto**](/contacto) con nosotros, o directamente rellena el [formulario de **inscripción** de nuevos miembros](/registro)
+Si te gusta la robótica, no dudes en visitarnos, [**ponerte en contacto**](/contacto) con nosotros, o directamente rellenar el [formulario de **inscripción** de nuevos miembros](/registro)
+

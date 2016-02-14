@@ -10,6 +10,9 @@ Plantillas para promocionar los eventos del club con "spamming" del bueno :-)
 Diseñadas por Lucas Polo, Víctor Uceda y Carlos García  
 
 
+<img src="2016_Cartel_viernesAbierto19febrero.jpg" width="300"/>  
+[fuente ODP](2016_Cartel_viernesAbierto19febrero.odp)  
+
 <img src="2016_Cartel_viernesAbierto5febrero.jpg" width="300"/>  
 [fuente ODP](2016_Cartel_viernesAbierto5febrero.odp)  
 
