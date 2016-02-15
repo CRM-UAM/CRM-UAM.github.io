@@ -19,8 +19,8 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 {% endif %}
 {% endfor %}
 
-Somos una asociación de estudiantes dedicados a fomentar el interés por la robótica en la Universidad Autónoma de Madrid y España en general.
-Periódicamente organizamos talleres, competiciones y seminarios orientados a la difusión de la robótica, la electrónica y el software.
+Somos una asociación de estudiantes dedicados a fomentar el interés por la robótica en la [Universidad Autónoma de Madrid](http://www.uam.es/) y España en general.
+Periódicamente organizamos talleres, competiciones y seminarios orientados a la difusión de la electrónica, la mecánica y el software.
 También proporcionamos ayuda (técnica y económica) a los estudiantes que buscan realizar proyectos relacionados con la robótica.
 
 
@@ -73,5 +73,5 @@ También proporcionamos ayuda (técnica y económica) a los estudiantes que busc
 
 <br/>
 
-Si te gusta la robótica, no dudes en visitarnos, [**ponerte en contacto**](/contacto) con nosotros, o directamente rellenar el [formulario de **inscripción** de nuevos miembros](/registro)
+Si te interesa no dudes en visitarnos, [**ponerte en contacto**](/contacto) con nosotros, o directamente rellenar el [formulario de **inscripción** de nuevos miembros](/registro)
 
