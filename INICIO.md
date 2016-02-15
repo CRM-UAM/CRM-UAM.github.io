@@ -10,18 +10,7 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 
 ¡Bienvenid@! Esta es la web oficial del Club de Robótica y Mecatrónica (CRM) de la [**Escuela Politécnica Superior**](http://www.eps.uam.es/) de la [**Universidad Autónoma de Madrid**](http://www.uam.es/).  
 
-{% for post in site.posts limit:10 %}
-{% if post.mostrarEnPortada %}
-<div style="{{ post.estiloEnPortada }}">
-    <h2>{{ post.title }}</h2>
-    {{ post.content }}
-</div><br/>
-{% endif %}
-{% endfor %}
 
-Somos una asociación de estudiantes dedicados a fomentar el interés por la robótica en la [Universidad Autónoma de Madrid](http://www.uam.es/) y España en general.
-Periódicamente organizamos talleres, competiciones y seminarios orientados a la difusión de la electrónica, la mecánica y el software.
-También proporcionamos ayuda (técnica y económica) a los estudiantes que buscan realizar proyectos relacionados con la robótica.
 
 
 <table border="0" width="100%">
@@ -71,7 +60,22 @@ También proporcionamos ayuda (técnica y económica) a los estudiantes que busc
   </tr>
 </table>
 
-<br/>
+
+
+Somos una asociación de estudiantes dedicados a fomentar el interés por la robótica en la [Universidad Autónoma de Madrid](http://www.uam.es/) y España en general.
+Periódicamente organizamos talleres, competiciones y seminarios orientados a la difusión de la electrónica, la mecánica y el software.
+También proporcionamos ayuda (técnica y económica) a los estudiantes que buscan realizar proyectos relacionados con la robótica.
+
+
+{% for post in site.posts limit:10 %}
+{% if post.mostrarEnPortada %}
+<div style="{{ post.estiloEnPortada }}">
+    <h2>{{ post.title }}</h2>
+    {{ post.content }}
+</div><br/>
+{% endif %}
+{% endfor %}
+
 
 Si te interesa no dudes en visitarnos, [**ponerte en contacto**](/contacto) con nosotros, o directamente rellenar el [formulario de **inscripción** de nuevos miembros](/registro)
 
