@@ -1,0 +1,786 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+
+
+<html>
+
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app14.us.archive.org";archive_analytics.values.server_ms=136;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+
+<title>Club de Robótica - Mecatrónica de la E.P.S. (U.A.M.)</title>
+
+</head>
+
+
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0112d7" vlink="#000000" alink="#000000">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://crm.ii.uam.es/web/index.php?seccion=3&amp;pagina=6";
+
+var firstYear = 1996;
+var displayDay = "9";
+var displayMonth = "abr";
+var displayYear = "2005";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(525, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://crm.ii.uam.es/web/index.php?seccion=3&amp;pagina=6" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20050409165114" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20040816031645/http://crm.ii.uam.es/web/index.php?seccion=3&amp;pagina=6" title="16 ago 2004">AGO</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 16:51:14 abr 9, 2005">ABR</td>
+		<td class="f" nowrap="nowrap">
+		
+		    may
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20040816031645/http://crm.ii.uam.es/web/index.php?seccion=3&amp;pagina=6" title="3:16:45 ago 16, 2004"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 16:51:14 abr 9, 2005">9</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   <img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0"/>
+               
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   2004
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 16:51:14 abr 9, 2005">2005</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   2006
+               
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20050409165114*/http://crm.ii.uam.es/web/index.php?seccion=3&amp;pagina=6" title="See a list of every capture for this URL">3 captures</a>
+           <div class="r" title="Timespan for captures of this URL">19 jun 04 - 9 abr 05</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="525"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000001010000_2005:3:000100000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000000_2012:-1:000000000000_2013:-1:000000000000_2014:-1:000000000000_2015:-1:000000000000_2016:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+<!    >
+
+
+
+<! Programa en Jaavscrip para los botones sensibles, creamos un objeto por imagen para luego hacer el swap >
+
+
+
+<! home>
+
+<SCRIPT language=javascript1.1>
+
+home_off=new Image
+
+home_off.src="ima/menu/home_off.gif"
+
+home_on=new Image
+
+home_on.src="ima/menu/home_on.gif"
+
+</SCRIPT>
+
+
+
+
+
+<! downloads>
+
+<SCRIPT language=javascript1.1>
+
+downloads_off=new Image
+
+downloads_off.src="ima/menu/down_off.gif"
+
+downloads_on=new Image
+
+downloads_on.src="ima/menu/down_on.gif"
+
+</SCRIPT>
+
+
+
+<! Agradecimientos>
+
+<SCRIPT language=javascript1.1>
+
+agradecimientos_off=new Image
+
+agradecimientos_off.src="ima/menu/agrade_off.gif"
+
+agradecimientos_on=new Image
+
+agradecimientos_on.src="ima/menu/agrade_on.gif"
+
+</SCRIPT>
+
+
+
+<! Quienes somos> 
+
+<SCRIPT language=javascript1.1>
+
+quienes_off=new Image
+
+quienes_off.src="ima/menu/quienes_off.gif"
+
+quienes_on=new Image
+
+quienes_on.src="ima/menu/quienes_on.gif"
+
+</SCRIPT>
+
+  
+
+<! Proyectos> 
+
+<SCRIPT language=javascript1.1>
+
+proyectos_off=new Image
+
+proyectos_off.src="ima/menu/proyectos_off.gif"
+
+proyectos_on=new Image
+
+proyectos_on.src="ima/menu/proyectos_on.gif"
+
+</SCRIPT>
+
+ 
+
+<! Documentos> 
+
+<SCRIPT language=javascript1.1>
+
+documentos_off=new Image
+
+documentos_off.src="ima/menu/documentos_off.gif"
+
+documentos_on=new Image
+
+documentos_on.src="ima/menu/documentos_on.gif"
+
+</SCRIPT>
+
+
+
+<! Actividades> 
+
+<SCRIPT language=javascript1.1>
+
+actividades_off=new Image
+
+actividades_off.src="ima/menu/actividades_off.gif"
+
+actividades_on=new Image
+
+actividades_on.src="ima/menu/actividades_on.gif"
+
+</SCRIPT>
+
+
+
+<! album> 
+
+<SCRIPT language=javascript1.1>
+
+album_off=new Image
+
+album_off.src="ima/menu/album_off.gif"
+
+album_on=new Image
+
+album_on.src="ima/menu/album_on.gif"
+
+</SCRIPT>
+
+
+
+<! Enlaces> 
+
+<SCRIPT language=javascript1.1>
+
+enlaces_off=new Image
+
+enlaces_off.src="ima/menu/enlaces_off.gif"
+
+enlaces_on=new Image
+
+enlaces_on.src="ima/menu/enlaces_on.gif"
+
+</SCRIPT>
+
+
+
+<! swapping de las fotos> 
+
+<SCRIPT>
+
+function swap(imagename,objectsrc){
+
+if (document.images)
+
+document.images[imagename].src=eval(objectsrc+".src")
+
+}
+
+</SCRIPT>
+
+
+
+
+
+<! saltos de linea>
+
+
+
+<! tabla de botones, dejamos un espacio entre cada boton para que se vea una rayita> 
+
+
+
+
+
+<table width="760" border="0" cellpadding="0" cellspacing="0" align=center>
+
+<tr>
+
+<td colspan="2">
+
+  <table background="ima/menu/rayzul.gif" width="100%" heigth="50" border="0" cellpadding="0" cellspacing="0">
+
+  <tr>
+
+  <td>
+
+  
+
+   <img src="ima/logotop.jpg" border="0" onLoad="" width="100%" height="50"></a></td>
+
+  
+
+  </td>
+
+  </tr>
+
+  </table>
+
+</td> 
+
+</tr>
+
+<tr>
+
+<td width="135" background="ima/menu/rayzul.gif" valign=top>
+
+  <table width="100%" border="0" cellpadding="0" cellspacing="1">
+
+    <tr>
+
+	<td>
+
+    <BR>
+
+	<BR>
+
+	</td>
+
+	</tr>
+
+	 
+
+    <tr>
+
+      <td><a href="index.php?seccion=0&amp;pagina=0" 
+
+				onmouseout="swap('Home','home_off')"
+
+      			onmouseover="swap('Home','home_on')">
+
+			<img name="Home" src="ima/menu/home_off.gif" border="0" onLoad="" width="155" height="16"></a></td>
+
+    </tr>
+
+
+
+	<tr>
+
+      <td><a href="index.php?seccion=1&amp;pagina=0" 
+
+				onmouseout="swap('Quienes','quienes_off')"
+
+      			onmouseover="swap('Quienes','quienes_on')">
+
+		  <img name="Quienes" src="ima/menu/quienes_off.gif" border="0" onLoad="" width="155" height="16"></a></td>
+
+    </tr>
+
+
+
+    <tr>
+
+      <td><a href="index.php?seccion=2&amp;pagina=0"
+
+				onmouseout="swap('Proyectos','proyectos_off')"
+
+      			onmouseover="swap('Proyectos','proyectos_on')">
+
+ 		  <img name="Proyectos" src="ima/menu/proyectos_off.gif" border="0" onLoad="" width="155" height="16"></a></td>
+
+    </tr>
+
+	
+
+    <tr>
+
+      <td><a href="index.php?seccion=3&amp;pagina=0"
+
+				onmouseout="swap('Actividades','actividades_off')"
+
+      			onmouseover="swap('Actividades','actividades_on')">
+
+		  <img name="Actividades" src="ima/menu/actividades_off.gif" border="0" onLoad="" width="155" height="16"></a></td>
+
+    </tr>
+
+	
+
+    <tr>
+
+      <td><a href="index.php?seccion=4&amp;pagina=0"
+
+				onmouseout="swap('Documentos','documentos_off')"
+
+      			onmouseover="swap('Documentos','documentos_on')">
+
+		  <img name="Documentos" src="ima/menu/documentos_off.gif" border="0" onLoad="" width="155" height="16"></a></td>
+
+    </tr>
+
+
+
+    <tr>
+
+      <td><a href="index.php?seccion=5&amp;pagina=0" 
+
+				onmouseout="swap('downloads','downloads_off')"
+
+      			onmouseover="swap('downloads','downloads_on')">
+
+		  <img name="downloads" src="ima/menu/down_off.gif" border="0" onLoad="" width="155" height="16"></a></td>
+
+    </tr>
+
+	
+
+    <tr>
+
+      <td><a href="index.php?seccion=6&amp;pagina=0" 
+
+				onmouseout="swap('Album','album_off')"
+
+      			onmouseover="swap('Album','album_on')">
+
+		  <img name="Album" src="ima/menu/album_off.gif" border="0" onLoad="" width="155" height="16"></a></td>
+
+    </tr>
+
+
+
+	<tr>
+
+      <td><a href="index.php?seccion=7&amp;pagina=0" 
+
+				onmouseout="swap('agradecimientos','agradecimientos_off')"
+
+      			onmouseover="swap('agradecimientos','agradecimientos_on')">
+
+		  <img name="agradecimientos" src="ima/menu/agrade_off.gif" border="0" onLoad="" width="155" height="16"></a></td>
+
+    </tr>
+
+
+
+	<tr>
+
+      <td><a href="index.php?seccion=8&amp;pagina=0" 
+
+				onmouseout="swap('Enlaces','enlaces_off')"
+
+      			onmouseover="swap('Enlaces','enlaces_on')">
+
+		  <img name="Enlaces" src="ima/menu/enlaces_off.gif" border="0" onLoad="" width="155" height="16"></a></td>
+
+    </tr>
+
+
+
+    <tr>
+
+	<td>
+
+    <BR>
+
+	<BR>
+
+	<center><img src="/web/20050409165114im_/http://crm.ii.uam.es/web/ima/lazonegro.gif" width="44" height="72" border="0" alt=""></center>
+    
+	<BR>
+
+	<BR>
+
+	</td>
+
+	</tr>
+
+    </table>
+
+</td>
+
+
+
+<! A partir de aquí viene el contenido real de la pagina>
+
+<td width="625">
+
+
+
+<table cellspacing="0" cellpadding="0" width="100%">
+
+<tr>
+
+<td>
+
+<BR>
+<BR>
+
+<center>
+<img src="/web/20050409165114im_/http://crm.ii.uam.es/web/actividades/actividades.jpg" width="408" height="40" alt="" border="0">
+</center>
+<BR>
+<BR>
+<center><img src="/web/20050409165114im_/http://crm.ii.uam.es/web/actividades/ifema2003/cartel_ifema.jpg" width=549 height=86 border=0></center>
+<BR>
+<BR>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000">
+<BLOCKQUOTE>
+<p>Este año, la EPS era la encargada de representar a la UAM en la IV Feria Madrid por la Ciencia. Para
+nosotros era una oportunidad interesante de presentar nuestros robots y no dudamos en aprovechar la posibilidad
+de participar.</p>
+<p>Presentamos todos los robots disponibles en el CRM:</p>
+<center><img src="/web/20050409165114im_/http://crm.ii.uam.es/web/actividades/ifema2003/cartel_granja.jpg" width=551 height=340 border=0>
+<br><i>Cartel de nuestra granja de robots</i></center>
+<p>Aunque no llevamos a algunos de ellos, decidimos desarrollar algún robot nuevo con motivo de la feria, algo que llamase más la atención en un acto de este tipo. Aquí teneís a los protagonistas:</p>
+<ul>
+<li>
+<a href="/web/20050409165114/http://crm.ii.uam.es/web/index.php?seccion=4&amp;pagina=9"><b>Los ojos</b></a> fueron con diferencia la estrella de nuestro stand. Todas las personas que pasaban por delante
+de ellos no perdían la oportunidad de "verse" a través de ellos en una gran pantalla que teníamos disponible
+y en la que proyectábamos la imagen.<br><br>
+<center><img src="/web/20050409165114im_/http://crm.ii.uam.es/web/actividades/ifema2003/cartel_ojos.jpg" width=550 height=340 border=0>
+<br><i>Cartel de Los Ojos</i></center><br>
+Otra de las particularidades de los ojos era que estaban programados para seguir un objeto que previamente
+había que "enseñarle", y en ocasiones activábamos esta funcionalidad para satisfacción de los curiosos.<br><br>
+<div align="center"><img src="actividades/ifema2003/ojos_activos.jpg" width=451 height=338 border=0>
+<Br><i>Charli enseña a un asistente el funcionamiento de los ojos</i></div><br>
+</li>
+<li>
+<b>CRM-Observer</b>, fue otro de los robots que más llamó la atención, y una de las novedades del CRM con motivo
+de esta feria. Heredero de toda la tecnología desarrollada para
+<a href="/web/20050409165114/http://crm.ii.uam.es/web/index.php?seccion=2&amp;pagina=2">Bartolo "El Robot Explorador"</a>,
+<b>Observer</b>, llamó la atención por sus posibilidades de control y su pequeña cámara que enviaba la imagen
+a la gran pantalla del stand.<br><br>
+<div align="center"><img src="actividades/ifema2003/observer_en_el_suelo.jpg" width=451 height=338 border=0><br>
+<i>El robot Observer de exploración por la feria</i></div><br>
+</li>
+<li>
+<a href="/web/20050409165114/http://crm.ii.uam.es/web/index.php?seccion=4&amp;pagina=8"><b>El "Robot de Docencia"</b></a>, que fue bautizado así por ser el primer robot diseñado para uso docente dentro
+de la EPS, fue otra novedad. Si bien en este caso se dedicaba a seguir una línea negra, el microprocesador que
+alberga en su cerebro (una FPGA) ha sido completamente diseñado en la EPS.<br><br>
+<div align="center"><img src="/web/20050409165114im_/http://crm.ii.uam.es/web/actividades/ifema2003/cartel_rdocencia.jpg" width=549 height=342 border=0><br>
+<i>Cartel del "Robot de Docencia" donde se muestra información sobre su diseño</i></div><br>
+</li>
+<li>
+<b>Pulsos</b>, es el primer robot rastreador con visión y autónomo del CRM, y es otra de las novedades para la
+feria. Sucesor de <a href="/web/20050409165114/http://crm.ii.uam.es/web/index.php?seccion=3&amp;pagina=5">Cortocircuito</a>,
+tuvo también un papel importante en el stand junto con el "Robot de Docencia", formando una pareja
+"inseparable" gracias a su capacidad de seguir un objeto de un color determinado.<br><br>
+<div align="center"><img src="actividades/ifema2003/pulsos_y_rdd.jpg" width=451 height=338 border=0>
+<br><i>Pulsos persigue al "Robot de Docencia"</i></div><br>
+</li>
+<li>
+<b>Pucho</b> fue otro de los robots que más llamó la atención. Todo el mundo quería ver como se movía, ya que
+resulta expectacular verle andar.<br><br>
+<div align="center"><img src="actividades/ifema2003/pucho.jpg" width=451 height=338 border=0><br>
+<i>¡¡Pucho lleva sus baterías en un carrito!!</i></div><br>
+</li>
+<li><b><a href="/web/20050409165114/http://www.iearobotics.com/personal/juan/proyectos/cube-2.0/cube.html" target="_blank">Cube</a></b>
+como buen gusano que es, quiso representar a los robots sin patas en nuestro stand. Su diseño tan particular fue objeto de constante interés, y en todo momento preguntaban por su funcionamiento.<br><br>
+<div align="center"><img src="actividades/ifema2003/cube.jpg" width=451 height=338 border=0><br>
+<i>Cube empieza su camino</i></div><br>
+</li>
+<li>
+<b><a href="/web/20050409165114/http://www.iearobotics.com/personal/juan/proyectos/sheila/sheila.html" target="_blank">Sheila</a></b>,
+la pequeña araña, estuvo activa durante gran parte del tiempo, y su sencilla estructura y gracioso andar no pasaron desapercibidos.<br><br>
+<div align="center"><img src="actividades/ifema2003/sheila_y_rdd.jpg" width=450 height=366 border=0><br>
+<i>Sheila compartiendo el stand con el "Robot de Docencia"</i></div>
+</li>
+</ul>
+
+
+<BR>
+<BR>
+<b><u>REPORTAJES ESPECIALES</u></b>
+<p><i>Estamos preparando los documentos</i></p>
+<ul>
+<li>
+<a href="/web/20050409165114/http://crm.ii.uam.es/web/index.php?seccion=4&amp;pagina=6"><b>CRM - Observer</b></a>: El pequeño explorador.
+</li>
+</ul>
+
+<BR>
+<BR>
+<BR>
+<b><u>VIDEOS</u></b>
+<br><br>
+
+<li>
+<b>Cube</b> - <a href="/web/20050409165114/http://150.244.56.95/videos/ifema2003/cube_ifema2003.avi">video (3,2 M)</a>
+</li>
+<li>
+<b>Pucho</b> - <a href="/web/20050409165114/http://150.244.56.95/videos/ifema2003/pucho_ifema2003.avi">video (5,2 M)</a>
+</li>
+<li>
+<b>Observer</b> - <a href="/web/20050409165114/http://150.244.56.95/videos/ifema2003/observer_ifema2003_01.avi">video1 (3,4 M)</a>, <a href="/web/20050409165114/http://150.244.56.95/videos/ifema2003/observer_ifema2003_02.avi">video2 (4,5 M)</a>
+</li>
+<br>
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+<b><u>MAS INFORMACIÓN EN...</u></b>
+<ul>
+<li>
+<a href="/web/20050409165114/http://www.madridporlaciencia.org/" target="_blank">Feria de Madrid por la Ciencia"</a>
+</li>
+<li>
+<i>Artículo del periódico Gaceta Universitaria Febrero 2003</i><br><br><div align="center"><img src="/web/20050409165114im_/http://crm.ii.uam.es/web/actividades/ifema2003/articulo_gaceta_universitaria_peq.jpg" width=448 height=474 border=0><br>
+<a href="/web/20050409165114/http://crm.ii.uam.es/web/actividades/ifema2003/articulo_gaceta_universitaria.jpg" target="_blank">Artículo (315.4 K)</a></div>
+</li>
+</ul>
+
+</BLOCKQUOTE>
+</font>
+
+
+
+
+
+
+<BR>
+
+<BR>
+
+<BR>
+
+<center>
+
+<HR WIDTH="60%">
+
+<BR>
+
+<p><img src="ima/ii2.gif" width="105" height="105" alt="" border="0"></p>
+
+<BR>
+
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000000">
+<p><a href="mailto:Club.Mecatronica@ii.uam.es"><i>Club.Mecatronica@ii.uam.es</i></a></p>
+<p><i>© CRM EPS - UAM 2002/03</i></p>
+
+
+</font>
+
+</center>
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 16:51:14 abr 9, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:40:30 feb 15, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

@@ -1,0 +1,747 @@
+
+
+    Este club quiere servir para unir a todas aquellas personas con las mismas inquietudes en temas como hardware, inteligencia artificial, programación, etc. aplicados principalmente al campo de la Robótica.
+
+    Un poco de historia...
+
+    Desde el 29 de Octubre de 1997, existe como tal esta Asociación, con el apoyo de la dirección de la Escuela Técnica Superior de Informática de la UAM (actualmente Escuela Politécnica Superior de la UAM).
+
+    La idea original fue del profesor Eduardo Boemo, que organizó un curso de formación en mecatrónica, de forma extra-académica, a principios del mes de Julio de 1997. Al curso se apuntaron cerca de 80 alumnos, desbordando todas las previsiones. Los entendidos en este tipo de cursos aseguraron que fue todo un éxito, tanto en el interés de los participantes, como en los desarrollos realizados. De ahí nació el Club.
+
+    El curso concluyó con la organizacion del "1º Abierto de Mecatrónica Comunidad de Madrid", el Martes 28 de Octubre de 1997. A él acudieron dos diseños de la E.T.S. Telecomunicaciones de la UPM, uno de la Facultad de Físicas de la UNED, uno de la Escuela de Informática ICAI y seis por parte de la ETSI-UAM. El resultado de la competición se puede conocer en la dirección: http://www.ii.uam.es/~ivan/m-news.htm. Todos los participantes, e incluso el público que asistió, quedaron muy satisfechos del resultado, y además, con ganas de volver a repetir la experiencia.
+
+    Ya como Club, se realizó una labor de divulgación y publicidad del curso, con el fin de encontrar nuevos participantes provenientes de diversas facultades, momento a partir del cual se constituyó como actual Asociación Interfacultativa de la UAM.
+
+    En Abril de 1998, se impartió el primer curso, ya como Asociación. Tuvo una duración de 3 meses, y finalizó con una competición interna entre los participantes del curso y miembros de la Asociación. Resultó todo un éxito.
+
+    Y queremos seguir creciendo...
+
+
+
+
+
+20-05-2004
+
+    El servidor web del Club se ha trasladado con éxito a una nueva máquina. A partir de ahora la dirección de acceso es http://crm.ii.uam.es. Esperamos que con este nuevo servidor la información se actualice más a menudo. Un saludo a todos y perdonad por el retraso.
+
+
+
+
+
+
+ GP_BOT
+
+A partir de este año, en la asignatura de Robótica, se empleará el microcontrolador Motorola 68HC08GP32. Por ello se está trabajando en el diseño de un sistema de desarrollo que consiste en tres placas que cubrirán todas las necesidades que afectan directamente al desarrollo de las prácticas de la asignatura:
+
+    Placa principal con el micro y todos sus recursos.
+    Placa con la etapa de potencia para el control de 4 motores y los sensores necesarios para aplicaciones de diseño de robots autónomos.
+    Placa con el circuito de adaptación de niveles del cable monitor, que permite el acceso a los recursos de la tarjeta principal a través del PC.
+
+Inicio: Octubre 2000
+Estado actual: Finalizado.
+
+
+
+
+PROTOCOLO DE COMUNICACIÓN RADIO
+
+El origen de este trabajo comenzó por la limitación encontrada durante el desarrollo de las prácticas de la asignatura de Robótica, durante en el curso 1999 - 2000 (primer año de la asignatura), en cuanto que los robots diseñados con microcontroladores no tenían ni la potencia ni la memoria necesaria para la aplicación de algoritmos de IA.
+
+Como solución para ese año, se decidió prescindir del microcontrolador, y se diseñaron unos robots que disponían de un sistema de comunicación serie con el PC, mediante el puerto paralelo. Sin embargo, la "idea" de autonomía del robot desaparecía al ver que llevaba un cable.
+
+Ya entonces se pensó en trabajar en un sistema "sin cable", como por ejemplo infrarrojos o radio. La radio pareció más interesante, porque funcionaría a pesar de la existencia de obstáculos entre emisor y receptor y además, la distancia a la que se podían comunicar era mayor.
+
+Las posibilidades de este sistema son varias, desde controlar el robot a distancia desde el PC, hasta comunicación en ambos sentidos para intercambiar información, e incluso, comunicación entre robots, dando el paso a sistemas de colaboración.
+Inicio: Noviembre 2000
+Estado actual: Comunicación bidireccional finalizada. En pruebas.
+
+
+
+
+MICROBOT EXPLORADOR
+
+La idea de este proyecto es diseñar un robot controlado desde PC que permita al operario del mismo disponer de un control total del robot además de disponer "en remoto" de todo tipo de sensores que irán acoplados al robot.
+Inicio: Marzo 2001
+Estado actual: CRM-Observer. En fase de añadir sensores. 
+
+
+
+
+
+
+
+
+
+
+El microbot CRM-Observer fue especialmente construido con motivo de la IV Feria "Madrid por la Ciencia", en la que el CRM tuvo la oportunidad de participar representando a la Escuela Politécnica Superior de la UAM.
+
+HISTORIA
+
+Tras el diseño de Bartolo y dada la complejidad de su manejo, en el CRM teníamos intención de desarrollar un pequeño robot que tuviera las mismas características de Bartolo pero de un tamaño y velocidad más reducidas. Aprovechando la posibilidad de poder mostrar este nuevo diseño en la feria "Madrid por la Ciencia", la idea se hizo realidad. Actualmente, Observer sustituye a Bartolo en el proyecto "Microbot Explorador".
+
+MONTAJE
+
+Observer se montó a partir de la estructura base de un Robot Clónico desarrollada por Andrés Prieto-Moreno Torres al que incorporamos una plataforma adaptada para esta base, que en el caso de Observer está constituida por dos "pisos". Esta plataforma permite utilizar una misma base para distintos robots, siendo posible intercambiar la plataforma para reutilizar la base sin tener que desmontar el robot (ver robot Pulsos).
+
+
+El "Robot de Docencia" es prácticamente un Robot Clónico
+
+
+La plataforma debía contener la mini-cámara montada sobre un sistema de servos que permitiera un amplio grado de libertad de movimientos de la cámara con el objetivo de poder visualizar todo el entorno alrededor del robot.
+
+
+Montaje del sistema de servos de la mini-cámara
+
+
+Este sistema de movimiento de la cámara es controlado por una placa GP_Bot diseñada en la EPS. Esta placa además de controlar el movimiento de la cámara también controla el movimiento del vehículo. Esto es posible porque la placa soporta el control de 4 motores.
+
+
+Plataforma inicial para el montaje de Observer
+
+
+Tras el montaje del sistema de servos, el siguiente paso era el montaje del sistema de comunicaciones entre el PC y el robot. El sistema de desarrollo GP_Bot dispone de un conector para un módulo de radio Aurel y en el CRM disponemos de un software para comunicación radio que nos ha dado muy buen rendimiento sobre el robot Bartolo. Sin embargo, en esta ocasión decidimos experimentar con los radio-modem disponibles en el mercado, para comprobar su funcionamiento y compararlos con nuestro sencillo sistema de comunicaciones. El radio-modem seleccionado fue el Radiomodem Wlink434s de DMD.
+
+
+Imagen del kit Wlink434s completo
+
+
+El radio-modem lo empleamos como sistema de comunicación entre PC y robot con el objetivo de enviar comandos de control desde el PC. Inicialmente, el robot no envía ninguna información al PC, aunque esto es posible. El radio-modem viene preparado para conectarse a un PC, pero no para poder conectarse a un sistema de desarrollo como la GP_Bot, por lo que fue necesario adaptar un cable RJ-45 (de red), que es el empleado por el Wlink434s, al conector serie disponible en la GP_Bot. Al mismo tiempo, y dando un paso más allá en lo que hasta ahora habíamos realizado, compramos un sistema radio de transmisión de audio/video en la banda de los 2,4 GHz. Este sistema, completamente compatible con el radio-modem, que funciona en la banda de los 433 MHz, nos permite enviar la imagen de la mini-cámara al PC, donde es capturada por un tarjeta de tv (con entrada de video, cosa bastante común en estas tarjetas). Este sistema de transmisión de video es idéntico al empleado en entornos domésticos para visualizar el video, dvd, etc. en una televisión alejada del aparato.
+
+
+Montaje del módulo de transmisión de imagen y del radio-modem
+
+
+La inclusión de ambos módulos de comunicación obligó a necesitar incorporar un segundo "piso" a la plataforma del robot para poder soportar la cantidad de dispositivos necesarios. El diseño resultante dispone de una base móvil (Robot Clónico), una primera "planta" donde se ubican el emisor de video y el sistema GP_Bot y una última "planta" donde va el sistema de servos para la mini-cámara, y el radio-modem. El resultado es este:
+
+
+Plataforma resultante tras la incorporación de todos los elementos
+
+
+Tras el montaje de todos los componentes del robot, ya solo quedaba programar el microcontrolador del robot y la aplicación de control desde el PC. Esto fue sencillo, ya que reutilizamos mucho del software desarrollado para Bartolo y para otras aplicaciones, como "los ojos", de la que reutilizamos el control mediante canvas, mediante el cual solo es necesario el ratón como dispositivo de control, y que en este caso se empleo tanto para el control del movimiento del robot como de la mini-cámara, demostrando que es un sistema de control INTUITIVO y FÁCIL:
+
+
+Sistema de control desde el PC. Se aprecian los dos canvas de control y la imagen de la mini-cámara
+
+
+El software del PC fue desarrollado sobre plataforma GNU-Linux y utilizando librerías de GNOME. Lo mismo para el caso de la visualización de la imagen de la mini-cámara, que se realizó empleando la aplicación xawtv. De este modo, es posible controlar el robot aunque no lo estemos viendo, ya que podemos manipularlo con la información recibida de la mini-cámara. Aquí teneís un ejemplo de como se vé:
+
+
+Imagen enviada desde la mini-cámara al PC
+
+
+El resultado final fue un robot bastante EXPECTACULAR en cuanto a las posibilidades que ofrece. Posteriormente la idea es incoporarle más sensores que trasmitan más información a la persona que lo manipula desde el PC. Además este robot guiado desde PC permite realizar aplicaciones de control automático a través del PC, ya que es posible conseguir que un programa de PC controle el vehículo, como en el caso de Cortocircuito.
+
+
+Aspecto final de Observer
+
+
+MODIFICACIONES
+
+Para intentar mejorar el alcance del sistema de vídeo, se cambiaron las bases metalizadas que forman los distintos módulos del robot, entre los que se encuentra el emisor de vídeo, por bases de metracrilato.
+
+Observer transparente
+
+
+
+Observer transparente "en acción"
+
+
+Documentos adicionales
+video1 (3,4 M)
+video2 (4,5 M) 	Videos de Observer en la IV Feria de Madrid por la Ciencia.
+video (18,2 M) 	Controlando a Observer
+video1 (1,7 M)
+video2 (1,9 M)
+video3 (2 M)
+video4 (2,9 M) 	Observer sigue una línea mediante un programa software de visión. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+TALLER DE MECATRÓNICA
+
+JUNIO 1997
+ 
+
+Escuela Técnica Superior de Informática, Universidad Autónoma de Madrid, España
+
+Reglamento de Competición del Torneo Abierto de Mecatrónica-Robótica de Madrid
+
+    Participantes: Abierto a todos los interesados.
+
+    Categorías:
+
+    Categoría Microrobot:
+
+    Tipo de competición:
+        a. Mínimo tiempo para recorrer un circuito señalizado por una línea negra sobre una superficie blanca.
+
+        b. Sumo-Robot.
+         
+    Peso máximo del vehículo: 750 gramos.
+
+    Alimentación: autónoma, con una tensión máxima 6 voltios.
+
+    Control: Autónomo.
+
+    Microprocesador: 68HC11A1
+
+    Dimensiones máximas: Largo x Ancho= 21x21 centímetros. No hay límite de altura. Están permitidas partes retractiles.
+
+    Motores de tracción: como máximo dos motores eléctricos tipo FUTABA FP-S3003 modificado para obtener giro completo.
+
+    Movimiento: mediante ruedas (número ilimitado) siempre que su diámentro máximo no supere 3,6 cm. Están permitidas las orugas, con las mismas limitaciones de las ruedas.
+
+    Motores y servomecanismos de dirección, orientación, etc. (excepto tracción): libre.
+
+    Sensores: libre.
+
+    Otros: está prohibido golpear con mecanismos accionados con muelles, incendiar, mojar, taladrar, cortar, etc. al robot oponente.
+
+    Cada participante puede inscribir un número ilimitado de vehículos. El tipo de torneo (liguilla, eliminación directa, etc.) dependerá del número de inscriptos y se dará a conocer el día de la competición.
+     
+
+    Categoría Libre:
+
+    Tipo de competición:
+     
+        a. Mínimo tiempo para recorrer un circuito señalizado por una línea negra sobre una superficie blanca.
+
+        b. Sumo-Robot.
+    Peso máximo del vehículo: 3 kilos.
+
+    Alimentación: autónoma, sin límite de tensión.
+
+    Control: autónomo.
+
+    Microprocesador: Libre.
+
+    Movimiento: Libre (ruedas, orugas, brazos, etc.).
+
+    Dimensiones máximas: Largo x ancho= 20x20 centímetros. No hay límite de altura. Están permitidas las partes retractiles.
+
+    Motores de tracción: Libre.
+
+    Motores para servomecanismos: Libre.
+
+    Sensores: libre.
+
+    Otros: está prohibido incendiar, mojar, taladrar, cortar, etc. al robot oponente.
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+INTRODUCCIÓN
+
+El objetivo de este proyecto es desarrollar un sistema de comunicación que permita a un microbot compartir información con un PC para la toma de decisiones. Si bien pueden existir muchas soluciones en el mercado, la idea de realizar un desarrollo propio pasa por que el resultado sea un sistema barato, sencillo y fácilmente adaptable a nuestras necesidades. Ello no quita que el sistema resultante no sea fiable, es decir, no solo queremos que lleguen los datos correctamente sino que además debemos conocer si han llegado. Esta característica nos llevó a diseñar un protocolo para la comunicación muy similar al empleado en redes de comunicaciones de ordenadores, del cual hemos sacado algunas ideas.
+
+LA COMUNIDAD DE MICROBOTS
+
+El diseño de un microbot pasa por emplear microcontroladores con un capacidad de procesamiento y memoria limitados debido a que las tareas que tienen que realizar están muy relacionadas con el control de actuadores o lectura de sensores. Sin embargo, algunas tareas requieren que el robot sea capaz de mantener una cantidad de información de su entorno y al mismo tiempo procesarla. Es en este punto donde entra el PC, actuando como "almacen" de memoria del microbot y en ocasiones, procesando por él la información para realizar de una manera más eficiente la tarea.
+
+En principio puede parecer que el microbot deja de ser autónomo, pero todo depende del papel de cada uno. Cuando el PC da todas las ordenes de control al microbot, podemos considerar al microbot como un "cochecito tele-dirigido" sin inteligencia propia. Si por el contrario, el microbot posee su propia inteligencia pero emplea al PC como "ampliación" de esa inteligencia, entonces estamos hablando de "cooperación PC - microbot".
+
+El termino "cooperación", en nuestro campo, indica que varios microbots (también podemos incluir al PC) se ayudan para realizar una tarea en común. Es importante que exista una buena comunicación entre los microbots para disponer de grupos trabajando en equipo. Es lo que denominamos "comunidad". En una comunidad, los miembros comparten información para desarrollar tareas más complejas. La comunidad además, puede ser mixta, puediendo incluir otro tipo de sujetos como PC´s, cuya aportación a la misma ya hemos comentado.
+
+EL MÓDULO DE RADIO
+
+Está disponible un documentos sobre el mismo. Pulsa aquí.
+
+EL PROTOCOLO
+
+Se encuentra dividido en varios niveles. El primero de ellos es el físico, que incluiría al módulo de radio y el mecanismo de transmisión y recepción de bit. El segundo, de "enlace inferior", se correspondería con la estructura de lo que se manda, puesto que a aparte de los datos es necesario incluir alguna información más. El tercer nivel, de "enlace superior", sería añadir un sistema de control de transmisión para solucionar los problemas de comunicación múltiple (varios emisores al mismo tiempo). Y posiblemente debamos definir algunos más.
+
+A continuación exponemos una breve descripción de cada nivel:
+
+    Nivel físico: Para la transmisión de los bits hemos empleado Codificación Manchester. El emplear esta codificación se debe en parte a que el módulo de comunicación que empleamos es AM con lo cual no es posible distinguir el envío de un cero y el estado de no comunicación (en ambos casos existe ausencia de señal). Con esta codificación, el cero se define como una transición 0-1 y el uno como una transición 1-0. La recepción consiste simplemente en muestrear cada cierto intervalo de tiempo para capturar las transiciones. El intervalo de muestreo se saca de la sincronicación con la trama que nos están enviando, mediante una cabecera de inicio que consiste en siete unos y un cero.
+    Nivel de "enlace inferior": Hemos definido el conjunto de datos que por ahora han sido necesarios para permitir una comunicación fiable. Este conjunto de datos se agrupan en lo que hemos definido como trama de comunicación:
+        Direcciones de origen y destino: Es necesario identificar a cada microbot o PC con el objetivo de poder establecer una comunicación directa, por ello se han incluido un campo de un byte para cada una de las direcciones. Esto implica que cada dirección debe ser única.
+        CRC: El medio de comunicación, ondas de radio, es un medio muy ruidoso y es probable que los datos enviados no lleguen adecuadamente. El campo CRC se emplea para verificar que el contenido de la trama es correcto. El algoritmo empleado actualmente es una sencilla suma módulo 2^X, donde X es el tamaño en bit del campo (por ahora nos vale). Actualmente se emplea un byte para este campo.
+        Tipo de trama: Existen dos tipos de tramas (por ahora), de datos y de asentimiento (son las que se envían para confirmar la llegada de las tramas de datos), por lo que es necesario añadir al menos un bit para identificar cada tipo. Este bit se encuentra en el campo de control, que actualmente también es de un byte.
+        Numeración de trama: Es posible que las tramas de ack se pierdan (no se reenvian) por lo que es necesario añadir en el campo de control un pequeño subcampo que contendra el número de trama. Esto permite al receptor comprobar si ya ha recibido esa trama o no, si es que el emisor la ha reenviado. En caso de repetirse se debe asentir pero no procesar. Se encuentra en el campo de control y se manejan 3 bits.
+        Ventana de transmisión: No le hemos visto todavía la utilidad debido a que los comandos se envía en una misma trama, sin necesidad de particionar en varias tramas. Por ahora le hemos dedicado un bit del campo de control.
+        Campo de datos: Por ahora le hemos dedicado un byte. Esto es poco y probablemente se amplie a dos bytes.
+    El tamaño total de trama es de 40 bits.
+    El nivel de "enlace superior": Por ahora estamos evaluando las distintas posibilidades que existen. Inicialmente nos decantamos hacia un sistema similar al protocolo ALOHA, desarrollado para resolver este problema en comunicaciones de radio convencionales.
+
+ESTADO ACTUAL
+
+Ya se han desarrollado los dos primeros niveles tanto para PC como para microbot. Realmente no se trata de dos sistemas distintos. En el caso del PC se emplea un tarjeta GP_Bot al igual que el microbot, pero con la diferencia de que la del PC lleva una interfaz serie para recibir y enviar los comandos hacia y desde el PC.
+
+El desarrollo de estos dos niveles nos permite comunicarnos bidireccionalmente de modo que es posible, por ejemplo, controlar un microbot desde el PC y además, solicitarle que nos envíe información de alguno de sus sensores.
+
+Ahora debemos probar su comportamiento con varios emisores y receptores con el objetivo de pasar al siguiente nivel.
+
+PRÓXIMAS MEJORAS
+
+    Desarrollo del siguiente nivel, el "nivel de enlace superior".
+    Habilitar algún sistema de control de conexión para almacenar información de cada conexión (dirección, número de la última trama, etc.). Esto nos lleva a tener que incluir una serie de tramas de presentación (el microbot/PC se "da a conocer"), y de baja (el microbot/PC comunica que ya no va a seguir) con lo cual, es probable que sea necesario definir una dirección "broadcast".
+
+Estas son algunas de las ideas que tenemos. Se irán desarrollando poco a poco, a medida que el tiempo libre lo permita. Por ahora, hemos cubierto el punto más importante que era hacerlo posible ;P .
+
+EVOLUCIÓN DEL PROYECTO
+
+La idea inicial es poner este sistema a dispoción de quién tenga interés en usarlo. Lo primero será poner en la web una documentación sobre su funcionamiento y posteriormente el código que describe el protocolo. Este código se encuentra en ensamblador de la familia HC08 de Motorola. Eso significa que puede ser un poco críptico a la hora de portarlo a otros microcontroladores que no sean de Motorola (el ensamblador es similar al del 68HC11 por poner un ejemplo).
+
+Por otro lado, ya hemos desarrollado una placa con un microcontrolador de la familia HC08 que incluye únicamente lo necesario para la comunicación por radio y una interfaz serie, de modo que permita conectarla a cualquier otro dispositivo, desde otras placas con microcontrolador hasta un PC. Esta sería la opción más sencilla a la hora de incluir la comunicación radio en cualquier diseño, pues todo se reduce a ensamblar el código y grabarlo en el microcontrolador.
+
+
+protocolo_radio.pdf
+(280 K)
+	Documentación sobre el desarrollo. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    La idea de este proyecto es diseñar un robot controlado desde PC que permita al operario del mismo disponer de un control total del robot además de disponer "en remoto" de todo tipo de sensores que irán acoplados al robot.
+
+    Para llevar a cabo este objetivo se están probando distintos sistemas de control del robot, sensores de medición, etc. Por ahora, ya hemos seleccionado algunos de los componentes que debe llevar el robot:
+
+        Control por radio PC-Robot.
+        Mini-cámara sobre dos servos para una total libertad de control.
+        Transmisión de la imagen de la cámara a través de un sistema inalámbrico.
+        Sensores de medición de distancia para disponer de más información sobre el control del vehículo.
+        Sensores de orientación: ¿brújula?
+
+
+
+    Observer es el prototipo de robot explorador más avanzado
+
+
+
+    PROTOTIPOS
+
+        Primer Prototipo
+        Bartolo
+        Observer
+
+
+
+
+
+
+
+
+
+    DESCRIPCIÓN
+
+    En este primer prototipo se pueden observar los siguientes componentes:
+
+        Un sensor de infrarrojos Sharp GP2D02, capaz de detectar la presencia de un objeto que se encuentre en un rango máximo de 80 cm.
+        Un motor paso a paso KP4M4-001 con un ángulo de operacion de 3,6 grados.
+        Dos servos Futaba S3003 "capados", con lo cual se emplean como simples motores de corriente continua (con reducciones).
+        Las placas GP_Bot y GP_Bot_Ifaz desarrolladas en nuestra escuela.
+        La batería de alimentación, de 7,5 V.
+
+    En la foto pueden apreciarse todos los componentes, e incluso el codensador de 470uF que es necesario para cubrir los requisitos de corriente del Sharp a la hora de realizar una medida.
+
+    OBJETIVO
+
+    El objetivo inicial del desarrollo de este microbot era aprender el montaje y manejo de los distintos componentes que lo forman: Sharp, motores paso a paso, PWM, etc. El resultado fue muy satisfactorio, y de ello han surgido algunos de los documentos que se muestran en la web.
+
+    Una variación posterior del microbot fue sustituir el motor paso a paso, por un servo no trucado para poder comparar ambas soluciones. Las conclusiones aparecen documentadas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bartolo era inicialmente un coche teledirigido que nos cedió el Grupo de Neurocomputación Biológica de la EPS.
+
+MONTAJE Y CONTROL
+
+Lo primero fue adaptarle la tarjeta de control GP_Bot. Posteriormente, la idea era añadirle una pequeña mini-cámara montada sobre una estructura de servos para poder moverla libremente. La apariencia de Bartolo después de esta transformación es esta:
+
+
+Aspecto inicial de Bartolo
+
+
+Tras esta adaptación se procedió a desarrollar el software para poder controlar su desplazamiento. En este aspecto sus características de coche teledirigido nos facilitaron bastante las cosas, ya que Bartolo presenta un servo para el control de dirección y un controlador de velocidad mediante PWM. Esto simplifica el control al empleo de un sistema de generación de señal PWM. La única complejidad por tanto es la programación de PWM en la GP_Bot (tiene hardware específico para esta tarea) y establecer el rango de las señales PWM tanto de la dirección como del controlador de velocidad.
+
+
+Controlador de velocidad de Bartolo
+
+
+Posteriormente, también fue programado el movimiento de la cámara, que igual que para el control, consiste en programar los dos servos.
+
+
+Mini-cámara montada sobre dos servos
+
+
+
+RADIO CONTROL
+
+Tras disponer del software de control de Bartolo, la siguiente fase era permitir su control desde un PC. El sistema de desarrollo GP_Bot dispone de un conector para un módulo de radio Aurel y en el CRM estábamos desarrollando un software para comunicación radio, por lo que Bartolo fue el primer robot en incorporar este sistema. Los resultados fueron muy buenos, y conseguimos disponer de un control interesante del robot desde el PC.
+
+POSTERIOR TRANSFORMACIÓN
+
+Bartolo sufrió alguna que otra remodelación de su estructura para que presentará una imagen un poco más acorde con su expectacularidad:
+
+
+Aspecto actual de Bartolo
+
+
+Además, y en vista de que se iban a añadir más sensores, se hizo necesaria una segunda GP_Bot esclava para disponer de la posibilidad de manejar un mayor número de periféricos (sensores).
+
+El resultado final es una apariencia espectacular que esconde un vehículo muy rápido bastante díficil de controlar.
+
+EVENTOS
+
+Bartolo se convirtió en el robot insignia del CRM. En todos aquellos eventos en los que hemos participado no ha faltado, siendo siempre uno de los robots que más ha llamado la atención.
+
+FOTOS
+
+GP_Bot conectada a Bartolo
+
+
+
+La impresionante rueda de Bartolo
+
+
+
+Bartolo de frente (aspecto inicial)
+
+
+
+Bartolo en la Presentación 2001
+
+
+
+Bartolo en la ChampionBot 2001
+
+
+
+Bartolo de frente (aspecto final)
+
+
+
+Bartolo visto de lado
+
+
+
+Bartolo en el SICFIMA VII
+
+Documentos adicionales
+video (3,4 M) 	Bartolo en la "Presentacion 2001".
+video1 (2,1 M)
+video2 (1,3 M)
+video3 (1,2 M) 	Videos de Bartolo en la ChampionBot. 
+
+
+
+
+
+
+
+
+
+
+Asociación de estudiantes
+Club de Robótica-Mecatrónica
+
+Bienvenido al portal de la asociación de estudiantes Club de Robótica-Mecatrónica.
+Actualmente estamos actualizando el portal por lo que únicamente está disponible esta página.
+
+Si quieres ponerte en contacto con nosostros para conocer quienes somos y las actividades que tenemos, no dudes en mandarnos un mensaje a la siguiente dirección de correo electrónico:
+
+CRM.UAM@gmail.com
+Ciudad Universitaria de Cantoblanco
+Calle Francisco Tomás y Valiente, 11
+28049 - Madrid (España)
+	Construir un robot puede parecer dificil, pero no lo es.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALBUM DE FOTOS DEL CURSO DE JULIO DE 1999
+
+
+
+    A principios de Julio de 1999, recien acabados los exámenes de Junio, el club organizó un curso de una semana de duración orientado a la fabricación de un pequeño microrrobot. El curso tuvo un gran aceptación y tuvo lugar en el local que el club tenía en la antigua ubicación de la ETSI de Informática de la UAM en el módulo IV de la Escuela Universitaria de Profesorado Santa María.
+
+
+    En primer lugar impartimos unas lecciones sobre programación y sobre el lenguaje ensamblador del microcontrolador 68hc11 de Motorola. Al día siguiente explicamos la electrónica del robot así como el funcionamiento y modificación de servomotores. En esta imagen podemos ver varios participantes del curso elaborando la etapa de potencia. Se aprecia además en la imagen los dos ordenadores que utilizabamos para programar los microcontroladores y depurar los programas.
+
+
+    En esta imagen vemos a uno de los grupos tras haber construido su microrrobot. La mesa que aparece en la imagen, preparada con ocasión del primer concurso de microrrobots de Madrid que tuvo lugar en 1998 en la ETSI de Informática de la UAM, se utilizó para probar los robots desarrollados durante el curso.
+
+
+    Ya en funcionamiento sobre el circuito los integrantes del grupo estan muy pendientes de que el robot siga la línea negra del trazado del circuito.
+
+
+    Los integrantes de otro grupo ponen a prueba su creación en el circuito de Sumo. Mientras tanto se hace sentir el espíritu de colaboración presente a lo largo de todo el curso, puesto que los demás participantes opinan sobre el funcionamiento del robot al tiempo que sugieren posibles mejoras.
+    En definitiva el curso fue un éxito y sus integrantes mostraron gran satisfacción por el mismo. Basta decir que hasta nos ayudó a quitar gran parte de la inquietud de estar pendientes de las notas de los exámenes de Junio :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    LA HISTORIA DE CORTOCIRCUITO
+
+    La historia de Cortocircuito es muy larga... Inicialmente, fue construido para participar en las pruebas de la ChampionBot, por ello se le dotó de sensores de CNY70 para detectar líneas en el suelo, un sensor Sharp para detectar obstáculos (a otros robots más bien) y receptores de infrarrojos para la detección de balizas. Sin embargo, todo el trabajo invertido en él se fue al "traste" cuando por razones desconocidas, los circuitos de potencia de los motores (L293) se empeñaron en "estallar" durante el desarrollo del software para la prueba del zorrobot. Todavía no sabemos el porqué, pero la cuestión es que al final, decidimos no llevarlo.
+
+    Durante el desarrollo de la prueba libre, donde Bartolo iba a ser la "estrella", nos dimos cuenta de que debido a la dificultad de su control, iba a ser bastante complicado conseguir nuestro objetivo. Entonces, la elección fue clara, aprovechar a Cortocircuito para esta prueba.
+
+    LA PRUEBA LIBRE
+
+    Algunas semanas antes de la ChampionBot, en el CRM habíamos empezado a trabajar en temas de visión artificial. Se trataba de cosas muy sencillas pero nos dimos cuenta de que existía la posibilidad de que con ayuda de un ordenador, un robot pudiera seguir una línea negra (se trataba de distinguir simplemente si blanco o negro).
+
+    EL DESARROLLO
+
+    Comenzamos conectando una pequeña cámara a un ordenador y capturando imagenes para procesarlas posteriormente. Se trataba de distinguir una línea negra en un fondo blanco, donde la diferencia entre pixels es bastante evidente. Las pruebas demostraron que lo que nosotros pensábamos que era blanco no era tan blanco (por eso los anuncios de detergentes nos "dan la paliza" con lo del "blanco más blanco") y que lo negro tampoco era tan negro. Se trataba pues de establecer umbrales y a partir de los mismos aceptar que algo era blanco o negro (cualquier otro color se consideraba negro también). Con estos umbrales podíamos solventar el problema de que hubiese demasiada luz, o cualquier otro efecto de luz que pudiera ocurrir durante la prueba (es muy conocido este problema entre los que usan los CNY70 para detectar blanco y negro, donde la solución es usar conversores A/D y establecer umbrales).
+
+
+
+    Imagen de Cortocircuito. Se aprecian la cámara, el cable que va al PC y el módulo de radio.
+
+    Una vez terminamos de probar el software del PC, solo necesitábamos establecer el sistema de envío de las imágenes al PC y las órdenes adecuadas al robot. Para la transmisión de imagen teníamos pensado utilizar un módulo de transmisión radio, ya muy extendidos y usados, de bajo coste y montaje sencillo, pero el tiempo se echo encima y al final tuvimos que usar un cable. En cuanto al envío de las órdenes al PC, aunque ya era factible el uso de un cable, decidimos seguir con la idea de usar transmisión radio y utilizamos nuestro protocolo de comunicación. De este modo, y ya en el futuro, solo sería necesario incorporar el módulo de transmisión de video y el sistema sería completamente "wireless".
+    Las primeras pruebas fueron muy buenas, aunque teníamos que controlar que el robot se moviera a la velocidad justa para no perderse de la línea, sobre todo en los giros. Pero todo fue perfecto.
+
+    EL DÍA DE LA PRUEBA
+
+    Tras las pruebas realizadas, estábamos convencidos de que funcionaría correctamente. Lo primero que hicimos fue explicar como funciaba el software y todo el mecanismo de comunicación para posteriormente colocar a Cortocircuito sobre el "circuito".
+
+
+    Iván colocando a Cortocircuito mientras Charli explica su funcionamiento.
+
+    Como el jurado estaba muy atento, y el circuito parecía demasiado sencillo, nos propusieron poner a cortocircuito sobre el círculo de cinta negra de la prueba de las sillas. Incluso en este caso, en el que la superficie era moqueta y además estaba bastante "sucia" (pisadas, suciedad, etc.) el software fue capaz de establecer los umbrales adecuados para evitar que el robot se confundiera en caso de que la línea coincidiese al lado de una pisada, etc. Lo cierto es que fue un éxito rotundo.
+
+
+
+    Cortocircuito siguiendo el recorrido de la prueba.
+
+    Para culminar la prueba, se nos ocurrió probar que Cortocircuito apuntará con su cámara hacia adelante en vez de hacia el suelo. El resultado fue que era capaz de seguir a cualquier persona que tuviese delante, porque al generar los umbrales, el sistema omitía el fondo y solo la que estaba más cerca, y que por tanto le ofrecía un "constraste más oscuro", era visible. El público apreció el detalle y correspondió la escena (Cortocircuito perseguía a Iván, obviamente, despacito) con risas y aplausos. Aquello parecía un espectáculo del circo ;P
+
+    RESULTADO
+
+    Nuestro objetivo no era competir por un premio, y la resolución del jurado, de que ambos finalistas de la prueba libre compartiéramos el premio, nos pareció justa y acertada. Ambos diseños estaban a la altura de las expectativas. Esto es un claro ejemplo de que los importante es vivir la experiencia y ver que la gente aprecia tu trabajo e incluso, puede que hasta consigas que les interese hasta tal punto que decidan participar, objetivo principal de nuestra Asociación.
+
+    Esta disponible un vídeo de la prueba.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Se trata del módulo de transmisión / recepción que hemos empleado en nuestro protocolo de comunicación radio.
+
+    Foto del módulo
+
+    Especificaciones Técnicas
+
+    Modulo-Transceiver para transmisión de datos digital, que permite comunicación radio half-duplex. Intercambio rápido entre Rx-Tx. El ancho de banda LF es de 2400 baudios máximo empleando codificación Manchester.
+    Frecuencia disponible: 	433.92 MHz
+    Ancho de banda LF: 	Onda cuadrada de 5 KHz máximo
+    Tiempo de intercambio Tx-Rx: 	mejor de 100 ms, con la sección Rx activa
+    Dimensiones: 	63.5 x 17.9 x 5 mm
+    Longitud del pin: 	2.54 mm
+    Consumo (a 5V): 	Sección Tx < 4.5 mA con modulación de onda cuadrada
+    Sección Rx < 2.5 mA
+    Ambas secciones inactivas: no hay consumo
+
+    Distribución de pines
+
+    Diagrama de bloques
+
+        Pines 1, 6, 10, 11, 12, 13, 14, 16, 20 a GND
+        Pin 2 Entrada de datos Tx: 0V = Tx Off | 5V = Tx On
+        Pin 8 Alimentación Tx: +5V
+        Pin 9 Antena
+        Pin 22 Salida analógica Rx
+        Pin 23 Salida digital Rx
+        Pin 24 no utilizado
+        Pin 25 Alimentación Rx: +5V
+
+
+    Montaje del módulo sobre la placa GP_Bot
+
+    Manejo del módulo
+
+    El montaje del módulo es muy sencillo ya que la mayor parte de sus pines se conectan a Vcc o a GND. Solo nos interesan por tanto, la entrada de datos (pin 2) y la salida digital (pin 23). Al pin 9, es importante conectarle una antena con una longitud de 17cm (esta longitud se corresponde con un monopolo en lambda / 4) para asegurar una buena comunicación.
+
+    El módulo cumple únicamente con la parte de transformación de la señal, convirtiendo la señal introducida por el pin 2, a onda de radio, y convirtiendo cualquier señal de radio recibida a su correspondiente valor binario, devolviéndolo por el pin 23 (el pin 22 devuelve la misma información pero en modo analógico).
+
+    Nuestras conclusiones
+
+    Este pequeño y simple módulo permite desarrollar un sencillo sistema de comunicación radio. Si bien es necesario desarrollar toda la parte de control de comunicación, es perfecto para las aplicaciones con microbots debido a que el sistema de comunicación no es muy complejo y a que no es necesario el intercambio masivo de datos. Con un ancho de banda máximo de 4800 baudios (2400 si se emplea codificación Manchester), hemos obtenido muy buenos resultados, y por ahora, se ajusta a nuestras necesidades.
+
+    Como posible inconveniente podemos destacar el tiempo de intercambio entre transmisión y recepción, que aunque es rápido (menos de 100 ms), puede ralentizar el tiempo entre una "pregunta" y la "respuesta", permitiendo que otro dispositivo puede comenzar una nueva "conversación". Pero estos problemas solo se pueden encontrar en entornos donde 3 o más dispositivos puedan "hablar".
+
+    No hemos probado su alcance total, aunque se garantizan más de 100m en un entorno libre de obstáculos. Por ahora podemos verificar un alcance de aproximadamente unos 30m, en un entorno con un número elevado de obstáculos. En un futuro, tenemos pensado realizar pruebas más específicas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El jueves 22 de Mayo, nos llevamos a Observer al hall de la Escuela para realizar pruebas del alcance de los módulos de comunicación radio. Para ello nos llevamos una mesa, que situamos primero a un lado del hall y posteriormente en el centro del mismo, donde colocar el ordenador de control de Observer:
+
+
+Mesa de control
+
+
+Para la medición de distancia controlamos a Observer por los pasillos laterales al hall, para probar hasta donde era posible llegar obteniendo una buena calidad en la imagen recibida y sin que se perdiese el control del microbot:
+
+
+Observer en los pasillos de la Escuela
+
+
+He incluso lo colamos en una de las aulas en plena clase:
+
+
+Observer en clase
+
+
+Como cabía esperar, muchos alumnos se acercaban a mirar lo que estaba ocurriendo y decidimos hacer algo un poco más espectacular: construir un circuito para que Observer lo siguiese gracias al programa de procesamiento de imagen desarrollado para Cortocircuito y que ha sido adaptado para Observer:
+
+Construyendo el circuito
+
+
+Y para que la prueba tuviera un poco de dificultad no construimos un circuito continuo, sino que lo cortamos en ciertos puntos para probar como se desenvolvía Observer:
+
+
+¡¡Circuito terminado!!
+
+
+Habíamos hecho muy pocas pruebas, pero nunca algo parecido. Sin embargo, Observer paso la prueba con éxito. Era impresionante comprobar como era capaz de, cuando se perdía, deshacer sus pasos y volver a intentarlo. ¡¡Todo un espectáculo!!:
+
+
+Situación del circuito en el hall
+
+
+
+Vista del circuito
+
+
+
+Observer a punto de entrar en la zona discontinua
+
+
+Finalmente y para terminar, controlamos a Observer desde el hall en dirección a los exteriores de la Escuela, en otra prueba para determinar el alcance de las comunicaciones:
+
+
+Observer se aleja de la Escuela
+
+
+
+Vista exterior de la Escuela, con Observer de exploración
+
+
+Aunque inicialmente esta actividad no iba dirigida al público, ya sabíamos que se iba a acercar mucha gente interesada en conocer que es lo que estábamos haciendo. Al final se convirtió en otra exhibición más... y quizás pueda ser una buena idea de cara a realizar futuras presentaciones de la Asociación.
+
+Documentos adicionales
+video1 (2,8 M)
+video2 (2,3 M)
+video3 (2,9 M)
+video4 (2,4 M)
+video5 (2,2 M)
+video6 (3,0 M)
+video7 (2,4 M)
+video8 (2,9 M)
+video9 (2,9 M)
+video10 (2,9 M)
+video11 (3,4 M)
+video12 (2,9 M)
+video13 (3,2 M) 	Videos de Observer durante las pruebas en el hall. 
+
+
+
+
+
+
+
+
+
+
