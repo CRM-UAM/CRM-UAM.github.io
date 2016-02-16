@@ -9,6 +9,7 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 * Lista de actividades para 2016. [PDF](ListaActividades2016.pdf)
 * Cartel de aviso en la puerta. [PDF](recordatorio_puerta/cartel_recordatorio_puerta.pdf), [ODT](recordatorio_puerta/cartel_recordatorio_puerta.odt)
 * Ficha de inscripción. [PDF](ficha_inscripcion/ficha_inscripcion.pdf), [ODT](ficha_inscripcion/ficha_inscripcion.odt) (obsoleta, ahora se usa el [formulario web](/registro))
+* Plantilla para la lista de miembros. [ODT](plantilla_listaMiembrosCRM.odt)
 
 
 Actas
@@ -33,6 +34,8 @@ Memorias y solicitudes de presupuesto
 * Memoria 2013. [PDF](Memorias/2013_memoria/Presupuestos 2013_2014.pdf)
 * Memoria 2012. [PDF](Memorias/2012_memoria/Memoria_CRM_2012.pdf)
 * Memoria 2011. [PDF](Memorias/2011_memoria/proyectos2010-2011.pdf)
+
+Para mantener la asociación, se debe presentar a Rectorado en Noviembre de cada año: la memoria de actividades del año anterior, la solicitud de subvención (lista de proyectos con su coste estimado), la lista de miembros ([plantilla](plantilla_listaMiembrosCRM.odt)) y la junta directiva actualizada
 
 _Se pueden encontrar las fuentes LaTeX [en el repositorio GitHub](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/administrativo/Memorias/)_
 
