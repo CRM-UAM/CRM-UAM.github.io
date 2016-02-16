@@ -13,6 +13,7 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 
 Actas
 --
+
 * Acta de la reunión 9/Feb/2016. [PDF](Actas/acta_9_2_2016.pdf)
 * Acta de la reunión 11/Dic/2015. [PDF](Actas/acta_11_12_2015.pdf)
 * Acta de la reunión 26/Oct/2013. [PDF](Actas/acta_26_10_2013.pdf)
@@ -23,8 +24,10 @@ Memorias y solicitudes de presupuesto
 --
 
 * Información para el cobro de subvenciones (_CIF de la UAM: Q-2818013-A_). [PDF](cobro_de_subvenciones.pdf)
-* [Facturas y gastos](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/administrativo/Facturas/)
 * Plantilla de petición extraordinaria de presupuesto. [ODT](plantilla_peticion_subvencion.odt)
+
+* Lista de gastos 2016. [ODT](Facturas/2016/lista_gastos_CRM_2016.odt)
+* Todas las [facturas](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/administrativo/Facturas/)
 * Memoria 2015. [PDF](Memorias/2015_memoria/memoria.pdf)
 * Memoria 2014. [PDF1](Memorias/2014_memoria/Memoria_CRM_2014.pdf), [PDF2](Memorias/2014_memoria/Presupuestos14_15.pdf)
 * Memoria 2013. [PDF](Memorias/2013_memoria/Presupuestos 2013_2014.pdf)
