@@ -10,6 +10,13 @@ Plantillas para promocionar los eventos del club con "spamming" del bueno :-)
 Diseñadas por Lucas Polo, Víctor Uceda y Carlos García  
 
 
+
+<div align="left">
+<img src="2016_Cartel_ArduParty4marzo.jpg" width="300"/><br/>
+<a href="2016_Cartel_ArduParty4marzo.odp">fuente ODP</a>
+</div>
+
+
 <div align="right">
 <img src="2016_Cartel_viernesAbierto19febrero.jpg" width="300"/><br/>
 <a href="2016_Cartel_viernesAbierto19febrero.odp">fuente ODP</a>

@@ -5,6 +5,8 @@ permalink: /actividades/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
+* (2016) **Jornadas "ArduParty"**. Más información [en nuestro blog](/blog)
+
 * (2016) **"Viernes abiertos"** del Club de Robótica. Más información [en nuestro blog](/blog)
 
 * (2014) [**ArduParty 2014**](2014_ArduParty), taller organizado por Víctor Uceda, Carlos García, Pablo Moreno y Miguel Rodríguez. *Escuela Politécnica Superior, 19 de Septiembre de 2014*
