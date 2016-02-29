@@ -10,11 +10,11 @@ estiloEnPortada: "border-radius: 25px; background: #fcf8dd; border: 3px solid #f
 
 **Fecha:** viernes 4 de Marzo, de 15h a 18h  
 **Lugar:** Local B-111 (Planta baja del edificio B)  
-**Tema:** Construye tu primer printbot con Arduino ([ediciones anteriores](/actividades/2014_ArduParty/))
+**Tema:** _Construye tu primer printbot -un robot fabricado con impresión 3D- y aprende a usar Arduino._ [Ediciones anteriores de ArduParty](/actividades/2014_ArduParty/)
 
 [Formulario de **inscripción**](https://docs.google.com/forms/d/15JNWCaRu0UmlD91FGwoYwTr4CO1n2xcxikPCxwO3AZ0/viewform)  
 --
 
 **¡¡¡Importante traer ordenador portátil!!!**  
-[Contacta con nosotros](/contacto) si tienes alguna pregunta
+[Escríbenos](/contacto) si tienes alguna pregunta
 
