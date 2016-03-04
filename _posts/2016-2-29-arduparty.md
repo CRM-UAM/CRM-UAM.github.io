@@ -13,7 +13,9 @@ estiloEnPortada: "border-radius: 25px; background: #fcf8dd; border: 3px solid #f
 **Tema:** _Construye tu primer printbot -un robot fabricado con impresión 3D- y aprende a usar Arduino._ [Ediciones anteriores de ArduParty](/actividades/2014_ArduParty/)
 
 [Formulario de **inscripción**](https://docs.google.com/forms/d/15JNWCaRu0UmlD91FGwoYwTr4CO1n2xcxikPCxwO3AZ0/viewform)  
---
+
+
+**Códigos de ejemplo:** [siguelíneas](/actividades/2014_ArduParty/CodigosArduParty/SigueLineas.ino), [sensor de ultrasonidos](/actividades/2014_ArduParty/CodigosArduParty/ultrasonidosFunciones/ultrasonidosFunciones.ino)
 
 **¡¡¡Importante traer ordenador portátil!!!**  
 [Escríbenos](/contacto) si tienes alguna pregunta
