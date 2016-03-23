@@ -90,7 +90,7 @@ Algunos de los robots que han pasado por el CRM
 --
 
 * (2013) **Véctor 9000** (Víctor Uceda, Carlos García) Participante en Cosmobot'13, categoría velocistas. *La categoría velocistas consiste en trazar en el suelo una línea cerrada que deben seguir los robots. Gana el robot que complete el recorrido en el menor tiempo posible*. [**vídeo**](https://www.youtube.com/watch?v=wgSMBDEtGO0)  
-<center><img src="robots/2013_Vector-9000.jpg" height="200px"/></center><br/>
+<center><img src="robots/2013_Vector-9000/2013_Vector-9000.jpg" height="200px"/></center><br/>
 
 * (2012) **HKTR-9000** (Lucas Polo, Miguel Gargallo, Carlos García) Diseñado a partir del PolillaBot y utilizado en el [Taller de introducción a la robótica 2012](../actividades/2012_taller_arduino). El nombre HKTR (*Héctor*) es en honor de Héctor Ménendez, ex-presidente del CRM-UAM. *El HKTR-9000 dispone de sensores de línea, de luz, y de distancia, así como LEDs y un altavoz. De este modo se puede programar para seguir fuentes luminosas, esquivar obstáculos y seguir una línea trazada en el suelo.*  
 <center><img src="robots/2012_HKTR-9000/2012_HKTR-9000.jpg" height="200px"/></center><br/>
