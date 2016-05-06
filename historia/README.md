@@ -203,6 +203,13 @@ Cosmobot 2013 (Alcobendas)
 Juan González, que vino a visitarnos, y el UAM-Team: Carlos García y Víctor Uceda. El robot es el velocista [Véctor 9000](https://www.youtube.com/watch?v=wgSMBDEtGO0)
 
 
+Reunión del Club en 2011 :-)
+==
+<img src="varios/reuniones/2011_6nov.jpg" height="300px"/><br/>
+
+Fila superior: Lucas Polo, Miguel Gargallo, Carlos García, Raquel Villena, Víctor Hugo García, Sandra Jurado, Ester Vicario y Miriam Esteban. Fila inferior: Álvaro Pérez, Víctor López Juan, Víctor Uceda, Antonio Ortega
+
+
 Campus Party 2006
 ==
 
