@@ -207,7 +207,7 @@ Reunión del Club en 2011 :-)
 ==
 <img src="varios/reuniones/2011_6nov.jpg" height="300px"/><br/>
 
-Fila superior: Lucas Polo, Miguel Gargallo, Carlos García, Raquel Villena, Víctor Hugo García, Sandra Jurado, Ester Vicario y Miriam Esteban. Fila inferior: Álvaro Pérez, Víctor López Juan, Víctor Uceda, Antonio Ortega
+Fila superior: Lucas Polo, Miguel Gargallo, Carlos García, Raquel Villena, Víctor Hugo García, Sandra Jurado, Ester Vicario y Miriam Esteban. Fila inferior: Álvaro Pérez, Víctor López Juan, Víctor Uceda y Antonio Ortega
 
 
 Campus Party 2006
