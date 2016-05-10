@@ -29,12 +29,12 @@ Memorias y solicitudes de presupuesto
 
 * Lista de gastos 2016. [ODT](Facturas/2016/lista_gastos_CRM_2016.odt)
 * Todas las [facturas](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/administrativo/Facturas/)
-* Solicitud de presupuesto en segundo plazo 2016. [PDF](Memorias/2015_memoria/segundoPlazo15mar2016.pdf)
-* Memoria 2015. [PDF](Memorias/2015_memoria/memoria.pdf)
-* Memoria 2014. [PDF1](Memorias/2014_memoria/Memoria_CRM_2014.pdf), [PDF2](Memorias/2014_memoria/Presupuestos14_15.pdf)
-* Memoria 2013. [PDF](Memorias/2013_memoria/Presupuestos 2013_2014.pdf)
-* Memoria 2012. [PDF](Memorias/2012_memoria/Memoria_CRM_2012.pdf)
-* Memoria 2011. [PDF](Memorias/2011_memoria/proyectos2010-2011.pdf)
+* Solicitud de presupuesto en segundo plazo 2016. [PDF](Memorias/2015/segundoPlazo15mar2016.pdf)
+* Memoria 2015. [PDF](Memorias/2015/memoria.pdf)
+* Memoria 2014. [PDF1](Memorias/2014/Memoria_CRM_2014.pdf), [PDF2](Memorias/2014/Presupuestos14_15.pdf)
+* Memoria 2013. [PDF](Memorias/2013/Presupuestos 2013_2014.pdf)
+* Memoria 2012. [PDF](Memorias/2012/Memoria_CRM_2012.pdf)
+* Memoria 2011. [PDF](Memorias/2011/proyectos2010-2011.pdf)
 
 Para mantener la asociación, se debe presentar a Rectorado en Noviembre de cada año: la memoria de actividades del año anterior, la solicitud de subvención (lista de proyectos con su coste estimado), la lista de miembros ([plantilla](plantilla_listaMiembrosCRM.odt)) y la junta directiva actualizada
 
