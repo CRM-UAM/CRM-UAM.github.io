@@ -26,6 +26,7 @@ Memorias y solicitudes de presupuesto
 * Información para el cobro de subvenciones (_NIF de la UAM: Q-2818013-A_). [PDF](procedimiento_justificacion_gastos_asociaciones.pdf)
 * Plantilla de petición extraordinaria de presupuesto. [ODT](plantilla_peticion_subvencion.odt)
 
+* Lista de gastos segunda convocatoria. [ODT](Facturas/2016/lista_gastos_CRM_2016_segundaConvocatoria.odt)
 * Lista de gastos hasta mayo 2016. [ODT](Facturas/2016/lista_gastos_CRM_2016_hastaMayo.odt)
 * Todas las [facturas](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/administrativo/Facturas/)
 * Memoria 2016. [PDF1](Memorias/2015/segundoPlazo15mar2016.pdf)
