@@ -9,6 +9,7 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 * Lista de actividades para 2016. [PDF](ListaActividades2016.pdf)
 * Ficha de inscripción. [PDF](ficha_inscripcion/ficha_inscripcion.pdf), [ODT](ficha_inscripcion/ficha_inscripcion.odt) (obsoleta, ahora se usa el [formulario web](/registro))
 * Plantilla para la lista de miembros. [ODT](plantilla_listaMiembrosCRM.odt)
+* Propuesta de reparto de tareas para una nueva junta del CRM. [PDF](Propuesta cargos junta.pdf), [ODT](Propuesta cargos junta.odt)
 
 
 Actas
