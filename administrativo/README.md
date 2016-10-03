@@ -14,8 +14,8 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 
 Actas
 --
-
-* Acta de la reunión 9/Feb/2016. [PDF](Actas/acta_9_2_2016.pdf)
+* Acta de la reunión 28/Sep/2016 (pendiente de aprobación). [PDF](Actas/acta_28_9_2016.pdf) [tex](Actas/acta_28_9_2016.tex)
+* Acta de la reunión 09/Feb/2016. [PDF](Actas/acta_9_2_2016.pdf)
 * Acta de la reunión 11/Dic/2015. [PDF](Actas/acta_11_12_2015.pdf)
 * Acta de la reunión 26/Oct/2013. [PDF](Actas/acta_26_10_2013.pdf)
 * Acta de la reunión 11/Oct/2013. [PDF](Actas/acta_11_10_2013.pdf)
