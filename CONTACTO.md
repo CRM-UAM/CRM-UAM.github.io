@@ -24,7 +24,7 @@ También la usamos como **foro**. Si tienes alguna **duda, quieres organizar alg
 
 No temas por tu bandeja de entrada. **Son pocos mensajes**.
 
-Telefóno
+Teléfono
 --
 +34 91 497 3616 
 
