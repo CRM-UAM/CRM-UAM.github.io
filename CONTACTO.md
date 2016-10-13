@@ -5,21 +5,45 @@ permalink: /contacto/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
-Puedes pasarte por el local del CRM, el B-111, situado en la planta baja del edificio B de la EPS.
 
-Nuestro teléfono es: +34 91 497 3616
+Repositorio en GitHub
+--
+ **<https://github.com/CRM-UAM/>**
 
-Repositorio en GitHub: **<https://github.com/CRM-UAM/>**
+Recuerda apuntarte en el [formulario de **inscripción** de nuevos miembros.](/registro) 
 
-&gt;&gt; [Formulario de **inscripción** de nuevos miembros](/registro) &lt;&lt;
+Lista de correo
+--
+Tenemos una **lista de correo** a la que puedes escribir o suscribirte:
 
-Tenemos dos listas de correo públicas a las que puedes apuntarte para obtener información del Club.
+**<https://groups.google.com/forum/#!forum/crm-uam>** 
 
-- La primera, es una lista de información general en la que publicaremos **anuncios de las próximas actividades y noticias importantes**. Prometemos no llenarte la bandeja de entrada si te apuntas a esta lista: **<https://groups.google.com/forum/#!forum/informacion-crm-uam>**
+Anunciamos todas las novedades del club, espcialmente las **actividades y talleres** que organizamos. 
 
-- También tenemos una lista que utilizamos de **foro oficial, donde nos respondemos dudas, organizamos las tareas del club o buscamos apoyos para un proyecto: <https://groups.google.com/forum/#!forum/crm-uam>**
+También la usamos como **foro**. Si tienes alguna **duda, quieres organizar alguna actividad o buscas apoyos para un proyecto**, es un buen sitio para empezar.
 
-Todo el mundo es bienvenido en cualquier lista, pero si dudas *posiblemente prefieras [la de información general](https://groups.google.com/forum/#!forum/informacion-crm-uam).*
+No temas por tu bandeja de entrada. **Son pocos mensajes**.
+
+Telefóno
+--
++34 91 497 3616 
+
+*No siempre hay alguien para contestar. Si es así, puedes escribir un mensaje a la lista de correo.*
+
+Localización
+--
+Puedes pasarte por el **local del CRM, el B-111**, situado en la planta baja del edificio Ada Lovelace (edificio B) de la **Escuela Politécnica Superior** del campús de Cantoblanco. [Aquí el mapa completo](https://www.uam.es/ss/Satellite/es/1234886381480/contenidoFinal/Plano_Campus_UAM.htm).
+
+*No siempre hay alguien, así que el local podría estar cerrado. Si vienes de lejos, te recomendamos escribir antes a la lista de correo para asegurarte de que estará abierto cuando vengas.*
+
+<svg width="100%" height="381" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  
+  <image preserveAspectRatio="none" width="100%" height="100%" xlink:href="/imagenes_web/donde_estamos.png" x="0" y="0"></image>
+  <line y1="100" y2="195" x2="532" x1="532" fill="red" stroke="red" stroke-width="4"></line> 
+  <polygon points="532,95 540,120 524,120" fill="red" stroke="red" stroke-width="4"></polygon>
+</svg>
+
+
 
 Últimos mensajes del foro:
 --

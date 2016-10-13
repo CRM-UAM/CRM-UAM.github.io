@@ -27,7 +27,7 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
     </td>
     <td>
       <a href="/contacto">
-      <center><img src="/imagenes_web/iconos/email.png"/><br/><b>Lista de correo<br/>y foro</b></center>
+      <center><img src="/imagenes_web/iconos/email.png"/><br/><b>Contacto</b></center>
       </a>
     </td>
     <td>
