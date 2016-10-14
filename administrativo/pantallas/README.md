@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Publicidad en las pantallas de la EPS
-permalink: /pantallas/
+permalink: /administrativo/pantallas/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
 Plantillas para promocionar los eventos del club con "spamming" del bueno :-)  
 <img src="2012-05-24.jpg" width="400"/>  
-Diseñadas por Lucas Polo, Víctor Uceda y Carlos García  
+Diseñadas por Lucas Polo, Víctor Uceda y Carlos García.
 
 
 <div align="right">
@@ -65,3 +65,5 @@ Diseñadas por Lucas Polo, Víctor Uceda y Carlos García
 <a href="2012_taller_iniciacion.odg">fuente ODG</a>
 </div>
 
+
+[**Volver a temas administrativos y transparencia**](/administrativo)
