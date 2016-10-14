@@ -85,3 +85,5 @@ Rafael Leira, _rafael.leira@*_
 ### Responsabilidades
 
 * Asistir y aconsejar al resto de miembros de la Junta en la realización de sus tareas.
+
+_*Nota: Las direcciones deben completarse con_ uam.es _al final._
