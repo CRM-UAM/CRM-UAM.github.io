@@ -67,7 +67,7 @@ Lázaro López, _lazaro.lopez@estudiante.*_
 
 ## Vocal de actividades
 
-Alfredo Sanz, _alfredo.sanz@estudiante.*_
+Alfredo Sanz, _alfredo.sanzo@estudiante.*_
 
 ### Responsabilidades:
 
