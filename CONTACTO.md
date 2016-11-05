@@ -5,12 +5,19 @@ permalink: /contacto/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
-
 Repositorio en GitHub
 --
  **<https://github.com/CRM-UAM/>**
 
-Recuerda apuntarte en el [formulario de **inscripción** de nuevos miembros.](/registro) 
+Recuerda apuntarte en el [formulario de **inscripción** de nuevos miembros.](/registro)
+
+Correo electrónico
+--
+Correo de contacto:
+club.robotica.uam@gmail.com
+
+Este correo solo lo leemos los miembros de la junta directiva. 
+Si quieres responder dudas sobre algún proyecto o proponernos algo, echa un ojo también a la lista de correo. 
 
 Lista de correo
 --
