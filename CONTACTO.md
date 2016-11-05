@@ -14,7 +14,7 @@ Recuerda apuntarte en el [formulario de **inscripción** de nuevos miembros.](/r
 Correo electrónico
 --
 Correo de contacto:
-club.robotica.uam@gmail.com
+**club.robotica.uam@gmail.com**
 
 Este correo solo lo leemos los miembros de la junta directiva. 
 Si quieres responder dudas sobre algún proyecto o proponernos algo, echa un ojo también a la lista de correo. 
