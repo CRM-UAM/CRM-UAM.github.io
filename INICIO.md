@@ -16,8 +16,8 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 <table border="0" width="100%">
   <tr>
     <td>
-      <a href="/actividades">
-      <center><img src="/imagenes_web/iconos/calendario.png"/><br/><b>Actividades</b></center>
+      <a href="/calendario">
+      <center><img src="/imagenes_web/iconos/calendario.png"/><br/><b>Calendario</b></center>
       </a>
     </td>
     <td>

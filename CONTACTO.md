@@ -50,7 +50,7 @@ Puedes pasarte por el **local del CRM, el B-111**, situado en la planta baja del
   <polygon points="532,95 540,120 524,120" fill="red" stroke="red" stroke-width="4"></polygon>
 </svg>
 
-
+<br/>
 
 Últimos mensajes del foro:
 --
@@ -60,7 +60,7 @@ Puedes pasarte por el **local del CRM, el B-111**, situado en la planta baja del
   scrolling="no"
   frameborder="0"
   width="100%"
-  height="900">
+  height="600">
 </iframe>
 <script type="text/javascript">
   document.getElementById('forum_embed').src =
@@ -68,4 +68,15 @@ Puedes pasarte por el **local del CRM, el B-111**, situado en la planta baja del
      + '&showsearch=false&showpopout=true&showtabs=false&hideforumtitle=true&showsearch=false&hl=es&hidewelcomemessage=true'
      + '&parenturl=' + encodeURIComponent(window.location.href);
 </script>
+
+<br/>
+
+Calendario:
+--
+
+También puedes pasarte por alguna de nuestras reuniones semanales:
+
+<iframe src="https://calendar.google.com/calendar/embed?src=2bejhfelcegl10598b6lbn6b9o%40group.calendar.google.com&ctz=Europe/Madrid" style="border: 0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+
+Te recomendamos que nos añadas a tu calendario para estar al día de los eventos que vayan surgiendo en el club.
 
