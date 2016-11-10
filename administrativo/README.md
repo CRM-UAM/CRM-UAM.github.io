@@ -42,7 +42,14 @@ Todo se debe entregar en el Registro de la Universidad (planta baja del edificio
 _Se pueden encontrar las fuentes LaTeX [en el repositorio GitHub](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/administrativo/Memorias/)_
 
 
+Logotipo
+--
+
+Aquí tenemos [todos los ficheros](/logotipo) relacionados con el logotipo original del club.
+
 Pantallas informativas
 --
 
 En ocasiones publicamos en las pantallas de la escuela anuncios con las últimas actividades. [Guardamos un histórico aquí.](pantallas)
+
+
