@@ -58,12 +58,27 @@ Desde entonces el CRM-UAM lo han administrado las siguientes juntas directivas:
 A pesar de ser una asociación gestionada por estudiantes, **el Club de Robótica-Mecatrónica apoya a cualquier miembro de la comunidad universitaria que quiera llevar a cabo proyectos relacionados con la robótica**.
 Es decir, tanto estudiantes como profesores pueden inscribirse y así disponer de un espacio de trabajo agradable con herramientas de uso común (impresoras 3D, soldadores, sierras, alicates, destornilladores, etc) así como los materiales necesarios (cables, componentes, motores, baterías, etc). También disponemos de un [foro](../contacto) donde ayudarnos unos a otros.
 
-Además el club organiza periódicamente diversas [actividades](../actividades) para fomentar la robótica entre los estudiantes.  
+Además el club organiza periódicamente diversas actividades para fomentar la robótica entre los estudiantes:
+
+* (2016) **Jornadas "ArduParty"**. Más información [en nuestro blog](../blog)
+
+* (2016) **"Viernes abiertos"** del Club de Robótica. Más información [en nuestro blog](../blog)
+
+* (2014) [**ArduParty 2014**](../actividades/2014_ArduParty), taller organizado por Víctor Uceda, Carlos García, Pablo Moreno y Miguel Rodríguez. *Escuela Politécnica Superior, 19 de Septiembre de 2014*
+
+* (2013) [**Taller de iniciación a OpenScad**](https://github.com/carlosgs/tutorial-OpenScad) organizado por Carlos García. *Escuela Politécnica Superior, 3 de Octubre de 2013*
+
+* (2012) [**Taller de introducción a la robótica con el robot HKTR-9000**](../actividades/2012_taller_arduino) organizado por Lucas Polo, Miguel Gargallo y Carlos García. Vinieron 20 estudiantes y se construyeron cinco robots capaces de seguir líneas y esquivar obstáculos. [vídeo 1](https://www.youtube.com/watch?v=4ZO9BoCVn4U), [vídeo 2](https://www.youtube.com/watch?v=QlhNiiyTSb0)
+
+* (2011) **Taller de Arduino** organizado por Héctor Ménendez y Saúl Vargas. *Escuela Politécnica Superior, 4 de Noviembre de 2011*. ([PDF con documentación sobre Arduino](2011_ReferenciaArduinoCRM_hdmb.pdf))
+
+* (2011) El CRM y el [Club de Informática](http://uam.es/cdi) cooperan en el **Encuentro de Estudiantes por la Ciencia y la Cultura**. Fue organizado por David Camacho y Héctor Ménendez y tuvo un gran éxito entre los estudiantes (~80 personas). Además de las charlas educativas, destacaron los talleres de construcción de cohetes y de papiroflexia. *Escuela Politécnica Superior, 4-8 de Julio de 2011*. [noticia en la web de la UAM](http://www.uam.es/ss/Satellite/es/1242652866332/1242655953936/cursocortaduracion/cursoCortaDuracion/Encuentro_de_Estudiantes_por_la_Ciencia_y_la_Cultura.htm)
+
 
 Presencia del Club de Robótica en eventos frikis
 --
 
-* (2015) Participación en la [**V Jornada GMV de Robótica**](http://www.gmv.com/es/Empresa/Comunicacion/NotasDePrensa/2015/NP_017_VJornadaRobotica.html). Primer premio en el concurso "Concurrent Design Facility (CDF) for Robotics". [Entrada en el blog](/blog/2015/11/26/VjornadaGMVrobotica.html)
+* (2015) Participación en la [**V Jornada GMV de Robótica**](http://www.gmv.com/es/Empresa/Comunicacion/NotasDePrensa/2015/NP_017_VJornadaRobotica.html). Primer premio en el concurso "Concurrent Design Facility (CDF) for Robotics". [Entrada en el blog](../blog/2015/11/26/VjornadaGMVrobotica.html)
 
 * (2015) Participación del robot [CRMaze](https://github.com/CRM-UAM/CRMaze) (de Víctor Uceda y Carlos García) en el concurso de Laberinto de la [**Open Source Hardware Demonstration (OSHWDem 2015)**](http://oshwdem.org/category/ediciones-anteriores/oshwdem-2015/). *Domus de A Coruña, 7 de Noviembre de 2015*  
 
@@ -73,7 +88,7 @@ Presencia del Club de Robótica en eventos frikis
 
 * (2006) **ROBOLID'06**: El Club presentó dos robots, Slayer y Margarita. **Slayer ganó en la categoría de Rastreadores y Margarita fue quinto en la categoría de Sumo**. [**resumen en la web de ARDE**](http://www.arde.cc/competiciones/robolid-2006/), [**vídeo de Slayer**](https://www.youtube.com/watch?v=GXij8BVFPP0), [**vídeo de Margarita**](https://www.youtube.com/watch?v=l2qdEMfkfEo)  
 
-* (2005) Participación en las **Sesiones de robótica UPSAM**. Andrés y Juan presentaron varios robots (el Skybot, los "ojos", Cube Revolutions, la Hormiga Benita, Pucho Bot, y el Robot "Observer"). [**diapositivas de la presentación**](/historia/eventos/2005_sesionesRoboticaUPSAM/)  
+* (2005) Participación en las **Sesiones de robótica UPSAM**. Andrés y Juan presentaron varios robots (el Skybot, los "ojos", Cube Revolutions, la Hormiga Benita, Pucho Bot, y el Robot "Observer"). [**diapositivas de la presentación**](../historia/eventos/2005_sesionesRoboticaUPSAM/)  
 
 * (2005) Participación en **Robolid'05** con el robot Slayer (Daniel Álvarez y Alberto Calvo) en las categorías de rastreadores y velocistas. Más información [en el blog de iearobotics](http://www.iearobotics.com/personal/juan/conferencias/conf7/)
 
@@ -139,7 +154,7 @@ Feria de las Asociaciones de la UAM 2015 (EPS Cantoblanco)
 ==
 
 <img src="eventos/2015_FeriaDeLasAsociacionesUAM/2015_FeriaAsociaciones_CarlosCrisVictorJaviPablo.jpg" height="200px"/><br/>
-<a href="/blog/2015/12/15/FeriaDeLasAsociacionesUAM.html"><b>Entrada en nuestro blog</b></a>
+<a href="../blog/2015/12/15/FeriaDeLasAsociacionesUAM.html"><b>Entrada en nuestro blog</b></a>
 
 
 V Jornada GMV de Robótica 2015 (Tres Cantos)
@@ -149,7 +164,7 @@ V Jornada GMV de Robótica 2015 (Tres Cantos)
   <tr>
     <td>
       <img src="eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV.jpg" height="200px"/><br/>
-      Demostración de los robots <i>Foxiris</i> de GMV (izquierda), <i>MiR100</i> de Robotplus (al fondo) y <i>Aunav</i> de Proytecsa (derecha). <a href="/blog/2015/11/26/VjornadaGMVrobotica.html"><b>Entrada en nuestro blog</b></a>
+      Demostración de los robots <i>Foxiris</i> de GMV (izquierda), <i>MiR100</i> de Robotplus (al fondo) y <i>Aunav</i> de Proytecsa (derecha). <a href="../blog/2015/11/26/VjornadaGMVrobotica.html"><b>Entrada en nuestro blog</b></a>
     </td>
     <td>
       <img src="eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV_team.jpg" height="200px"/><br/>
@@ -165,18 +180,18 @@ OSHWDem 2015 (A Coruña)
 <table border="0" width="100%">
   <tr>
     <td>
-      <img src="/historia/eventos/2015_OSHWDem/2015-CRMaze_VictorCarlos.jpg" height="150px"/><br/>
+      <img src="../historia/eventos/2015_OSHWDem/2015-CRMaze_VictorCarlos.jpg" height="150px"/><br/>
     </td>
     <td>
-      <img src="/historia/eventos/2015_OSHWDem/2015-11-07_montajeLaberinto2.jpg" height="130px"/><br/>
+      <img src="../historia/eventos/2015_OSHWDem/2015-11-07_montajeLaberinto2.jpg" height="130px"/><br/>
     </td>
     <td>
-      <img src="/historia/eventos/2015_OSHWDem/2015-11-07_publico.jpg" height="160px"/><br/>
+      <img src="../historia/eventos/2015_OSHWDem/2015-11-07_publico.jpg" height="160px"/><br/>
     </td>
   </tr>
 </table>
 
-Víctor y Carlos construyeron el robot [**CRMaze**](https://github.com/CRM-UAM/CRMaze) para participar en el concurso de resolución de laberintos (*"micromouse"*) de la OSHWDem 2015. [**Entrada en nuestro blog**](/blog/2015/11/07/OSHWDem.html)
+Víctor y Carlos construyeron el robot [**CRMaze**](https://github.com/CRM-UAM/CRMaze) para participar en el concurso de resolución de laberintos (*"micromouse"*) de la OSHWDem 2015. [**Entrada en nuestro blog**](../blog/2015/11/07/OSHWDem.html)
 
 
 Campus Party EU 2013 (Londres)
