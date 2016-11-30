@@ -16,7 +16,7 @@ Esto fue posible en el corto plazo que teníamos, gracias a que el diseño de nu
 
 <center><i>Fases del proceso de diseño del Vector 9000 (velocista) y MiniVector (rastreador)</i></center>
 
-Pensamos que el algoritmo de rastradores sería sencillo... pero fueron necesarios [muchos intentos](https://www.youtube.com/watch?v=SCZ_zdd1dcY) antes de conseguir detectar correctamente las marcas de giro.
+Pensamos que el algoritmo de rastreadores sería sencillo... pero fueron necesarios [muchos intentos](https://www.youtube.com/watch?v=SCZ_zdd1dcY) antes de conseguir detectar correctamente las marcas de giro.
 
 Además, aprovechamos la ocasión de participar en este evento para incluir algunas pegatinas tanto en los robots como en nuestra caja de herramientas, fomentando la visibilidad de la UAM, nuestra escuela politécnica y el club de robótica.
 
