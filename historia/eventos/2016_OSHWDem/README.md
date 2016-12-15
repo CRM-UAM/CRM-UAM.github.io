@@ -46,3 +46,6 @@ Algunos vídeos
 - [Desafío laberinto](https://www.youtube.com/watch?v=HLExTU7jR8g)
 - [Robots sigue-líneas](https://www.youtube.com/watch?v=7GXjH3vUWNU)
 - [Time-lapse de las competiciones](https://www.youtube.com/watch?v=HzSNfapy_Lk)
+
+- [Resumen OSHWDem 2016 BricoGeek](https://www.youtube.com/watch?v=z0bdC4cat_Y)
+- [Resumen fotografico de dev.4m1g0](https://www.youtube.com/watch?v=ZEo4uUONxGg)
