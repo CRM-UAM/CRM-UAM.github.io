@@ -40,3 +40,9 @@ Nuestro grupo muy motivado tras la OSHWDem. Víctor Uceda, Pablo Molins, Carlos 
 
 Conclusión de la OSHWDem 2016: ¡¡El año que viene por fin resolveremos el laberinto, sí o sí!! ;-)
 
+Algunos vídeos
+--
+- [Robots de combate](https://www.youtube.com/watch?v=y7-bAhUAHf8)
+- [Desafío laberinto](https://www.youtube.com/watch?v=HLExTU7jR8g)
+- [Robots sigue-líneas](https://www.youtube.com/watch?v=7GXjH3vUWNU)
+- [Time-lapse de las competiciones](https://www.youtube.com/watch?v=HzSNfapy_Lk)
