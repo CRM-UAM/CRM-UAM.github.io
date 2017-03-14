@@ -76,7 +76,7 @@ Alfredo Sanz, _alfredo.sanzo@estudiante.*_
 
 ## Vocales
 
-Carlos García, _carlos.garcia@*_ 
+Carlos García, _carlos.garciasaura@*_ 
 
 Carlos González, _carlos.gonzalez@estudiante.*_
 
