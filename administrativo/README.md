@@ -29,6 +29,7 @@ Memorias y solicitudes de presupuesto
 * Lista de gastos segunda convocatoria. [ODT](Facturas/2016/lista_gastos_CRM_2016_segundaConvocatoria.odt)
 * Lista de gastos hasta mayo 2016. [ODT](Facturas/2016/lista_gastos_CRM_2016_hastaMayo.odt)
 * Todas las [facturas](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/administrativo/Facturas/)
+* Memoria 2017. [PDF](Memorias/2017/memoria-crm-abril-2017.pdf)
 * Memoria 2016. [PDF1](Memorias/2015/segundoPlazo15mar2016.pdf), [PDF2](Memorias/2016/memoria-2016.pdf)
 * Memoria 2015. [PDF](Memorias/2015/memoria.pdf)
 * Memoria 2014. [PDF1](Memorias/2014/Memoria_CRM_2014.pdf), [PDF2](Memorias/2014/Presupuestos14_15.pdf)
@@ -51,5 +52,3 @@ Pantallas informativas
 --
 
 En ocasiones publicamos en las pantallas de la escuela anuncios con las últimas actividades. [Guardamos un histórico aquí.](pantallas)
-
-
