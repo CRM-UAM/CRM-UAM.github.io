@@ -3,7 +3,7 @@ title: Club de Robótica-Mecatrónica
 email: crm-uam@googlegroups.com
 description: "Web del Club de Robótica y Mecatrónica (CRM) de la Escuela Politécnica Superior de la Universidad Autónoma de Madrid"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://crm-uam.github.io" # the base hostname & protocol for your site
+url: "https://crm-uam.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
