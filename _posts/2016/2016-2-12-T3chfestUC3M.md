@@ -14,7 +14,11 @@ La categoría de carreras se ha incorporado muy recientemente a la [Liga Naciona
   <tr>
     <td>
       <a href="https://www.youtube.com/watch?v=AQY8qR8XHqY" target="_blank">
-      <img src="/historia/eventos/2016_T3chFest_UC3M/2016_t3chfest_UC3M_carrerasLNRC.gif" height="220px"/><br/>
+        <video height="220px" autoplay loop>
+        <source src="/historia/eventos/2016_T3chFest_UC3M/2016_t3chfest_UC3M_carrerasLNRC.mp4" type="video/mp4">
+        Error mostrando video.
+        </video>
+        <br/>
       </a>
     </td>
     <td>
