@@ -118,7 +118,7 @@ Algunos de los robots que han pasado por el CRM
 <center><img src="robots/2011_PolillaBot/polillaBot_1.jpg" height="200px"/></center><br/>
 
 * (2008) Robot [**FlatBot**](http://www.iearobotics.com/wiki/index.php?title=Robot_FlatBot) (Andrés Prieto-Moreno). Utilizado en el [Taller FlatBot](http://www.iearobotics.com/wiki/index.php?title=Taller_FlatBot) de la Campus Party 08. *Como puede apreciarse, se trata de una plataforma móvil donde situar un ordenador portátil a modo de "cerebro" controlador del robot*  
-<center><img src="eventos/200X_CampusParty/2008_CampusParty_FlatBot.jpg" height="200px"/></center><br/>
+<center><img src="eventos/200X_CampusParty/2008_CampusParty_FlatBot.jpg" width="100%"/></center><br/>
 
 * (2008) Robot **Johny** para el concurso de robots Lego de la Campus Party 08  
 <center><img src="eventos/200X_CampusParty/2008_CampusParty_Johny_lego.jpg" height="200px"/></center><br/>
@@ -162,12 +162,12 @@ V Jornada GMV de Robótica 2015 (Tres Cantos)
 
 <table border="0" width="100%">
   <tr>
-    <td>
-      <img src="eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV.jpg" height="200px"/><br/>
+    <td width="55%">
+      <img src="eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV.jpg"/><br/>
       Demostración de los robots <i>Foxiris</i> de GMV (izquierda), <i>MiR100</i> de Robotplus (al fondo) y <i>Aunav</i> de Proytecsa (derecha). <a href="../blog/2015/11/26/VjornadaGMVrobotica.html"><b>Entrada en nuestro blog</b></a>
     </td>
-    <td>
-      <img src="eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV_team.jpg" height="200px"/><br/>
+    <td width="60%">
+      <img src="eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV_team.jpg"/><br/>
       Miembros del CRM ganaron el concurso <i>"Concurrent Design Facility (CDF) for Robotics"</i> junto con estudiantes de la UPM.
     </td>
   </tr>
@@ -179,14 +179,14 @@ OSHWDem 2015 (A Coruña)
 
 <table border="0" width="100%">
   <tr>
-    <td>
-      <img src="../historia/eventos/2015_OSHWDem/2015-CRMaze_VictorCarlos.jpg" height="150px"/><br/>
+    <td width="30%">
+      <img src="../historia/eventos/2015_OSHWDem/2015-CRMaze_VictorCarlos.jpg"/><br/>
     </td>
-    <td>
-      <img src="../historia/eventos/2015_OSHWDem/2015-11-07_montajeLaberinto2.jpg" height="130px"/><br/>
+    <td width="30%">
+      <img src="../historia/eventos/2015_OSHWDem/2015-11-07_montajeLaberinto2.jpg"/><br/>
     </td>
-    <td>
-      <img src="../historia/eventos/2015_OSHWDem/2015-11-07_publico.jpg" height="160px"/><br/>
+    <td width="40%">
+      <img src="../historia/eventos/2015_OSHWDem/2015-11-07_publico.jpg"/><br/>
     </td>
   </tr>
 </table>
@@ -199,12 +199,12 @@ Campus Party EU 2013 (Londres)
 
 <table border="0" width="100%">
   <tr>
-    <td>
-      <img src="eventos/2013_CampusParty/2013_CampusParty_AngelVictorErik.jpg" height="200px"/><br/>
+    <td width="50%">
+      <img src="eventos/2013_CampusParty/2013_CampusParty_AngelVictorErik.jpg"/><br/>
       A la izquierda Ángel Pérez, y a la derecha Víctor Uceda y Erik Velasco
     </td>
-    <td>
-      <img src="eventos/2013_CampusParty/2013_CampusParty_ConcursoVex.jpg" height="200px"/><br/>
+    <td width="50%">
+      <img src="eventos/2013_CampusParty/2013_CampusParty_ConcursoVex.jpg"/><br/>
       Miembros del CRM ganaron el mini-concurso de robótica VEX
     </td>
   </tr>
@@ -230,12 +230,12 @@ Campus Party 2006
 
 <table border="0" width="100%">
   <tr>
-    <td>
-      <img src="eventos/200X_CampusParty/2006_CampusParty_iearobotics_index4_files/miercoles-16-alejandro-andres-frikies.jpg" height="150px"/><br/>
-      <img src="eventos/200X_CampusParty/2006_CampusParty_iearobotics_index_files/sab-22-gedeon-ivan1.jpg" height="150px" vspace="5px"/><br/>
+    <td width="33%">
+      <img src="eventos/200X_CampusParty/2006_CampusParty_iearobotics_index4_files/miercoles-16-alejandro-andres-frikies.jpg"/><br/>
+      <img src="eventos/200X_CampusParty/2006_CampusParty_iearobotics_index_files/sab-22-gedeon-ivan1.jpg" vspace="5px"/><br/>
     </td>
-    <td>
-      <img src="eventos/200X_CampusParty/2006_CampusParty_iearobotics_index2_files/GANADORES-CP2006.jpg" height="300px"/><br/>
+    <td width="67%">
+      <img src="eventos/200X_CampusParty/2006_CampusParty_iearobotics_index2_files/GANADORES-CP2006.jpg"/><br/>
     </td>
   </tr>
 </table>
@@ -251,14 +251,14 @@ Robolid 2005
 
 <table border="0" width="100%">
   <tr>
-    <td>
-      <img src="eventos/2005_Robolid/2005_Robolid05_iearobotics_index_files/javi.jpg" height="200px"/><br/>
+    <td width="39%">
+      <img src="eventos/2005_Robolid/2005_Robolid05_iearobotics_index_files/javi.jpg"/><br/>
     </td>
-    <td>
-      <img src="eventos/2005_Robolid/2005_Robolid05_iearobotics_index_files/dani-alberto2.jpg" height="200px"/><br/>
+    <td width="39%">
+      <img src="eventos/2005_Robolid/2005_Robolid05_iearobotics_index_files/dani-alberto2.jpg"/><br/>
     </td>
-    <td>
-      <img src="eventos/2005_Robolid/2005_Robolid05_iearobotics_index_files/juan-seguritron.jpg" height="200px"/><br/>
+    <td width="22%">
+      <img src="eventos/2005_Robolid/2005_Robolid05_iearobotics_index_files/juan-seguritron.jpg"/><br/>
     </td>
   </tr>
 </table>
@@ -271,15 +271,15 @@ HISPABOT 2004
 
 <table border="0" width="100%">
   <tr>
-    <td>
-      <img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/juan-prueba-libre.png" height="200px"/><br/>
+    <td width="30%" valign="top">
+      <img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/juan-prueba-libre.png"/><br/>
       Juan en la prueba libre con <a href="http://www.iearobotics.com/wiki/index.php?title=Cube_Revolutions">Cube Revolutions</a>
     </td>
-    <td>
-      <img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/uam-team.png" height="200px"/><br/>
+    <td width="50%" valign="top">
+      <img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/uam-team.png"/><br/>
     </td>
-    <td>
-      <img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/alberto-queen-mary.png" height="200px"/><br/>
+    <td width="20%" valign="top">
+      <img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/alberto-queen-mary.png"/><br/>
       Alberto y Queen-Mary
     </td>
   </tr>
@@ -293,15 +293,15 @@ IV feria Madrid por la Ciencia (14-Feb-2003 en IFEMA)
 
 <table border="0" width="100%">
   <tr>
-    <td>
-      <img src="eventos/2003_FeriaMadridPorLaCiencia/MVC-007F.JPG" height="110px"/><br/>
-      <img src="eventos/2003_FeriaMadridPorLaCiencia/MVC-010F.JPG" height="110px" vspace="5px"/><br/>
+    <td width="22%">
+      <img src="eventos/2003_FeriaMadridPorLaCiencia/MVC-007F.JPG"/><br/>
+      <img src="eventos/2003_FeriaMadridPorLaCiencia/MVC-010F.JPG" vspace="5px"/><br/>
     </td>
-    <td>
-      <img src="eventos/2003_FeriaMadridPorLaCiencia/MVC-018F.JPG" height="200px"/><br/>
+    <td width="46%">
+      <img src="eventos/2003_FeriaMadridPorLaCiencia/MVC-018F.JPG"/><br/>
     </td>
-    <td>
-      <img src="eventos/2003_FeriaMadridPorLaCiencia/articulo_gaceta_universitaria.jpg" height="230px"/><br/>
+    <td width="32%">
+      <img src="eventos/2003_FeriaMadridPorLaCiencia/articulo_gaceta_universitaria.jpg"/><br/>
     </td>
   </tr>
 </table>
