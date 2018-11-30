@@ -5,43 +5,33 @@ permalink: /contacto/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
-Repositorio en GitHub
+Repositorio de GitHub
 --
  **<https://github.com/CRM-UAM/>**
 
 Recuerda apuntarte en el [formulario de **inscripción** de nuevos miembros.](/registro)
 
-Correo electrónico
+Foro
 --
-Correo de contacto:
-**club.robotica.uam@gmail.com**
-
-Este correo solo lo leemos los miembros de la junta directiva. 
-Si quieres responder dudas sobre algún proyecto o proponernos algo, echa un ojo también a la lista de correo. 
-
-Lista de correo
---
-Tenemos una **lista de correo** a la que puedes escribir o suscribirte:
+Tenemos un **grupo** al que puedes escribir o suscribirte:
 
 **<https://groups.google.com/forum/#!forum/crm-uam>** 
 
-Anunciamos todas las novedades del club, espcialmente las **actividades y talleres** que organizamos. 
+La usamos como **foro**. Si tienes alguna **duda, quieres organizar alguna actividad o buscas apoyos para un proyecto**, es un buen sitio para empezar.
 
-También la usamos como **foro**. Si tienes alguna **duda, quieres organizar alguna actividad o buscas apoyos para un proyecto**, es un buen sitio para empezar.
-
-No temas por tu bandeja de entrada. **Son pocos mensajes**.
-
-Teléfono
+Correo electrónico
 --
-+34 91 497 3616 
+Email de contacto para temas administrativos:
+**crm (punto) asociacion (arroba) uam (punto) es**
 
-*No siempre hay alguien para contestar. Si es así, puedes escribir un mensaje a la lista de correo.*
+Si quieres responder dudas sobre algún proyecto o proponernos algo, echa un ojo también al grupo de Google y a nuestro [grupo de Telegram](/registro).
+
 
 Localización
 --
 Puedes pasarte por el **local del CRM, el B-111**, situado en la planta baja del edificio Ada Lovelace (edificio B) de la **Escuela Politécnica Superior** del campús de Cantoblanco. [Aquí el mapa completo](https://www.uam.es/ss/Satellite/es/1234886381480/contenidoFinal/Plano_Campus_UAM.htm).
 
-*No siempre hay alguien, así que el local podría estar cerrado. Si vienes de lejos, te recomendamos escribir antes a la lista de correo para asegurarte de que estará abierto cuando vengas.*
+*Si vienes de lejos, te recomendamos contactar antes para asegurarte de que habrá gente cuando llegues.*
 
 <svg width="100%" height="381" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   
@@ -52,15 +42,26 @@ Puedes pasarte por el **local del CRM, el B-111**, situado en la planta baja del
 
 <br/>
 
-Últimos mensajes del foro:
+Imagen en directo de nuestra impresora 3D
+--
+
+<img src="http://picard.ii.uam.es/webcam/?action=stream" style="transform:rotate(180deg);" width="50%">
+
+(Si la luz está encendida es que hay gente en el local. Si ves fuego, **¡avísanos!**)
+
+Teléfono del local
+--
++34 91 497 3616
+
+Mensajes del foro:
 --
 
 <iframe id="forum_embed"
   src="javascript:void(0)"
   scrolling="no"
   frameborder="0"
-  width="100%"
-  height="600">
+  width="70%"
+  height="500">
 </iframe>
 <script type="text/javascript">
   document.getElementById('forum_embed').src =
@@ -68,15 +69,4 @@ Puedes pasarte por el **local del CRM, el B-111**, situado en la planta baja del
      + '&showsearch=false&showpopout=true&showtabs=false&hideforumtitle=true&showsearch=false&hl=es&hidewelcomemessage=true'
      + '&parenturl=' + encodeURIComponent(window.location.href);
 </script>
-
-<br/>
-
-Calendario:
---
-
-También puedes pasarte por alguna de nuestras reuniones semanales:
-
-<iframe src="https://calendar.google.com/calendar/embed?src=2bejhfelcegl10598b6lbn6b9o%40group.calendar.google.com&ctz=Europe/Madrid" style="border: 0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
-
-Te recomendamos que nos añadas a tu calendario para estar al día de los eventos que vayan surgiendo en el club.
 
