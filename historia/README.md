@@ -7,7 +7,7 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 
 El Club de Robótica-Mecatrónica (CRM) fue fundado en 1997 por estudiantes de la [Universidad Autónoma de Madrid](http://www.uam.es/), con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2008) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo e [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
 
-De 2009 a 2011 fue [Héctor David Ménendez](http://aida.ii.uam.es/researchers/facultystaff/hector-d-menendez) quien tomó las riendas de la asociación, reabriendo el club y promoviendo multitud de talleres de Arduino e iniciativas tan interesantes como el *Encuentro de Estudiantes por la Ciencia y la Cultura* (organizado junto con [David Camacho Fernández](http://aida.ii.uam.es/researchers/facultystaff/camacho-david)).  
+De 2009 a 2011 fue [Héctor David Ménendez](https://dblp.org/pid/45/9854) quien tomó las riendas de la asociación, reabriendo el club y promoviendo multitud de talleres de Arduino e iniciativas tan interesantes como el *Encuentro de Estudiantes por la Ciencia y la Cultura* (organizado junto con [David Camacho Fernández](http://arantxa.ii.uam.es/~dcamacho/)).  
 
 Desde entonces el CRM-UAM lo han administrado las siguientes juntas directivas:  
 
@@ -51,6 +51,30 @@ Desde entonces el CRM-UAM lo han administrado las siguientes juntas directivas:
     <td>Cristina Kasner</td> <!--Secretario-->
     <td>Jaime Aragón</td> <!--Tesorero-->
     <td>Víctor Uceda<br/>Pablo Molins</td> <!--Vocales-->
+  </tr>
+  <tr>
+    <td><i>2016-17</i></td>
+    <td>Pablo Molins</td> <!--Presidente-->
+    <td>Cristina Kasner</td> <!--Vice-presidente-->
+    <td>Lázaro López</td> <!--Secretario-->
+    <td>Eduardo Hilario</td> <!--Tesorero-->
+    <td>Alfredo Sanz<br/>Rafael Leira</td> <!--Vocales-->
+  </tr>
+  <tr>
+    <td><i>2017-18</i></td>
+    <td>Illy Naami</td> <!--Presidente-->
+    <td>David Ramírez</td> <!--Vice-presidente-->
+    <td>Lázaro López</td> <!--Secretario-->
+    <td>David García</td> <!--Tesorero-->
+    <td>Jorge Gutiérrez<br/>Pablo Molins</td> <!--Vocales-->
+  </tr>
+  <tr>
+    <td><i>2018-19</i></td>
+    <td></td> <!--Presidente-->
+    <td></td> <!--Vice-presidente-->
+    <td></td> <!--Secretario-->
+    <td></td> <!--Tesorero-->
+    <td></td> <!--Vocales-->
   </tr>
 </table>
 <br/>
