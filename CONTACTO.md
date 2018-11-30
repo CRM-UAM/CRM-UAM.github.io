@@ -45,9 +45,9 @@ Puedes pasarte por el **local del CRM, el B-111**, situado en la planta baja del
 Imagen en directo de nuestra impresora 3D
 --
 
-<img src="http://picard.ii.uam.es/webcam/?action=stream" style="transform:rotate(180deg);" width="50%">
+<img src="http://picard.ii.uam.es/webcam/?action=snapshot" style="transform:rotate(180deg);" width="50%">
 
-(Si la luz está encendida es que hay gente en el local. Si ves fuego, **¡avísanos!**)
+(Si la luz está encendida es que hay gente en el local)
 
 Teléfono del local
 --

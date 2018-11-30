@@ -19,10 +19,6 @@ Te recomendamos que lo añadas a tu calendario para estar al día de los eventos
 Imagen en directo de nuestra impresora 3D
 --
 
-<img src="http://picard.ii.uam.es/webcam/?action=stream" style="transform:rotate(180deg);" width="50%">
+<img src="http://picard.ii.uam.es/webcam/?action=snapshot" style="transform:rotate(180deg);" width="50%">
 
-(Si la luz está encendida es que hay gente en el local. Si ves fuego, **¡avísanos!**)
-
-Teléfono del local
---
-+34 91 497 3616
+(Si la luz está encendida es que hay gente en el local)
