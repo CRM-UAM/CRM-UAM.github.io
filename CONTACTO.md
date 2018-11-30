@@ -5,19 +5,22 @@ permalink: /contacto/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
-Repositorio de GitHub
---
- **<https://github.com/CRM-UAM/>**
 
-Recuerda apuntarte en el [formulario de **inscripción** de nuevos miembros.](/registro)
-
-Foro
---
 Tenemos un **grupo** al que puedes escribir o suscribirte:
 
 **<https://groups.google.com/forum/#!forum/crm-uam>** 
 
 La usamos como **foro**. Si tienes alguna **duda, quieres organizar alguna actividad o buscas apoyos para un proyecto**, es un buen sitio para empezar.
+
+También tenemos un [grupo de Telegram](/registro).
+
+
+Repositorio de GitHub
+--
+ **<https://github.com/CRM-UAM/>**
+
+Te incluiremos si te apuntas en el [formulario de **inscripción** de nuevos miembros.](/registro)
+
 
 Correo electrónico
 --
@@ -33,25 +36,22 @@ Puedes pasarte por el **local del CRM, el B-111**, situado en la planta baja del
 
 *Si vienes de lejos, te recomendamos contactar antes para asegurarte de que habrá gente cuando llegues.*
 
-<svg width="100%" height="381" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  
-  <image preserveAspectRatio="none" width="100%" height="100%" xlink:href="/imagenes_web/donde_estamos.png" x="0" y="0"></image>
-  <line y1="100" y2="195" x2="532" x1="532" fill="red" stroke="red" stroke-width="4"></line> 
-  <polygon points="532,95 540,120 524,120" fill="red" stroke="red" stroke-width="4"></polygon>
-</svg>
 
-<br/>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1515.871992147176!2d-3.692365699459125!3d40.54724499817481!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDMyJzUwLjEiTiAzwrA0MSczMC4yIlc!5e0!3m2!1sen!2ses!4v1543616837821" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 Imagen en directo de nuestra impresora 3D
 --
 
-<img src="http://picard.ii.uam.es/webcam/?action=snapshot" style="transform:rotate(180deg);" width="50%">
+<img src="http://picard.ii.uam.es/webcam/?action=snapshot" style="transform:rotate(180deg);" width="100%">
 
 (Si la luz está encendida es que hay gente en el local)
+
 
 Teléfono del local
 --
 +34 91 497 3616
+
 
 Mensajes del foro:
 --
@@ -60,7 +60,7 @@ Mensajes del foro:
   src="javascript:void(0)"
   scrolling="no"
   frameborder="0"
-  width="70%"
+  width="100%"
   height="500">
 </iframe>
 <script type="text/javascript">
