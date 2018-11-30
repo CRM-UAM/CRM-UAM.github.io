@@ -11,11 +11,11 @@ Las MiniBlip son **placas basadas en arquitectura ARM**, que pueden programarse 
 
 <table border="0" width="100%">
   <tr>
-    <td>
-      <img src="/actividades/PuertasAbiertas/2016_ViernesAbierto22enero/2016-01-22 16.40.04.jpg" height="200px"/><br/>
+    <td width="55%">
+      <img src="/actividades/PuertasAbiertas/2016_ViernesAbierto22enero/2016-01-22 16.40.04.jpg"/><br/>
     </td>
-    <td>
-      <img src="/actividades/PuertasAbiertas/2016_ViernesAbierto22enero/2016-01-22 18.56.21.jpg" height="200px"/><br/>
+    <td width="45%">
+      <img src="/actividades/PuertasAbiertas/2016_ViernesAbierto22enero/2016-01-22 18.56.21.jpg"/><br/>
     </td>
   </tr>
 </table>

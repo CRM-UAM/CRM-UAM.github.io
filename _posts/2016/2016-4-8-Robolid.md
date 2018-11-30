@@ -12,7 +12,7 @@ Hemos participado en otra competición, esta vez se trata de [**Robolid 2016**](
 En el club [ya disponíamos de un robot Velocista](/blog/2016/02/19/viernes-abierto.html), pero de cara a la competición **decidimos mejorar el diseño y además construir otro robot capaz de participar en la categoría de Rastreadores** (tiene un chasis mas corto para poder hacer mejor los giros).
 Esto fue posible en el corto plazo que teníamos, gracias a que el diseño de nuestro robot es completamente paramétrico y su estructura está fabricada con una impresora 3D.
 
-<center><img src="/historia/eventos/2016_Robolid/2016_Robolid_procesoVector9000.jpg" height="100px"/></center>
+<center><img src="/historia/eventos/2016_Robolid/2016_Robolid_procesoVector9000.jpg" width="80%"/></center>
 
 <center><i>Fases del proceso de diseño del Vector 9000 (velocista) y MiniVector (rastreador)</i></center>
 
@@ -23,14 +23,14 @@ Además, aprovechamos la ocasión de participar en este evento para incluir algu
 
 <table border="0" width="100%">
   <tr>
-    <td>
-      <img src="/historia/eventos/2016_Robolid/2016_Robolid_CarlosVictor.jpg" height="170px"/><br/>
+    <td width="20%">
+      <img src="/historia/eventos/2016_Robolid/2016_Robolid_CarlosVictor.jpg"/><br/>
     </td>
-    <td>
-      <img src="/historia/eventos/2016_Robolid/2016_Robolid_circuitoVelocistas.jpg" height="170px"/><br/>
+    <td width="20%">
+      <img src="/historia/eventos/2016_Robolid/2016_Robolid_circuitoVelocistas.jpg"/><br/>
     </td>
-    <td>
-      <img src="/historia/eventos/2016_Robolid/2016_Robolid_VictorRastreadores.jpg" height="170px"/><br/>
+    <td width="20%">
+      <img src="/historia/eventos/2016_Robolid/2016_Robolid_VictorRastreadores.jpg"/><br/>
     </td>
   </tr>
 </table>

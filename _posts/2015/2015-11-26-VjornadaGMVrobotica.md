@@ -12,12 +12,12 @@ Además participamos en el concurso <i>"Concurrent Design Facility (CDF) for Rob
 
 <table border="0" width="100%">
   <tr>
-    <td>
-      <img src="/historia/eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV.jpg" height="230px"/><br/>
+    <td width="55%" valign="top">
+      <img src="/historia/eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV.jpg"/><br/>
       Demostración de los robots <i>Foxiris</i> de GMV (izquierda), <i>MiR100</i> de Robotplus (al fondo) y <i>Aunav</i> de Proytecsa (derecha).
     </td>
-    <td>
-      <img src="/historia/eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV_team.jpg" height="230px"/><br/>
+    <td width="45%" valign="top">
+      <img src="/historia/eventos/2015_JornadaRoboticaGMV/2015_V_JornadaRobotica_GMV_team.jpg"/><br/>
       <font size="1">
       Fila superior: Carlos Crespo (GMV), Carlos García (CRM-UAM), Sergio Martini (GMV), Alberto Medina (GMV), Pedro Hernández (Repsol), Gonzalo Díaz (UPM) y Víctor Uceda (CRM-UAM)<br/>
       Fila inferior: Luis Paarup, David Matilla, Javier Fernández, Stefan y Pablo Rodríguez -ausente en la foto- (todos de la UPM)<br/>
