@@ -15,7 +15,7 @@ _*Nota: Las direcciones deben completarse con_ uam.es _al final._
 
 ## Presidente
 
-Pablo Molins, _pablo.molins@*_
+David García Fernández, _david.garciaf02@estudiante.uam.es_
 
 ### Responsabilidades:
 
@@ -27,9 +27,9 @@ Pablo Molins, _pablo.molins@*_
 * Gestionar los permisos de acceso al local.
 * Estar al tanto de todos los proyectos y actividades promovidas por el club.
 
-## Vicepresidenta
+## Vicepresidente
 
-Cristina Kasner, _cristina.kasner@estudiante.*_
+David Ramírez Mesón, _david.ramirezm@estudiante.uam.es_
 
 ### Responsabilidades
 
@@ -43,7 +43,7 @@ asociación.
 
 ## Tesorero
 
-Eduardo Hilario, _eduardo.hilario@estudiante.*_
+Cristian Tatu, _cristian.tatu@estudiante.uam_
 
 ### Responsabilidades
 
@@ -55,7 +55,7 @@ Eduardo Hilario, _eduardo.hilario@estudiante.*_
 
 ## Secretario
 
-Lázaro López, _lazaro.lopez@estudiante.*_
+Manuel Contreras, _manuelj.contreras@estudiante.uam.es_
 
 ### Responsabilidades
 
@@ -65,25 +65,11 @@ Lázaro López, _lazaro.lopez@estudiante.*_
 * Asegurar que se cumplen los plazos importantes de la gestión del club, recordando al resto los plazos y calendarios.
 * Asegurar la correcta documentación de los proyectos por parte de los miembros que los realicen. Es *el documentador del frac*.
 
-## Vocal de actividades
-
-Alfredo Sanz, _alfredo.sanzo@estudiante.*_
-
-### Responsabilidades:
-
-* Promocionar activa y regularmente talleres, charlas y cualquier otra actividad interesante para la comunidad educativa.
-* Garantizar que dichas actividades son documentadas correctamente, con memorias, videos, fotos, etc.
-
 ## Vocales
 
-Carlos García, _carlos.garciasaura@*_ 
-
-Carlos González, _carlos.gonzalez@estudiante.*_
-
-Rafael Leira, _rafael.leira@*_
+Carlos García, _carlos.garciasaura@uam.es_ 
 
 ### Responsabilidades
 
 * Asistir y aconsejar al resto de miembros de la Junta en la realización de sus tareas.
 
-_*Nota: Las direcciones deben completarse con_ uam.es _al final._
