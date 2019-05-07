@@ -25,7 +25,8 @@ Te incluiremos si te apuntas en el [formulario de **inscripción** de nuevos mie
 Correo electrónico
 --
 Email de contacto para temas administrativos:
-**crm (punto) asociacion (arroba) uam (punto) es**
+
+**club.robotica.uam (arroba) gmail (punto) com**
 
 Si quieres responder dudas sobre algún proyecto o proponernos algo, echa un ojo también al grupo de Google y a nuestro [grupo de Telegram](/registro).
 
