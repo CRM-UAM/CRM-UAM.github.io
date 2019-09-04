@@ -6,34 +6,28 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
 
-Tenemos un **grupo** al que puedes escribir o suscribirte:
-
-**<https://groups.google.com/forum/#!forum/crm-uam>** 
-
-La usamos como **foro**. Si tienes alguna **duda, quieres organizar alguna actividad o buscas apoyos para un proyecto**, es un buen sitio para empezar.
-
-También tenemos un [grupo de Telegram](/registro).
+Tenemos un grupo de Telegram, [inscríbete](/registro) para acceder.
 
 
 Repositorio de GitHub
 --
  **<https://github.com/CRM-UAM/>**
 
-Te incluiremos si te apuntas en el [formulario de **inscripción** de nuevos miembros.](/registro)
+Te incluiremos si te apuntas en el [formulario de inscripción de nuevos miembros.](/registro)
 
 
 Correo electrónico
 --
 Email de contacto para temas administrativos:
 
-**club.robotica.uam (arroba) gmail (punto) com**
+**crm.asociacion (arroba) uam (punto) es**
 
-Si quieres responder dudas sobre algún proyecto o proponernos algo, echa un ojo también al grupo de Google y a nuestro [grupo de Telegram](/registro).
+Si quieres responder dudas sobre algún proyecto o proponernos algo, pásate por nuestro [grupo de Telegram](/registro).
 
 
 Localización
 --
-Puedes pasarte por el **local del CRM, el B-111**, situado en la planta baja del edificio Ada Lovelace (edificio B) de la **Escuela Politécnica Superior** del campús de Cantoblanco. [Aquí el mapa completo](https://www.uam.es/ss/Satellite/es/1234886381480/contenidoFinal/Plano_Campus_UAM.htm).
+El local del CRM es **B-111**, situado en la planta baja del edificio Ada Lovelace (edificio B) de la **Escuela Politécnica Superior** del campús de Cantoblanco.
 
 *Si vienes de lejos, te recomendamos contactar antes para asegurarte de que habrá gente cuando llegues.*
 
@@ -46,28 +40,9 @@ Imagen en directo de nuestra impresora 3D
 
 <img src="http://picard.ii.uam.es/webcam/?action=snapshot" style="transform:rotate(180deg);" width="100%">
 
-(Si la luz está encendida es que hay gente en el local)
+(Si la luz está apagada es que no hay gente en el local)
 
 
 Teléfono del local
 --
 +34 91 497 3616
-
-
-Mensajes del foro:
---
-
-<iframe id="forum_embed"
-  src="javascript:void(0)"
-  scrolling="no"
-  frameborder="0"
-  width="100%"
-  height="500">
-</iframe>
-<script type="text/javascript">
-  document.getElementById('forum_embed').src =
-     'https://groups.google.com/forum/embed/?place=forum/crm-uam'
-     + '&showsearch=false&showpopout=true&showtabs=false&hideforumtitle=true&showsearch=false&hl=es&hidewelcomemessage=true'
-     + '&parenturl=' + encodeURIComponent(window.location.href);
-</script>
-
