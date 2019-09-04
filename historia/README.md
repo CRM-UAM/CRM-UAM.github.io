@@ -74,7 +74,7 @@ Desde entonces el CRM-UAM lo han administrado las siguientes juntas directivas:
     <td>David Ramírez</td> <!--Vice-presidente-->
     <td>Manuel Contreras</td> <!--Secretario-->
     <td>Cristian Tatu</td> <!--Tesorero-->
-    <td>Carlos García<br/>Andres Martini</td> <!--Vocales-->
+    <td>Carlos García<br/>Andrés Martini</td> <!--Vocales-->
   </tr>
   <tr>
     <td><i>2019-20</i></td>
