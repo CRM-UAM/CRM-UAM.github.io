@@ -70,6 +70,14 @@ Desde entonces el CRM-UAM lo han administrado las siguientes juntas directivas:
   </tr>
   <tr>
     <td><i>2018-19</i></td>
+    <td>David García</td> <!--Presidente-->
+    <td>David Ramírez</td> <!--Vice-presidente-->
+    <td>Manuel Contreras</td> <!--Secretario-->
+    <td>Cristian Tatu</td> <!--Tesorero-->
+    <td>Carlos García<br/>Andres Martini</td> <!--Vocales-->
+  </tr>
+  <tr>
+    <td><i>2019-20</i></td>
     <td></td> <!--Presidente-->
     <td></td> <!--Vice-presidente-->
     <td></td> <!--Secretario-->
@@ -79,7 +87,9 @@ Desde entonces el CRM-UAM lo han administrado las siguientes juntas directivas:
 </table>
 <br/>
 
-A pesar de ser una asociación gestionada por estudiantes, **el Club de Robótica-Mecatrónica apoya a cualquier miembro de la comunidad universitaria que quiera llevar a cabo proyectos relacionados con la robótica**.
+[(ver junta directiva actual)](../junta)
+
+**El Club de Robótica-Mecatrónica está gestionado por estudiantes y apoya a cualquier miembro de la comunidad universitaria que quiera llevar a cabo proyectos relacionados con la robótica**.
 Es decir, tanto estudiantes como profesores pueden inscribirse y así disponer de un espacio de trabajo agradable con herramientas de uso común (impresoras 3D, soldadores, sierras, alicates, destornilladores, etc) así como los materiales necesarios (cables, componentes, motores, baterías, etc). También disponemos de un [foro](../contacto) donde ayudarnos unos a otros.
 
 Además el club organiza periódicamente diversas actividades para fomentar la robótica entre los estudiantes:
