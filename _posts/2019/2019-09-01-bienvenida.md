@@ -12,6 +12,6 @@ Si tienes proyectos de robótica y hardware ¡el CRM es tu asociación! Tenemos 
 Estamos en el local B111 (planta baja edificio B). [Inscríbete](/registro) y únete a nuestro grupo de Telegram para tener toda la información.
 
 <img src="/historia/eventos/2015_FeriaDeLasAsociacionesUAM/2015-12-15 13.24.56.jpg"/><br/>
-Estaremos en nuestro local **el viernes 6 de 13h a 14h**, y en la **Plaza Mayor el jueves 12 de 12h a 17h**.
+Estaremos en la **Plaza Mayor el jueves 12 de 12h a 17h**.
 
 ¡¡Bienvenid@s!!
