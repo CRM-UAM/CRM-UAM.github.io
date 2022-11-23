@@ -6,7 +6,7 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
 
-Tenemos un grupo de Telegram, [inscríbete](/registro) para acceder.
+Tenemos un grupo de Telegram, [apúntate!](/registro)
 
 
 Repositorio de GitHub
@@ -35,14 +35,10 @@ El local del CRM es **B-111**, situado en la planta baja del edificio Ada Lovela
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1515.871992147176!2d-3.692365699459125!3d40.54724499817481!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDMyJzUwLjEiTiAzwrA0MSczMC4yIlc!5e0!3m2!1sen!2ses!4v1543616837821" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
-Imagen en directo de nuestra impresora 3D
---
-
-<img src="http://picard.ii.uam.es/webcam/?action=snapshot" style="transform:rotate(180deg);" width="100%">
-
-(Si la luz está apagada es que no hay gente en el local)
-
-
 Teléfono del local
 --
 +34 91 497 3616
+
+Grupo de Telegram
+--
+[Enlace al grupo](/registro)
