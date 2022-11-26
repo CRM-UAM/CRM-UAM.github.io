@@ -5,6 +5,8 @@ permalink: /blog/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
+_El blog lo actualizamos poco, pero ¡seguimos vivos! :)_
+
 <div class="home">
 
   <ul class="post-list">
