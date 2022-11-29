@@ -2,7 +2,7 @@
 layout: post
 title:  "Bienvenida a la UAM"
 author: "Carlos García Saura"
-mostrarEnPortada: false
+mostrarEnPortada: true
 estiloEnPortada: "border-radius: 25px; background: #fcf8dd; border: 3px solid #fcdb05; padding: 20px; width: 90%;"
 ---
 
