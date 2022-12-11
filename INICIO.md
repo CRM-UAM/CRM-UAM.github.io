@@ -44,7 +44,7 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
     </td>
     <td>
       <a href="/registro">
-      <center><img src="/imagenes_web/iconos/nuevoCRMiembro.png"/><br/><b>¿Nuevo miembr@?</b></center>
+      <center><img src="/imagenes_web/iconos/nuevoCRMiembro.png"/><br/><b>¡Apúntate!</b></center>
       </a>
     </td>
     <td>
