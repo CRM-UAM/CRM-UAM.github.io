@@ -9,10 +9,6 @@ Aunque desconocemos el autor original del logotipo, sabemos que se basó en la s
 <img src="animal_n15_Hajime_Sorayama.jpg" width="400"/>  
 *Animal. #15* by Hajime Sorayama  
 
-Pantallas informativas:
-==
-Entra en [pantallas informativas](/administrativo/pantallas), coge una plantilla, ¡anímate y haz tu propio taller! :)
-
 Nuestro logotipo en HD:
 ==
 <a href="logo_crm_transparente_con_sombra.png"><img src="logo_crm_transparente_con_sombra.png"/></a>  
@@ -39,3 +35,7 @@ Tarjetas de visita:
 ==
 Diseñada por Víctor Uceda. Array de tarjetas ([PDF](Tarjetas/2015_ArrayTarjetas_continuo.pdf), [.pages](Tarjetas/2015_ArrayTarjetas_continuo.pages)).  
 <img src="Tarjetas/2015_tarjetaCRM.jpg" width="350"/>  
+
+Pantallas informativas:
+==
+Entra en [pantallas informativas](/administrativo/pantallas), coge una plantilla, ¡anímate y haz tu propio taller! :)
