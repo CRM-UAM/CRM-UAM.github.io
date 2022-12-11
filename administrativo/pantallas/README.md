@@ -5,9 +5,10 @@ permalink: /administrativo/pantallas/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
-Plantillas para promocionar los eventos del club con "spamming" del bueno :-)  
+Plantillas para promocionar los eventos del club con "spamming" del bueno...
+
 <img src="2012-05-24.jpg" width="400"/>  
-Diseñadas por Lucas Polo, Víctor Uceda y Carlos García.
+Coge una plantilla, ¡haz tu propio taller y enseña tus proyectos!
 
 
 <div align="right">
@@ -65,5 +66,4 @@ Diseñadas por Lucas Polo, Víctor Uceda y Carlos García.
 <a href="2012_taller_iniciacion.odg">fuente ODG</a>
 </div>
 
-
-[**Volver a temas administrativos y transparencia**](/administrativo)
+¡Prueba de que estrenamos esas pantallas ya en 2012! Antes de eso llenábamos la EPS de carteles :)
