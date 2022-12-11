@@ -48,13 +48,13 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
       </a>
     </td>
     <td>
-      <a href="/junta">
-      <center><img src="/imagenes_web/iconos/cpu.png"/><br/><b>Junta directiva</b></center>
+      <a href="/logotipo">
+      <center><img src="/imagenes_web/iconos/monitor.png"/><br/><b>Logos y carteles</b></center>
       </a>
     </td>
     <td>
       <a href="/historia">
-      <center><img src="/imagenes_web/iconos/monitor.png"/><br/><b>Historia del club</b></center>
+      <center><img src="/imagenes_web/iconos/cpu.png"/><br/><b>Historia del club</b></center>
       </a>
     </td>
   </tr>
