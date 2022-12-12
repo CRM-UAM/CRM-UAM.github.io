@@ -30,7 +30,7 @@ _Hay muchas más ¡Recuerda añadir tus robots!_
   </tr>
 </table>
 
-* (2018) **[Socava-bot](https://github.com/CRM-UAM/Socavabot) y [Ceporro-bot](https://github.com/CRM-UAM/Ceporro-Bot)**. Robots de combate que ganaron varios premios en la OSHWDem Coruña 🎉
+* (2018) **[Socava-bot](https://github.com/CRM-UAM/Socavabot) y [Ceporro-bot](https://github.com/CRM-UAM/Ceporro-Bot)**. Robots de combate que llevamos otro año a la OSHWDem Coruña... Sip, eso es un cuchillo pegado con celo, y si, eso es un taladro que gira a alta velocidad, pues fueron todo un exito 🎉
 
 <table border="0" width="100%">
   <tr>
