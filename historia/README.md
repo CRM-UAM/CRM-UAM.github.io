@@ -5,138 +5,51 @@ permalink: /historia/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
-El Club de Robótica-Mecatrónica (CRM) fue fundado en 1997 por estudiantes de la [Universidad Autónoma de Madrid](http://www.uam.es/), con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2008) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo e [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.  
+El Club de Robótica-Mecatrónica (CRM) fue fundado en 1997 por estudiantes de la [Universidad Autónoma de Madrid](http://www.uam.es/), con gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/). Entre los primeros miembros del CRM-UAM (período 1997-2008) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo e [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros.
+De 2009 a 2011 fue [Héctor David Ménendez](https://dblp.org/pid/45/9854) quien tomó las riendas de la asociación, reabriendo el club y promoviendo multitud de talleres de Arduino e iniciativas tan interesantes como el *Encuentro de Estudiantes por la Ciencia y la Cultura* (organizado junto con [David Camacho Fernández](http://arantxa.ii.uam.es/~dcamacho/)).
+De 2012 a 2020 [muuuchas personas](../junta) seguimos la tradición del CRM al que agradecemos haber especializado y mejorado nuestras carreras 🦾
 
-De 2009 a 2011 fue [Héctor David Ménendez](https://dblp.org/pid/45/9854) quien tomó las riendas de la asociación, reabriendo el club y promoviendo multitud de talleres de Arduino e iniciativas tan interesantes como el *Encuentro de Estudiantes por la Ciencia y la Cultura* (organizado junto con [David Camacho Fernández](http://arantxa.ii.uam.es/~dcamacho/)).  
+Desde 2023, tras un pequeño parón por el COVID-19, el CRM continúa mejorando la vida universitaria en la Escuela Politécnica Superior, promoviendo la creatividad y los proyectos de todo el que se apunta 🎉
 
-Desde entonces el CRM-UAM lo han administrado las siguientes juntas directivas:  
 
-<table border="1px" width="100%">
+
+Robots que han pasado por el CRM
+--
+_Hay muchos más ¡Recuerda añadir tus robots!_
+
+* (2018) **[VisionRace](https://github.com/CRM-UAM/VisionRace)** (Cristian Tatu). Robot siguelineas que utiliza una camara con vision artificial para mapear la pista ¡Ganó el 2º puesto en velocidad de la OSHWDem!
+
+<table border="0" width="100%">
   <tr>
-    <th>Curso</th>
-    <th>Presidente</th>
-    <th>Vice-pres.</th>
-    <th>Secretario</th>
-    <th>Tesorero</th>
-    <th>Vocales</th>
-  </tr>
-  <tr>
-    <td><i>2012-13</i></td>
-    <td>Miguel Gargallo</td> <!--Presidente-->
-    <td><a href="http://lucaspolo.eu">Lucas Polo</a></td> <!--Vice-presidente-->
-    <td>Antonio Ortega</td> <!--Secretario-->
-    <td>Antonio Ortega</td> <!--Tesorero-->
-    <td>Álvaro Pérez<br/>Carlos García</td> <!--Vocales-->
-  </tr>
-  <tr>
-    <td><i>2013-14</i></td>
-    <td>Miguel Gargallo</td> <!--Presidente-->
-    <td>Carlos García</td> <!--Vice-presidente-->
-    <td>Pablo Molins</td> <!--Secretario-->
-    <td>Víctor Uceda</td> <!--Tesorero-->
-    <td></td> <!--Vocales-->
-  </tr>
-  <tr>
-    <td><i>2014-15</i></td>
-    <td>Víctor Uceda</td> <!--Presidente-->
-    <td>Rodrigo Jiménez</td> <!--Vice-presidente-->
-    <td>Cristina Kasner</td> <!--Secretario-->
-    <td>Guillermo Ruíz</td> <!--Tesorero-->
-    <td></td> <!--Vocales-->
-  </tr>
-  <tr>
-    <td><i>2015-16</i></td>
-    <td>Carlos García</td> <!--Presidente-->
-    <td>Rodrigo Jiménez</td> <!--Vice-presidente-->
-    <td>Cristina Kasner</td> <!--Secretario-->
-    <td>Jaime Aragón</td> <!--Tesorero-->
-    <td>Víctor Uceda<br/>Pablo Molins</td> <!--Vocales-->
-  </tr>
-  <tr>
-    <td><i>2016-17</i></td>
-    <td>Pablo Molins</td> <!--Presidente-->
-    <td>Cristina Kasner</td> <!--Vice-presidente-->
-    <td>Lázaro López</td> <!--Secretario-->
-    <td>Eduardo Hilario</td> <!--Tesorero-->
-    <td>Alfredo Sanz<br/>Rafael Leira</td> <!--Vocales-->
-  </tr>
-  <tr>
-    <td><i>2017-18</i></td>
-    <td>Illy Naami</td> <!--Presidente-->
-    <td>David Ramírez</td> <!--Vice-presidente-->
-    <td>Lázaro López</td> <!--Secretario-->
-    <td>David García</td> <!--Tesorero-->
-    <td>Jorge Gutiérrez<br/>Pablo Molins</td> <!--Vocales-->
-  </tr>
-  <tr>
-    <td><i>2018-19</i></td>
-    <td>David García</td> <!--Presidente-->
-    <td>David Ramírez</td> <!--Vice-presidente-->
-    <td>Manuel Contreras</td> <!--Secretario-->
-    <td>Cristian Tatu</td> <!--Tesorero-->
-    <td>Carlos García<br/>Andrés Martini</td> <!--Vocales-->
-  </tr>
-  <tr>
-    <td><i>2019-20</i></td>
-    <td></td> <!--Presidente-->
-    <td></td> <!--Vice-presidente-->
-    <td></td> <!--Secretario-->
-    <td></td> <!--Tesorero-->
-    <td></td> <!--Vocales-->
+    <td width="40%">
+      <img src="../historia/eventos/2018_OSHWDem/2018_OSHWDem_VisionRace.jpg" height="200px"/><br/>
+    </td>
+    <td width="60%">
+      <img src="../historia/eventos/2018_OSHWDem/2018_OSHWDem_VisionRace_segundoPuesto.jpg" height="200px"/><br/>
+    </td>
   </tr>
 </table>
-<br/>
 
-[(ver junta directiva actual)](../junta)
+* (2018) **[Socava-bot](https://github.com/CRM-UAM/Socavabot) y [Ceporro-bot](https://github.com/CRM-UAM/Ceporro-Bot)**. Robots de combate que ganaron varios premios en la OSHWDem Coruña 🎉
 
-**El Club de Robótica-Mecatrónica está gestionado por estudiantes y apoya a cualquier miembro de la comunidad universitaria que quiera llevar a cabo proyectos relacionados con la robótica**.
-Es decir, tanto estudiantes como profesores pueden inscribirse y así disponer de un espacio de trabajo agradable con herramientas de uso común (impresoras 3D, soldadores, sierras, alicates, destornilladores, etc) así como los materiales necesarios (cables, componentes, motores, baterías, etc). También disponemos de un [foro](../contacto) donde ayudarnos unos a otros.
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/CRM-UAM/Socavabot/master/Graphics/cover1.jpg" height="200px"/><br/>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/CRM-UAM/Ceporro-Bot/master/Imagenes/Ceporro-Bot.jpeg" height="200px"/><br/>
+    </td>
+  </tr>
+</table>
 
-Además el club organiza periódicamente diversas actividades para fomentar la robótica entre los estudiantes:
+* (2016 y 2018) **Cuñaobot** (Eduardo Hilario y David Ramírez). Robot de combate hecho de metal reforzado. Se controlaba por TELNET!!!!!! Había que pulsar una tecla y luego ENTER, continuamente. Incluso con eso ganó algunas batallas.
 
-* (2016) **Jornadas "ArduParty"**. Más información [en nuestro blog](../blog)
+<center><img src="../historia/eventos/2016_OSHWDem/2016_OSHWDem_EduCombate.jpg" height="200px"/></center><br/>
 
-* (2016) **"Viernes abiertos"** del Club de Robótica. Más información [en nuestro blog](../blog)
+* (2014-2018) **Velocistas y CRMaze** (Víctor Uceda, Carlos García). Varias versiones de los robots de carreras y de laberinto ganaron premios en la OSHWDem Coruña y en Robolid (Valladolid).
 
-* (2014) [**ArduParty 2014**](../actividades/2014_ArduParty), taller organizado por Víctor Uceda, Carlos García, Pablo Moreno y Miguel Rodríguez. *Escuela Politécnica Superior, 19 de Septiembre de 2014*
-
-* (2013) [**Taller de iniciación a OpenScad**](https://github.com/carlosgs/tutorial-OpenScad) organizado por Carlos García. *Escuela Politécnica Superior, 3 de Octubre de 2013*
-
-* (2012) [**Taller de introducción a la robótica con el robot HKTR-9000**](../actividades/2012_taller_arduino) organizado por Lucas Polo, Miguel Gargallo y Carlos García. Vinieron 20 estudiantes y se construyeron cinco robots capaces de seguir líneas y esquivar obstáculos. [vídeo 1](https://www.youtube.com/watch?v=4ZO9BoCVn4U), [vídeo 2](https://www.youtube.com/watch?v=QlhNiiyTSb0)
-
-* (2011) **Taller de Arduino** organizado por Héctor Ménendez y Saúl Vargas. *Escuela Politécnica Superior, 4 de Noviembre de 2011*. ([PDF con documentación sobre Arduino](2011_ReferenciaArduinoCRM_hdmb.pdf))
-
-* (2011) El CRM y el [Club de Informática](http://uam.es/cdi) cooperan en el **Encuentro de Estudiantes por la Ciencia y la Cultura**. Fue organizado por David Camacho y Héctor Ménendez y tuvo un gran éxito entre los estudiantes (~80 personas). Además de las charlas educativas, destacaron los talleres de construcción de cohetes y de papiroflexia. *Escuela Politécnica Superior, 4-8 de Julio de 2011*. [noticia en la web de la UAM](http://www.uam.es/ss/Satellite/es/1242652866332/1242655953936/cursocortaduracion/cursoCortaDuracion/Encuentro_de_Estudiantes_por_la_Ciencia_y_la_Cultura.htm)
-
-
-Presencia del Club de Robótica en eventos frikis
---
-
-* (2015) Participación en la [**V Jornada GMV de Robótica**](http://www.gmv.com/es/Empresa/Comunicacion/NotasDePrensa/2015/NP_017_VJornadaRobotica.html). Primer premio en el concurso "Concurrent Design Facility (CDF) for Robotics". [Entrada en el blog](../blog/2015/11/26/VjornadaGMVrobotica.html)
-
-* (2015) Participación del robot [CRMaze](https://github.com/CRM-UAM/CRMaze) (de Víctor Uceda y Carlos García) en el concurso de Laberinto de la [**Open Source Hardware Demonstration (OSHWDem 2015)**](http://oshwdem.org/category/ediciones-anteriores/oshwdem-2015/). *Domus de A Coruña, 7 de Noviembre de 2015*  
-
-* (2013) Participación del robot Véctor 9000 (de Víctor Uceda y Carlos García) en la categoría Velocistas de **Cosmobot 2013**. *Museo de la Ciencia de Alcobendas, 3 de Marzo de 2013*  
-
-* (2005-2008) Participación de miembros del CRM en las **Campus Party** [2005](http://www.iearobotics.com/personal/juan/eventos/evento03/), [2006](http://www.iearobotics.com/personal/juan/eventos/evento17/), [2007](http://www.iearobotics.com/blog/2007/07/24/campus-party-2007/), [2008](http://www.iearobotics.com/wiki/index.php?title=Campus_Party_2008) (Andrés Prieto Moreno, Juan González Gómez, Iván González...). El robot Slayer llegó a las semifinales del concurso de velocistas de la Campus Party 2008 ([vídeo](https://www.youtube.com/watch?v=QCTAsrCcZpA))  
-
-* (2006) **ROBOLID'06**: El Club presentó dos robots, Slayer y Margarita. **Slayer ganó en la categoría de Rastreadores y Margarita fue quinto en la categoría de Sumo**. [**resumen en la web de ARDE**](http://www.arde.cc/competiciones/robolid-2006/), [**vídeo de Slayer**](https://www.youtube.com/watch?v=GXij8BVFPP0), [**vídeo de Margarita**](https://www.youtube.com/watch?v=l2qdEMfkfEo)  
-
-* (2005) Participación en las **Sesiones de robótica UPSAM**. Andrés y Juan presentaron varios robots (el Skybot, los "ojos", Cube Revolutions, la Hormiga Benita, Pucho Bot, y el Robot "Observer"). [**diapositivas de la presentación**](../historia/eventos/2005_sesionesRoboticaUPSAM/)  
-
-* (2005) Participación en **Robolid'05** con el robot Slayer (Daniel Álvarez y Alberto Calvo) en las categorías de rastreadores y velocistas. Más información [en el blog de iearobotics](http://www.iearobotics.com/personal/juan/conferencias/conf7/)
-
-* (2004) **Concurso Nacional de robots HISPABOT'04**: [**resumen en la web iearobotics**](http://www.iearobotics.com/personal/juan/conferencias/conf14/), [**web Hispabot 04**](http://asimov.depeca.uah.es/alcabot/hispabot2004/), [**vídeo Queen-Mary**](https://www.youtube.com/watch?v=Af-piKdG3yk), [vídeo Slayer](https://www.youtube.com/watch?v=PIP5i6H5zKo), [**vídeo Melanie**](https://www.youtube.com/watch?v=cWKl-8FBR9Y) (UAH. Alcalá de Henares, Abril 2004). Participaron Cube-Revolutions, Queen-Mary, Papón y Melanie. **El CRM ganó los puestos 1º y 2º.**  
-
-* (2002) **III Concurso de microrrobots de la Universidad de Alcalá, ALCABOT'02**: Participaron el rastreador Aragorn (por Luis Jorge Alloza Román y Ramón Vázquez Pablo), el velocista MACH I (por Antonio Carballo) y el sumo Sproket (por Ramón Vázquez Pablo). [**web alcabot**](http://asimov.depeca.uah.es/alcabot/alcabot2002/)
-
-* (1997) **1º Torneo Abierto de Mecatrónica-Robótica de Madrid**: ([**web sumo**](http://robotic-design.mister-i.com/sumo.html), [**web torneo**](http://robotic-design.mister-i.com/torneo.html), [**vídeo torneo**](https://www.youtube.com/watch?v=ug1Dt8B3yGs), [**vídeo sumo**](https://www.youtube.com/watch?v=AXeh6zWayp8)) (Escuela Técnica Superior de Informática, Universidad Autónoma de Madrid, 28 de Octubre de 1997)  
-
-
-
-
-Algunos de los robots que han pasado por el CRM
---
+<center><img src="../historia/eventos/2016_Robolid/2016_Robolid_procesoVector9000.jpg" width="100%"/></center><br/>
 
 * (2013) **Véctor 9000** (Víctor Uceda, Carlos García) Participante en Cosmobot'13, categoría velocistas. *La categoría velocistas consiste en trazar en el suelo una línea cerrada que deben seguir los robots. Gana el robot que complete el recorrido en el menor tiempo posible*. [**vídeo**](https://www.youtube.com/watch?v=wgSMBDEtGO0)  
 <center><img src="robots/2013_Vector-9000/2013_Vector-9000.jpg" height="200px"/></center><br/>
@@ -177,6 +90,7 @@ Algunos de los robots que han pasado por el CRM
 
 * (2002) **Mach I**, un robot seguidor de línea, participante en Alcabot'02 (Antonio Carballo)  
 <center><img src="robots/2002_Mach-I.jpg" height="200px"/></center><br/>
+
 
 
 
@@ -349,6 +263,58 @@ Alcabot 2002
 Equipo: Antonio Carballo Antón, Luis Jorge Alloza Román, y Ramón Vazquez Pablo. Sostienen el robot velocista **MACH I**
 
 <br/>
+
+
+Más actividades organizadas por el CRM:
+--
+
+* (2016) **Jornadas "ArduParty"**. Más información [en nuestro blog](../blog)
+
+* (2016) **"Viernes abiertos"** del Club de Robótica. Más información [en nuestro blog](../blog)
+
+* (2014) [**ArduParty 2014**](../actividades/2014_ArduParty), taller organizado por Víctor Uceda, Carlos García, Pablo Moreno y Miguel Rodríguez. *Escuela Politécnica Superior, 19 de Septiembre de 2014*
+
+* (2013) [**Taller de iniciación a OpenScad**](https://github.com/carlosgs/tutorial-OpenScad) organizado por Carlos García. *Escuela Politécnica Superior, 3 de Octubre de 2013*
+
+* (2012) [**Taller de introducción a la robótica con el robot HKTR-9000**](../actividades/2012_taller_arduino) organizado por Lucas Polo, Miguel Gargallo y Carlos García. Vinieron 20 estudiantes y se construyeron cinco robots capaces de seguir líneas y esquivar obstáculos. [vídeo 1](https://www.youtube.com/watch?v=4ZO9BoCVn4U), [vídeo 2](https://www.youtube.com/watch?v=QlhNiiyTSb0)
+
+* (2011) **Taller de Arduino** organizado por Héctor Ménendez y Saúl Vargas. *Escuela Politécnica Superior, 4 de Noviembre de 2011*. ([PDF con documentación sobre Arduino](2011_ReferenciaArduinoCRM_hdmb.pdf))
+
+* (2011) El CRM y el [Club de Informática](http://uam.es/cdi) cooperan en el **Encuentro de Estudiantes por la Ciencia y la Cultura**. Fue organizado por David Camacho y Héctor Ménendez y tuvo un gran éxito entre los estudiantes (~80 personas). Además de las charlas educativas, destacaron los talleres de construcción de cohetes y de papiroflexia. *Escuela Politécnica Superior, 4-8 de Julio de 2011*. [noticia en la web de la UAM](http://www.uam.es/ss/Satellite/es/1242652866332/1242655953936/cursocortaduracion/cursoCortaDuracion/Encuentro_de_Estudiantes_por_la_Ciencia_y_la_Cultura.htm)
+
+
+
+
+
+
+Presencia del Club de Robótica en eventos frikis
+--
+
+* (2015) Participación en la [**V Jornada GMV de Robótica**](http://www.gmv.com/es/Empresa/Comunicacion/NotasDePrensa/2015/NP_017_VJornadaRobotica.html). Primer premio en el concurso "Concurrent Design Facility (CDF) for Robotics". [Entrada en el blog](../blog/2015/11/26/VjornadaGMVrobotica.html)
+
+* (2015) Participación del robot [CRMaze](https://github.com/CRM-UAM/CRMaze) (de Víctor Uceda y Carlos García) en el concurso de Laberinto de la [**Open Source Hardware Demonstration (OSHWDem 2015)**](http://oshwdem.org/category/ediciones-anteriores/oshwdem-2015/). *Domus de A Coruña, 7 de Noviembre de 2015*  
+
+* (2013) Participación del robot Véctor 9000 (de Víctor Uceda y Carlos García) en la categoría Velocistas de **Cosmobot 2013**. *Museo de la Ciencia de Alcobendas, 3 de Marzo de 2013*  
+
+* (2005-2008) Participación de miembros del CRM en las **Campus Party** [2005](http://www.iearobotics.com/personal/juan/eventos/evento03/), [2006](http://www.iearobotics.com/personal/juan/eventos/evento17/), [2007](http://www.iearobotics.com/blog/2007/07/24/campus-party-2007/), [2008](http://www.iearobotics.com/wiki/index.php?title=Campus_Party_2008) (Andrés Prieto Moreno, Juan González Gómez, Iván González...). El robot Slayer llegó a las semifinales del concurso de velocistas de la Campus Party 2008 ([vídeo](https://www.youtube.com/watch?v=QCTAsrCcZpA))  
+
+* (2006) **ROBOLID'06**: El Club presentó dos robots, Slayer y Margarita. **Slayer ganó en la categoría de Rastreadores y Margarita fue quinto en la categoría de Sumo**. [**resumen en la web de ARDE**](http://www.arde.cc/competiciones/robolid-2006/), [**vídeo de Slayer**](https://www.youtube.com/watch?v=GXij8BVFPP0), [**vídeo de Margarita**](https://www.youtube.com/watch?v=l2qdEMfkfEo)  
+
+* (2005) Participación en las **Sesiones de robótica UPSAM**. Andrés y Juan presentaron varios robots (el Skybot, los "ojos", Cube Revolutions, la Hormiga Benita, Pucho Bot, y el Robot "Observer"). [**diapositivas de la presentación**](../historia/eventos/2005_sesionesRoboticaUPSAM/)  
+
+* (2005) Participación en **Robolid'05** con el robot Slayer (Daniel Álvarez y Alberto Calvo) en las categorías de rastreadores y velocistas. Más información [en el blog de iearobotics](http://www.iearobotics.com/personal/juan/conferencias/conf7/)
+
+* (2004) **Concurso Nacional de robots HISPABOT'04**: [**resumen en la web iearobotics**](http://www.iearobotics.com/personal/juan/conferencias/conf14/), [**web Hispabot 04**](http://asimov.depeca.uah.es/alcabot/hispabot2004/), [**vídeo Queen-Mary**](https://www.youtube.com/watch?v=Af-piKdG3yk), [vídeo Slayer](https://www.youtube.com/watch?v=PIP5i6H5zKo), [**vídeo Melanie**](https://www.youtube.com/watch?v=cWKl-8FBR9Y) (UAH. Alcalá de Henares, Abril 2004). Participaron Cube-Revolutions, Queen-Mary, Papón y Melanie. **El CRM ganó los puestos 1º y 2º.**  
+
+* (2002) **III Concurso de microrrobots de la Universidad de Alcalá, ALCABOT'02**: Participaron el rastreador Aragorn (por Luis Jorge Alloza Román y Ramón Vázquez Pablo), el velocista MACH I (por Antonio Carballo) y el sumo Sproket (por Ramón Vázquez Pablo). [**web alcabot**](http://asimov.depeca.uah.es/alcabot/alcabot2002/)
+
+* (1997) **1º Torneo Abierto de Mecatrónica-Robótica de Madrid**: ([**web sumo**](http://robotic-design.mister-i.com/sumo.html), [**web torneo**](http://robotic-design.mister-i.com/torneo.html), [**vídeo torneo**](https://www.youtube.com/watch?v=ug1Dt8B3yGs), [**vídeo sumo**](https://www.youtube.com/watch?v=AXeh6zWayp8)) (Escuela Técnica Superior de Informática, Universidad Autónoma de Madrid, 28 de Octubre de 1997)  
+
+
+
+
+
+
 
 *Créditos de las imágenes: La mayoría de las fotos pre-2009 han sido obtenidas de la web <http://iearobotics.com/>. Gracias a Juan González por recuperar las fotos de la feria "Madrid por la Ciencia"*
 
