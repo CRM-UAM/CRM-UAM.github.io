@@ -71,11 +71,10 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 {% endfor %}
 
 
+El Club de Robótica-Mecatrónica está gestionado por estudiantes y apoya a cualquier miembro de la comunidad universitaria que quiera llevar a cabo proyectos relacionados con la robótica.
 
-Somos una asociación de estudiantes dedicados a fomentar el interés por la robótica en la [Universidad Autónoma de Madrid](http://www.uam.es/) y España en general.
-Periódicamente organizamos talleres, competiciones y seminarios orientados a la difusión de la electrónica, la mecánica y el software.
-También proporcionamos ayuda (técnica y económica) a los estudiantes que buscan realizar proyectos relacionados con la robótica.
+Es decir, tanto estudiantes como profesores pueden inscribirse y así **disponer de un espacio de trabajo agradable con herramientas de uso común (impresoras 3D, soldadores, sierras, alicates, destornilladores, etc) así como los materiales necesarios (cables, componentes, motores, baterías, etc)**.
+Además tenemos un [grupo de Telegram](../registro) donde ayudarnos unos a otros ¡Únete!
 
-
-Si te interesa no dudes en visitarnos, [**ponerte en contacto**](/contacto) con nosotros, o directamente rellenar el [formulario de **inscripción** de nuevos miembros](/registro)
+Si te interesa no dudes en visitarnos, [ponerte en contacto](/contacto) con nosotros, o directamente rellenar el [**formulario de inscripción de nuevos miembros**](/registro) 👈
 
