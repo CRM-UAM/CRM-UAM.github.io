@@ -11,7 +11,7 @@ De 2012 a 2020 [muuuchas personas](../junta) seguimos la tradición del CRM al q
 
 Desde 2023, tras un pequeño parón por el COVID-19, el CRM continúa mejorando la vida universitaria en la Escuela Politécnica Superior, promoviendo la creatividad y los proyectos de todo el que se apunta 🎉
 
-
+Como ves en esta página nos mola mucho participar en eventos, puedes cotillear tambien: [Así vivimos la OSHWDem 2016](../historia/eventos/2016_OSHWDem/), [Fotos de la ArduParty 2014](../actividades/2014_ArduParty/), [Fotos del Taller de introducción a la robótica con el robot HKTR-9000](../actividades/2012_taller_arduino/). ¿Quieres mas fotos? Las tenemos en [el blog](/blog) ¡¡Bienvenidx al club!! 😄
 
 Robots que han pasado por el CRM
 --
