@@ -43,7 +43,7 @@ _Hay muchos más ¡Recuerda añadir tus robots!_
   </tr>
 </table>
 
-* (2016 y 2018) **Cuñaobot** (Eduardo Hilario y David Ramírez). Robot de combate hecho de metal reforzado. Se controlaba por TELNET!!!!!! Había que pulsar una tecla y luego ENTER, continuamente. Incluso con eso ganó algunas batallas.
+* (2016 y 2018) **[Cuñaobot](https://github.com/CRM-UAM/Cuniaobot-2.0)** (Eduardo Hilario y David Ramírez). Robot de combate hecho de metal reforzado. Se controlaba por TELNET, había que pulsar una tecla y luego ENTER, continuamente. Incluso con eso ganó algunas batallas. Dale al enter Edu!!
 
 <center><img src="../historia/eventos/2016_OSHWDem/2016_OSHWDem_EduCombate.jpg" height="200px"/></center><br/>
 
@@ -67,7 +67,7 @@ _Hay muchos más ¡Recuerda añadir tus robots!_
 
 <center><img src="https://raw.githubusercontent.com/CRM-UAM/coche-RC/master/fotos/2016-05-24%2018.41.45.jpg" height="200px"/></center><br/>
 
-* (2016) **[Romualdo](https://github.com/CRM-UAM/Romualdo-HackUPC2017)** Con este robot tan majo participamos en el HACKUPC de Barcelona organizado por la Universidad Politecnica de Cataluña 💅
+* (2017) **[Romualdo](https://github.com/CRM-UAM/Romualdo-HackUPC2017)** Con este robot tan majo participamos en el HACKUPC de Barcelona organizado por la Universidad Politecnica de Cataluña 💅
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HHxEgBvJt8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
