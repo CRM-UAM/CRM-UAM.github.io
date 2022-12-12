@@ -22,10 +22,10 @@ _Hay muchos más ¡Recuerda añadir tus robots!_
 <table border="0" width="100%">
   <tr>
     <td width="40%">
-      <img src="../historia/eventos/2018_OSHWDem/2018_OSHWDem_VisionRace.jpg" height="200px"/><br/>
+      <img src="../historia/eventos/2018_OSHWDem/2018_OSHWDem_VisionRace.jpg" height="250px"/><br/>
     </td>
     <td width="60%">
-      <img src="../historia/eventos/2018_OSHWDem/2018_OSHWDem_VisionRace_segundoPuesto.jpg" height="200px"/><br/>
+      <img src="../historia/eventos/2018_OSHWDem/2018_OSHWDem_VisionRace_segundoPuesto.jpg" height="250px"/><br/>
     </td>
   </tr>
 </table>
@@ -34,11 +34,11 @@ _Hay muchos más ¡Recuerda añadir tus robots!_
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/CRM-UAM/Socavabot/master/Graphics/cover1.jpg" height="200px"/><br/>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/CRM-UAM/Socavabot/master/Graphics/cover1.jpg" height="250px"/><br/>
     </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/CRM-UAM/Ceporro-Bot/master/Imagenes/Ceporro-Bot.jpeg" height="200px"/><br/>
+    <td width="60%">
+      <img src="https://raw.githubusercontent.com/CRM-UAM/Ceporro-Bot/master/Imagenes/Ceporro-Bot.jpeg" height="250px"/><br/>
     </td>
   </tr>
 </table>
@@ -47,11 +47,44 @@ _Hay muchos más ¡Recuerda añadir tus robots!_
 
 <center><img src="../historia/eventos/2016_OSHWDem/2016_OSHWDem_EduCombate.jpg" height="200px"/></center><br/>
 
-* (2014-2018) **Velocistas y CRMaze** (Víctor Uceda, Carlos García). Varias versiones de los robots de carreras y de laberinto ganaron premios en la OSHWDem Coruña y en Robolid (Valladolid).
+* (2015-2018) **[CRMaze](https://github.com/CRM-UAM/CRMaze) y [DELS](https://github.com/CRM-UAM/micromouse-DELS)** (Víctor Uceda, Carlos García). Varias versiones de nuestros robots laberinto ganaron premios en la OSHWDem Coruña. ¿Dónde Está La Salida? D.E.L.S. 😉
 
-<center><img src="../historia/eventos/2016_Robolid/2016_Robolid_procesoVector9000.jpg" width="100%"/></center><br/>
+<table border="0" width="100%">
+  <tr>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/CRM-UAM/CRMaze/master/Hardware/OpenScad/CRMaze.png" height="200px"/><br/>
+    </td>
+    <td width="40%">
+      <img src="https://github.com/CRM-UAM/micromouse-DELS/blob/master/photos/2016-09-08%2013.39.45.jpg" height="200px"/><br/>
+    </td>
+    <td width="20%">
+      <img src="https://github.com/CRM-UAM/micromouse-DELS/blob/master/photos/2016-09-10%2017.07.11.jpg" height="200px"/><br/>
+    </td>
+  </tr>
+</table>
 
-* (2013) **Véctor 9000** (Víctor Uceda, Carlos García) Participante en Cosmobot'13, categoría velocistas. *La categoría velocistas consiste en trazar en el suelo una línea cerrada que deben seguir los robots. Gana el robot que complete el recorrido en el menor tiempo posible*. [**vídeo**](https://www.youtube.com/watch?v=wgSMBDEtGO0)  
+* (200*-¿?) **[Coche RC](https://github.com/CRM-UAM/coche-RC)** El robot que nos jubirará a todos. No se sabe de donde ha salido ni de quien es, pero cada año tiene nuevas modificaciones 😆
+
+<center><img src="https://raw.githubusercontent.com/CRM-UAM/coche-RC/master/fotos/2016-05-24%2018.41.45.jpg" height="200px"/></center><br/>
+
+* (2016) **[Romualdo](https://github.com/CRM-UAM/Romualdo-HackUPC2017)** Con este robot tan majo participamos en el HACKUPC de Barcelona organizado por la Universidad Politecnica de Cataluña 💅
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HHxEgBvJt8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* (2016) **[Phogo](https://github.com/CRM-UAM/Phogo)** Robot educativo que usamos en varios talleres organizados por la UAM, ¡también los llevamos a la OSHWDem Coruña!
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/CRM-UAM/Phogo/master/3D_design/phogo.png" height="250px"/><br/>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/CRM-UAM/Phogo/master/Media_files/phogo_drawing_square.jpg" height="250px"/><br/>
+    </td>
+  </tr>
+</table>
+
+* (2013-2018) **Véctor 9000** (Víctor Uceda, Carlos García) Participante en Cosmobot'13, categoría velocistas. *La categoría velocistas consiste en trazar en el suelo una línea cerrada que deben seguir los robots. Gana el robot que complete el recorrido en el menor tiempo posible*. [**vídeo**](https://www.youtube.com/watch?v=wgSMBDEtGO0)  
 <center><img src="robots/2013_Vector-9000/2013_Vector-9000.jpg" height="200px"/></center><br/>
 
 * (2012) **HKTR-9000** (Lucas Polo, Miguel Gargallo, Carlos García) Diseñado a partir del PolillaBot y utilizado en el [Taller de introducción a la robótica 2012](../actividades/2012_taller_arduino). El nombre HKTR (*Héctor*) es en honor de Héctor Ménendez, ex-presidente del CRM-UAM. *El HKTR-9000 dispone de sensores de línea, de luz, y de distancia, así como LEDs y un altavoz. De este modo se puede programar para seguir fuentes luminosas, esquivar obstáculos y seguir una línea trazada en el suelo.*  
