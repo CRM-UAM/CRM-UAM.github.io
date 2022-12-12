@@ -11,11 +11,11 @@ De 2012 a 2020 [muuuchas personas](../junta) seguimos la tradición del CRM al q
 
 Desde 2023, tras un pequeño parón por el COVID-19, el CRM continúa mejorando la vida universitaria en la Escuela Politécnica Superior, promoviendo la creatividad y los proyectos de todo el que se apunta 🎉
 
-Como ves en esta página nos mola mucho participar en eventos, puedes cotillear tambien: [Así vivimos la OSHWDem 2016](../historia/eventos/2016_OSHWDem/), [Fotos de la ArduParty 2014](../actividades/2014_ArduParty/), [Fotos del Taller de introducción a la robótica con el robot HKTR-9000](../actividades/2012_taller_arduino/). ¿Quieres mas fotos? Las tenemos en [el blog](/blog) ¡¡Bienvenidx al club!! 😄
+**Como ves nos mola mucho participar en eventos, puedes cotillear tambien: [Así vivimos la OSHWDem 2016](../historia/eventos/2016_OSHWDem/), [Fotos de la ArduParty 2014](../actividades/2014_ArduParty/), [Fotos del Taller de introducción a la robótica con el robot HKTR-9000](../actividades/2012_taller_arduino/). ¿Quieres mas fotos? Las tenemos en [el blog](/blog) ¡¡Bienvenidx al club!!** 😄
 
 Robots que han pasado por el CRM
 --
-_Hay muchos más ¡Recuerda añadir tus robots!_
+_Hay muchas más ¡Recuerda añadir tus robots!_
 
 * (2018) **[VisionRace](https://github.com/CRM-UAM/VisionRace)** (Cristian Tatu). Robot siguelineas que utiliza una camara con vision artificial para mapear la pista ¡Ganó el 2º puesto en velocidad de la OSHWDem!
 
@@ -55,17 +55,17 @@ _Hay muchos más ¡Recuerda añadir tus robots!_
       <img src="https://raw.githubusercontent.com/CRM-UAM/CRMaze/master/Hardware/OpenScad/CRMaze.png" height="200px"/><br/>
     </td>
     <td width="40%">
-      <img src="https://github.com/CRM-UAM/micromouse-DELS/blob/master/photos/2016-09-08 13.39.45.jpg" height="200px"/><br/>
+      <img src="https://raw.githubusercontent.com/CRM-UAM/micromouse-DELS/master/photos/2016-09-08%2013.39.45.jpg" height="200px"/><br/>
     </td>
     <td width="20%">
-      <img src="https://github.com/CRM-UAM/micromouse-DELS/blob/master/photos/2016-09-10 17.07.11.jpg" height="200px"/><br/>
+      <img src="https://raw.githubusercontent.com/CRM-UAM/micromouse-DELS/master/photos/2016-09-10%2017.07.11.jpg" height="200px"/><br/>
     </td>
   </tr>
 </table>
 
 * (200*-¿?) **[Coche RC](https://github.com/CRM-UAM/coche-RC)** El robot que nos jubirará a todos. No se sabe de donde ha salido ni de quien es, pero cada año tiene nuevas modificaciones 😆
 
-<center><img src="https://raw.githubusercontent.com/CRM-UAM/coche-RC/master/fotos/2016-05-24%2018.41.45.jpg" height="200px"/></center><br/>
+<center><img src="https://raw.githubusercontent.com/CRM-UAM/coche-RC/master/fotos/2016-05-24%2018.41.45.jpg" height="250px"/></center><br/>
 
 * (2017) **[Romualdo](https://github.com/CRM-UAM/Romualdo-HackUPC2017)** Con este robot tan majo participamos en el HACKUPC de Barcelona organizado por la Universidad Politecnica de Cataluña 💅
 
