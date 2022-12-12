@@ -55,10 +55,10 @@ _Hay muchos más ¡Recuerda añadir tus robots!_
       <img src="https://raw.githubusercontent.com/CRM-UAM/CRMaze/master/Hardware/OpenScad/CRMaze.png" height="200px"/><br/>
     </td>
     <td width="40%">
-      <img src="https://github.com/CRM-UAM/micromouse-DELS/blob/master/photos/2016-09-08%2013.39.45.jpg" height="200px"/><br/>
+      <img src="https://github.com/CRM-UAM/micromouse-DELS/blob/master/photos/2016-09-08 13.39.45.jpg" height="200px"/><br/>
     </td>
     <td width="20%">
-      <img src="https://github.com/CRM-UAM/micromouse-DELS/blob/master/photos/2016-09-10%2017.07.11.jpg" height="200px"/><br/>
+      <img src="https://github.com/CRM-UAM/micromouse-DELS/blob/master/photos/2016-09-10 17.07.11.jpg" height="200px"/><br/>
     </td>
   </tr>
 </table>
@@ -313,7 +313,7 @@ Más actividades organizadas por el CRM:
 
 * (2011) **Taller de Arduino** organizado por Héctor Ménendez y Saúl Vargas. *Escuela Politécnica Superior, 4 de Noviembre de 2011*. ([PDF con documentación sobre Arduino](2011_ReferenciaArduinoCRM_hdmb.pdf))
 
-* (2011) El CRM y el [Club de Informática](http://uam.es/cdi) cooperan en el **Encuentro de Estudiantes por la Ciencia y la Cultura**. Fue organizado por David Camacho y Héctor Ménendez y tuvo un gran éxito entre los estudiantes (~80 personas). Además de las charlas educativas, destacaron los talleres de construcción de cohetes y de papiroflexia. *Escuela Politécnica Superior, 4-8 de Julio de 2011*. [noticia en la web de la UAM](http://www.uam.es/ss/Satellite/es/1242652866332/1242655953936/cursocortaduracion/cursoCortaDuracion/Encuentro_de_Estudiantes_por_la_Ciencia_y_la_Cultura.htm)
+* (2011) El CRM y el [Club de Informática](http://uam.es/cdi) ([archivo](https://web.archive.org/web/20171019084907/http://switch01.qui.uam.es/)) cooperan en el **Encuentro de Estudiantes por la Ciencia y la Cultura**. Fue organizado por David Camacho y Héctor Ménendez y tuvo un gran éxito entre los estudiantes (~80 personas). Además de las charlas educativas, destacaron los talleres de construcción de cohetes y de papiroflexia. *Escuela Politécnica Superior, 4-8 de Julio de 2011*. [noticia en la web de la UAM](https://web.archive.org/web/20120205124323/http://www.uam.es/ss/Satellite/es/1242652866332/1242655953936/cursocortaduracion/cursoCortaDuracion/Encuentro_de_Estudiantes_por_la_Ciencia_y_la_Cultura.htm)
 
 
 
@@ -323,7 +323,7 @@ Más actividades organizadas por el CRM:
 Presencia del Club de Robótica en eventos frikis
 --
 
-* (2015) Participación en la [**V Jornada GMV de Robótica**](http://www.gmv.com/es/Empresa/Comunicacion/NotasDePrensa/2015/NP_017_VJornadaRobotica.html). Primer premio en el concurso "Concurrent Design Facility (CDF) for Robotics". [Entrada en el blog](../blog/2015/11/26/VjornadaGMVrobotica.html)
+* (2015) Participación en la [**V Jornada GMV de Robótica**](https://web.archive.org/web/20210801064059/http://www.gmv.com/es/Empresa/Comunicacion/NotasDePrensa/2015/NP_017_VJornadaRobotica.html). Primer premio en el concurso "Concurrent Design Facility (CDF) for Robotics". [Entrada en el blog](../blog/2015/11/26/VjornadaGMVrobotica.html)
 
 * (2015) Participación del robot [CRMaze](https://github.com/CRM-UAM/CRMaze) (de Víctor Uceda y Carlos García) en el concurso de Laberinto de la [**Open Source Hardware Demonstration (OSHWDem 2015)**](http://oshwdem.org/category/ediciones-anteriores/oshwdem-2015/). *Domus de A Coruña, 7 de Noviembre de 2015*  
 
@@ -341,7 +341,7 @@ Presencia del Club de Robótica en eventos frikis
 
 * (2002) **III Concurso de microrrobots de la Universidad de Alcalá, ALCABOT'02**: Participaron el rastreador Aragorn (por Luis Jorge Alloza Román y Ramón Vázquez Pablo), el velocista MACH I (por Antonio Carballo) y el sumo Sproket (por Ramón Vázquez Pablo). [**web alcabot**](http://asimov.depeca.uah.es/alcabot/alcabot2002/)
 
-* (1997) **1º Torneo Abierto de Mecatrónica-Robótica de Madrid**: ([**web sumo**](http://robotic-design.mister-i.com/sumo.html), [**web torneo**](http://robotic-design.mister-i.com/torneo.html), [**vídeo torneo**](https://www.youtube.com/watch?v=ug1Dt8B3yGs), [**vídeo sumo**](https://www.youtube.com/watch?v=AXeh6zWayp8)) (Escuela Técnica Superior de Informática, Universidad Autónoma de Madrid, 28 de Octubre de 1997)  
+* (1997) **1º Torneo Abierto de Mecatrónica-Robótica de Madrid**: ([**web sumo**](https://web.archive.org/web/20041204060118/http://robotic-design.mister-i.com/sumo.html), [**web torneo**](https://web.archive.org/web/20041204060552/http://robotic-design.mister-i.com/torneo.html), [**vídeo torneo**](https://www.youtube.com/watch?v=ug1Dt8B3yGs), [**vídeo sumo**](https://www.youtube.com/watch?v=AXeh6zWayp8)) (Escuela Técnica Superior de Informática, Universidad Autónoma de Madrid, 28 de Octubre de 1997)  
 
 
 
