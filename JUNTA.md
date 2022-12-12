@@ -5,17 +5,19 @@ permalink: /junta/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
+_Esto seguramente estará desactualizado, ahora todo es mas sencillo, pero lo dejamos aquí como referencia ¡También puedes editarlo!_
+
 En el CRM, como en la mayoría de asociaciones, tenemos dos **órganos de decisión** principales: la Asamblea y la Junta Directiva.
 
 **La Asamblea es el máximo órgano de decisión** del club, en el que **participan todos los miembros** que así lo deseen. Se reune **al menos una vez al año**. En la Asamblea se deciden los presupuestos, las actividades y cualquier tema al futuro del club. La Asamblea también elige, supervisa y aprueba o reprende a la Junta Directiva.
 
 **La Junta Directiva representa y gestiona el club**, encargándose de ejecutar todo lo necesario para el correcto funcionamiento del club y de sus actividades. Siempre siguiendo las decisiones de la Asamblea. La Junta Directiva **se elige cada año** por la Asamblea entre miembros del club. Hay varios cargos en la Junta, y cada uno tiene unas atribuciones. Los **miembros actuales** de la Junta son los siguientes:
 
-_*Nota: Las direcciones deben completarse con_ uam.es _al final._
+_*Nota: Para evitar spam, las direcciones deben completarse con_ estudiante.uam.es _al final._
 
 ## Presidente
 
-David García Fernández, _david.garciaf02@estudiante.uam.es_
+David García Fernández, _david.garciaf02_
 
 ### Responsabilidades:
 
@@ -29,7 +31,7 @@ David García Fernández, _david.garciaf02@estudiante.uam.es_
 
 ## Vicepresidente
 
-David Ramírez Mesón, _david.ramirezm@estudiante.uam.es_
+David Ramírez Mesón, _david.ramirezm_
 
 ### Responsabilidades
 
@@ -43,7 +45,7 @@ asociación.
 
 ## Tesorero
 
-Cristian Tatu, _cristian.tatu@estudiante.uam_
+Cristian Tatu, _cristian.tatu_
 
 ### Responsabilidades
 
@@ -55,7 +57,7 @@ Cristian Tatu, _cristian.tatu@estudiante.uam_
 
 ## Secretario
 
-Manuel Contreras, _manuelj.contreras@estudiante.uam.es_
+Manuel Contreras, _manuelj.contreras_
 
 ### Responsabilidades
 
@@ -67,9 +69,97 @@ Manuel Contreras, _manuelj.contreras@estudiante.uam.es_
 
 ## Vocales
 
-Carlos García, _carlos.garciasaura@uam.es_ 
+Carlos García, _carlos.garciasaura_ 
 
 ### Responsabilidades
 
 * Asistir y aconsejar al resto de miembros de la Junta en la realización de sus tareas.
 
+Histórico de la junta directiva
+==
+
+<table border="1px" width="100%">
+  <tr>
+    <th>Curso</th>
+    <th>Presidente</th>
+    <th>Vice-pres.</th>
+    <th>Secretario</th>
+    <th>Tesorero</th>
+    <th>Vocales</th>
+  </tr>
+  <tr>
+    <td><i>2012-13</i></td>
+    <td>Miguel Gargallo</td> <!--Presidente-->
+    <td><a href="http://lucaspolo.eu">Lucas Polo</a></td> <!--Vice-presidente-->
+    <td>Antonio Ortega</td> <!--Secretario-->
+    <td>Antonio Ortega</td> <!--Tesorero-->
+    <td>Álvaro Pérez<br/>Carlos García</td> <!--Vocales-->
+  </tr>
+  <tr>
+    <td><i>2013-14</i></td>
+    <td>Miguel Gargallo</td> <!--Presidente-->
+    <td>Carlos García</td> <!--Vice-presidente-->
+    <td>Pablo Molins</td> <!--Secretario-->
+    <td>Víctor Uceda</td> <!--Tesorero-->
+    <td></td> <!--Vocales-->
+  </tr>
+  <tr>
+    <td><i>2014-15</i></td>
+    <td>Víctor Uceda</td> <!--Presidente-->
+    <td>Rodrigo Jiménez</td> <!--Vice-presidente-->
+    <td>Cristina Kasner</td> <!--Secretario-->
+    <td>Guillermo Ruíz</td> <!--Tesorero-->
+    <td></td> <!--Vocales-->
+  </tr>
+  <tr>
+    <td><i>2015-16</i></td>
+    <td>Carlos García</td> <!--Presidente-->
+    <td>Rodrigo Jiménez</td> <!--Vice-presidente-->
+    <td>Cristina Kasner</td> <!--Secretario-->
+    <td>Jaime Aragón</td> <!--Tesorero-->
+    <td>Víctor Uceda<br/>Pablo Molins</td> <!--Vocales-->
+  </tr>
+  <tr>
+    <td><i>2016-17</i></td>
+    <td>Pablo Molins</td> <!--Presidente-->
+    <td>Cristina Kasner</td> <!--Vice-presidente-->
+    <td>Lázaro López</td> <!--Secretario-->
+    <td>Eduardo Hilario</td> <!--Tesorero-->
+    <td>Alfredo Sanz<br/>Rafael Leira</td> <!--Vocales-->
+  </tr>
+  <tr>
+    <td><i>2017-18</i></td>
+    <td>Illy Naami</td> <!--Presidente-->
+    <td>David Ramírez</td> <!--Vice-presidente-->
+    <td>Lázaro López</td> <!--Secretario-->
+    <td>David García</td> <!--Tesorero-->
+    <td>Jorge Gutiérrez<br/>Pablo Molins</td> <!--Vocales-->
+  </tr>
+  <tr>
+    <td><i>2018-19</i></td>
+    <td>David García</td> <!--Presidente-->
+    <td>David Ramírez</td> <!--Vice-presidente-->
+    <td>Manuel Contreras</td> <!--Secretario-->
+    <td>Cristian Tatu</td> <!--Tesorero-->
+    <td>Carlos García<br/>Andrés Martini</td> <!--Vocales-->
+  </tr>
+  <tr>
+    <td><i>2019-20</i></td>
+    <td>David García</td> <!--Presidente-->
+    <td>David Ramírez</td> <!--Vice-presidente-->
+    <td>Manuel Contreras</td> <!--Secretario-->
+    <td>Cristian Tatu</td> <!--Tesorero-->
+    <td>Carlos García<br/>Andrés Martini</td> <!--Vocales-->
+  </tr>
+  <tr>
+    <td><i>2020-22</i></td>
+    <td>Pandemius Máximus</td> <!--Presidente-->
+    <td>Distancia Socialis</td> <!--Vice-presidente-->
+    <td>Mascarillo Fernández</td> <!--Secretario-->
+    <td>Inflacio Mundialis</td> <!--Tesorero-->
+    <td>Seguimos :)</td> <!--Vocales-->
+  </tr>
+</table>
+<br/>
+
+Aquí dejamos de actualizar esta página, porque ahora todo es mas sencillo y hay menos burocracia 🎉
