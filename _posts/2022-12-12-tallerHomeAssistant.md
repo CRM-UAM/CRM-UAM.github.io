@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "MINI TALLER: ROBOTIZA TU CASA CON HOME ASSISTANT"
+title:  "🤖Nuevo Mini Taller: Robotiza tu casa con Home Assistant🦾"
 author: "CRM"
 mostrarEnPortada: true
 estiloEnPortada: "border-radius: 25px; background: #fcf8dd; border: 3px solid #fcdb05; padding: 20px; width: 90%;"
 ---
-
-🤖NUEVO MINI TALLER: ROBOTIZA TU CASA CON HOME ASSISTANT🦾
 
 Aprende a domotizar tu casa con seguridad y privacidad gracias al software libre ¡y además verás una demostración real!
 
