@@ -12,6 +12,16 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 
 
 
+{% for post in site.posts limit:10 %}
+{% if post.mostrarEnPortada %}
+<div style="{{ post.estiloEnPortada }}">
+    <h2>{{ post.title }}</h2>
+    {{ post.content }}
+</div><br/>
+{% endif %}
+{% endfor %}
+
+
 
 <table border="0" width="100%">
   <tr>
@@ -59,16 +69,6 @@ AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
     </td>
   </tr>
 </table>
-
-
-{% for post in site.posts limit:10 %}
-{% if post.mostrarEnPortada %}
-<div style="{{ post.estiloEnPortada }}">
-    <h2>{{ post.title }}</h2>
-    {{ post.content }}
-</div><br/>
-{% endif %}
-{% endfor %}
 
 
 El Club de Robótica-Mecatrónica está gestionado por estudiantes y apoya a cualquier miembro de la comunidad universitaria que quiera llevar a cabo proyectos relacionados con la robótica.
