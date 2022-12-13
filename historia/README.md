@@ -22,10 +22,10 @@ _Hay muchas más ¡Recuerda añadir tus robots!_
 <table border="0" width="100%">
   <tr>
     <td width="40%">
-      <img src="../historia/eventos/2018_OSHWDem/2018_OSHWDem_VisionRace.jpg" height="250px"/><br/>
+      <img src="../historia/eventos/2018_OSHWDem/2018_OSHWDem_VisionRace.jpg"/><br/>
     </td>
     <td width="60%">
-      <img src="../historia/eventos/2018_OSHWDem/2018_OSHWDem_VisionRace_segundoPuesto.jpg" height="250px"/><br/>
+      <img src="../historia/eventos/2018_OSHWDem/2018_OSHWDem_VisionRace_segundoPuesto.jpg"/><br/>
     </td>
   </tr>
 </table>
@@ -35,10 +35,10 @@ _Hay muchas más ¡Recuerda añadir tus robots!_
 <table border="0" width="100%">
   <tr>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/CRM-UAM/Socavabot/master/Graphics/cover1.jpg" height="250px"/><br/>
+      <img src="https://raw.githubusercontent.com/CRM-UAM/Socavabot/master/Graphics/cover1.jpg"/><br/>
     </td>
     <td width="60%">
-      <img src="https://raw.githubusercontent.com/CRM-UAM/Ceporro-Bot/master/Imagenes/Ceporro-Bot.jpeg" height="250px"/><br/>
+      <img src="https://raw.githubusercontent.com/CRM-UAM/Ceporro-Bot/master/Imagenes/Ceporro-Bot.jpeg"/><br/>
     </td>
   </tr>
 </table>
@@ -52,13 +52,13 @@ _Hay muchas más ¡Recuerda añadir tus robots!_
 <table border="0" width="100%">
   <tr>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/CRM-UAM/CRMaze/master/Hardware/OpenScad/CRMaze.png" height="200px"/><br/>
+      <img src="https://raw.githubusercontent.com/CRM-UAM/CRMaze/master/Hardware/OpenScad/CRMaze.png"/><br/>
     </td>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/CRM-UAM/micromouse-DELS/master/photos/2016-09-08%2013.39.45.jpg" height="200px"/><br/>
+      <img src="https://raw.githubusercontent.com/CRM-UAM/micromouse-DELS/master/photos/2016-09-08%2013.39.45.jpg"/><br/>
     </td>
     <td width="20%">
-      <img src="https://raw.githubusercontent.com/CRM-UAM/micromouse-DELS/master/photos/2016-09-10%2017.07.11.jpg" height="200px"/><br/>
+      <img src="https://raw.githubusercontent.com/CRM-UAM/micromouse-DELS/master/photos/2016-09-10%2017.07.11.jpg"/><br/>
     </td>
   </tr>
 </table>
@@ -76,10 +76,10 @@ _Hay muchas más ¡Recuerda añadir tus robots!_
 <table border="0" width="100%">
   <tr>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/CRM-UAM/Phogo/master/3D_design/phogo.png" height="250px"/><br/>
+      <img src="https://raw.githubusercontent.com/CRM-UAM/Phogo/master/3D_design/phogo.png"/><br/>
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/CRM-UAM/Phogo/master/Media_files/phogo_drawing_square.jpg" height="250px"/><br/>
+      <img src="https://raw.githubusercontent.com/CRM-UAM/Phogo/master/Media_files/phogo_drawing_square.jpg"/><br/>
     </td>
   </tr>
 </table>
