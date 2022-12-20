@@ -43,7 +43,7 @@ _Hay muchas más ¡Recuerda añadir tus robots!_
   </tr>
 </table>
 
-* (2016 y 2018) **[Cuñaobot](https://github.com/CRM-UAM/Cuniaobot-2.0)** (Eduardo Hilario y David Ramírez). Robot de combate hecho de metal reforzado. Se controlaba por TELNET, había que pulsar una tecla y luego ENTER, continuamente. Incluso con eso ganó algunas batallas. Dale al enter Edu!!
+* (2016 y 2017) **[Cuñaobot](https://github.com/CRM-UAM/Cuniaobot-2.0)** (Eduardo Hilario y David Ramírez). Robot de combate hecho de metal reforzado. Se controlaba por TELNET, había que pulsar una tecla y luego ENTER, continuamente. Incluso con eso ganó algunas batallas. Dale al enter Edu!!
 
 <center><img src="../historia/eventos/2016_OSHWDem/2016_OSHWDem_EduCombate.jpg" height="200px"/></center><br/>
 
