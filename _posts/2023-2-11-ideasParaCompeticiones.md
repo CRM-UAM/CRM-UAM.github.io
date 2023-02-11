@@ -45,4 +45,4 @@ _El objetivo del juego es que una serie de participantes busquen y encuentren al
 _Inicialmente, se disponen dos grupos de robots con el mismo número de integrantes, uno frente a otro, a la misma distancia de un elemento que representa el pañuelo. Cada robot tiene asignado un código o número. Tras una señal "emitida" por el pañuelo o por el juez que identifique a uno de los robots, cada robot deberá ir al lugar donde está el pañuelo, accionar un bumper y volver a su lugar de origen antes de que el otro robot lo consiga, en este caso el robot que no accionó el bumper queda eliminado. Si durante el retorno a "casa", el robot que no ha accionado el bumper alcanza al robot que sí lo hizo, el descalificado será el que accione el bumper._
 
 
-Nos encantan estas ideas y os animamos a organizar vuestra propia competición ¡Como más se aprende es enseñando! 🌟
+Nos encantan estas ideas y os animamos a organizar vuestra propia competición ¡Como más se aprende es enseñando! :)
