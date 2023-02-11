@@ -16,9 +16,9 @@ Nuestro logotipo en HD:
 [.jpg](logo_crm_fondoBlanco.jpg) (fondo blanco)  
 [.png](logo_crm_transparente.png) (fondo transparente, sin sombra)  
 
-Antes de este logo teníamos el siguiente (año ~2003) :)
+Antes de este logo teníamos el siguiente (año ~1999) :)
 
-<a href="2003_logo_antiguo_mecatron.jpg"><img src="2003_logo_antiguo_mecatron.jpg"/></a>
+<a href="1999_logo_antiguo_mecatron.jpg"><img src="1999_logo_antiguo_mecatron.jpg"/></a>
 
 Para la web:
 ==
