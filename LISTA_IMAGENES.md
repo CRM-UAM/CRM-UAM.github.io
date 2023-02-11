@@ -20,7 +20,7 @@ Todas las imágenes de nuestro repositorio:
 
 <div style="width: 100%; display: flex; flex-wrap: wrap;">
 {%- for name in filenames -%}
-<div style="max-width: 240px; max-height: 180px; overflow:hidden;"><a href="{{ site.baseurl }}{{ name }}"><img src="{{ site.baseurl }}{{ name }}" alt="{{ name }}"/></a></div>
+<div style="max-width: 120px; max-height: 90px; overflow:hidden;"><a href="{{ site.baseurl }}{{ name }}"><img src="{{ site.baseurl }}{{ name }}" alt="{{ name }}"/></a></div>
 {%- endfor -%}
 </div>
 <br />
