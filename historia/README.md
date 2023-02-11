@@ -5,14 +5,13 @@ permalink: /historia/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
-Desde el 29 de Octubre de 1997, existe como tal esta Asociación, con el apoyo de la dirección de la Escuela Técnica Superior de Informática de la UAM (actualmente Escuela Politécnica Superior de la UAM). La idea original fue del profesor [Eduardo Boemo](http://arantxa.ii.uam.es/~ivan/), que organizó un curso de formación en mecatrónica, de forma extra-académica, a principios del mes de Julio de 1997. El curso concluyó con la organizacion del "1º Abierto de Mecatrónica Comunidad de Madrid", el Martes 28 de Octubre de 1997. A él acudieron dos diseños de la E.T.S. Telecomunicaciones de la UPM, uno de la Facultad de Físicas de la UNED, uno de la Escuela de Informática ICAI y seis por parte de la ETSI-UAM. Todos los participantes, e incluso el público que asistió, quedaron muy satisfechos del resultado, y además, con ganas de volver a repetir la experiencia. De ahí nació el Club.
+Desde el 29 de Octubre de 1997, existe como tal esta Asociación, con el apoyo de la dirección de la Escuela Técnica Superior de Informática de la UAM (actualmente Escuela Politécnica Superior de la UAM). [Eduardo Boemo](http://arantxa.ii.uam.es/~ivan/) organizó un curso de formación en mecatrónica, de forma extra-académica, a principios del mes de Julio de 1997. El curso concluyó con la organizacion del "1º Abierto de Mecatrónica Comunidad de Madrid", el Martes 28 de Octubre de 1997. A él acudieron dos diseños de la E.T.S. Telecomunicaciones de la UPM, uno de la Facultad de Físicas de la UNED, uno de la Escuela de Informática ICAI y seis por parte de la ETSI-UAM. Todos los participantes, e incluso el público que asistió, quedaron muy satisfechos del resultado, y además, con ganas de volver a repetir la experiencia. **De ahí nació el Club.**
+Entre los primeros miembros del CRM-UAM (período 1997-2008) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo e [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros, con apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/).
 
-Entre los primeros miembros del CRM-UAM (período 1997-2008) estuvieron [Andrés Prieto Moreno](http://www.iearobotics.com/wiki/index.php?title=Andr%C3%A9s_Prieto-Moreno), [Juan González Gómez](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main), Juan Manuel Zapata, Alberto Calvo, Daniel Álvarez, Antonio Carballo e [Iván González](http://arantxa.ii.uam.es/~igonzale/), entre otros, que tuvieron gran apoyo del profesor [Guillermo González de Rivera](http://arantxa.ii.uam.es/~gdrivera/).
-De 2009 a 2011 fue [Héctor David Ménendez](https://dblp.org/pid/45/9854) quien tomó las riendas de la asociación, reabriendo el club y promoviendo multitud de talleres de Arduino e iniciativas tan interesantes como el gran *Encuentro de Estudiantes por la Ciencia y la Cultura* (organizado junto con [David Camacho Fernández](http://arantxa.ii.uam.es/~dcamacho/)).
-
+De 2009 a 2011 fue [Héctor David Ménendez](https://dblp.org/pid/45/9854) quien tomó las riendas de la asociación, promoviendo multitud de talleres de Arduino e iniciativas tan interesantes como el gran *Encuentro de Estudiantes por la Ciencia y la Cultura* (organizado junto con [David Camacho Fernández](http://arantxa.ii.uam.es/~dcamacho/)).
 De 2012 a 2020 [muuuchas personas](../junta) seguimos la tradición del CRM al que agradecemos haber especializado y mejorado nuestras carreras ¡Como mejor se aprende es enseñando! 🦾
 
-Desde 2023, tras un pequeño parón por el COVID-19 y la reforma del local, el CRM continúa mejorando la vida universitaria en la Escuela Politécnica Superior, promoviendo la creatividad y los proyectos de todo el que se apunta. Y queremos seguir creciendo... 🎉
+Desde 2023, tras un parón por el COVID-19 y la reforma del local, el club continúa mejorando la vida universitaria en la Escuela Politécnica Superior, promoviendo la creatividad y los proyectos de todo el que se apunta. Y queremos seguir creciendo... 🎉
 
 **Como ves nos mola mucho participar en eventos, puedes cotillear tambien: [Así vivimos la OSHWDem 2016](../historia/eventos/2016_OSHWDem/), [Fotos de la ArduParty 2014](../actividades/2014_ArduParty/), [Fotos del Taller de introducción a la robótica con el robot HKTR-9000](../actividades/2012_taller_arduino/). ¿Quieres mas fotos? Las tenemos en [el blog](/blog) ¡¡Bienvenidx al club!!** 😄
 
@@ -20,15 +19,28 @@ Robots que han pasado por el CRM
 --
 _Hay muchas más ¡Recuerda añadir tus robots!_
 
+* (2023) **Máquina arcade** (David, Carlos y Pablo). ¡Por finn terminamos la máquina arcade! :D
+
+<table border="0" width="100%">
+  <tr>
+    <td width="40%">
+      <img src="robots/2022_MaquinaArcade/arcade_en_construccion.jpeg"/><br/>
+    </td>
+    <td width="60%">
+      <img src="robots/2022_MaquinaArcade/david_estrenando_arcade.jpeg"/><br/>
+    </td>
+  </tr>
+</table>
+
 * (2018) **[VisionRace](https://github.com/CRM-UAM/VisionRace)** (Cristian Tatu). Robot siguelineas que utiliza una camara con vision artificial para mapear la pista ¡Ganó el 2º puesto en velocidad de la OSHWDem!
 
 <table border="0" width="100%">
   <tr>
     <td width="40%">
-      <img src="../historia/eventos/2018_OSHWDem/2018_OSHWDem_VisionRace.jpg"/><br/>
+      <img src="eventos/2018_OSHWDem/2018_OSHWDem_VisionRace.jpg"/><br/>
     </td>
     <td width="60%">
-      <img src="../historia/eventos/2018_OSHWDem/2018_OSHWDem_VisionRace_segundoPuesto.jpg"/><br/>
+      <img src="eventos/2018_OSHWDem/2018_OSHWDem_VisionRace_segundoPuesto.jpg"/><br/>
     </td>
   </tr>
 </table>
@@ -66,9 +78,6 @@ _Hay muchas más ¡Recuerda añadir tus robots!_
   </tr>
 </table>
 
-* (200*-¿?) **[Coche RC](https://github.com/CRM-UAM/coche-RC)** El robot que nos jubirará a todos. No se sabe de donde ha salido ni de quien es, pero cada año tiene nuevas modificaciones 😆
-
-<center><img src="https://raw.githubusercontent.com/CRM-UAM/coche-RC/master/fotos/2016-05-24%2018.41.45.jpg" height="250px"/></center><br/>
 
 * (2017) **[Romualdo](https://github.com/CRM-UAM/Romualdo-HackUPC2017)** Con este robot tan majo participamos en el HACKUPC de Barcelona organizado por la Universidad Politecnica de Cataluña 💅
 
@@ -124,11 +133,60 @@ _Hay muchas más ¡Recuerda añadir tus robots!_
 * (circa 2004) Queen-Mary y robot anónimo. Ambos son robots seguidores de línea. [vídeo de Queen Mary en Hispabot'04](https://www.youtube.com/watch?v=Af-piKdG3yk)  
 <center><img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/queen-mary.png" height="200px"/></center><br/>
 
+* (2003) [**OBSERVER**](https://web.archive.org/web/20030821212619id_/http://www.ii.uam.es/~mecatron/index.php3?seccion=4&pagina=6). El microbot CRM-Observer fue especialmente construido con motivo de la IV Feria "Madrid por la Ciencia", en la que el CRM tuvo la oportunidad de participar representando a la Escuela Politécnica Superior de la UAM. Tras el diseño de [BARTOLO](https://web.archive.org/web/20030821212209id_/http://www.ii.uam.es/~mecatron/index.php3?seccion=4&pagina=7) y dada la complejidad de su manejo, en el CRM teníamos intención de desarrollar un pequeño robot que tuviera las mismas características de Bartolo pero de un tamaño y velocidad más reducidas. De este modo, es posible controlar el robot aunque no lo estemos viendo, ya que podemos manipularlo con la información recibida de la mini-cámara. Aquí teneís un ejemplo de como se vé:
+
+<table border="0" width="100%">
+  <tr>
+    <td width="30%">
+      <img src="robots/200X_Observer/Observer_files/imagen_minicamara.jpg"/><br/>
+    </td>
+    <td width="70%">
+      <img src="eventos/2005_sesionesRoboticaUPSAM/diapositivas/2005_UPSAM_diapositiva-38.jpg"/><br/>
+    </td>
+  </tr>
+</table>
+
 * (2002) **Mach I**, un robot seguidor de línea, participante en Alcabot'02 (Antonio Carballo)  
 <center><img src="robots/2002_Mach-I.jpg" height="200px"/></center><br/>
 
+* (2001) [**CORTOCIRCUITO**](https://web.archive.org/web/20040105071722id_/http://www.ii.uam.es/%7Emecatron/index.php3?seccion=3&pagina=5). Algunas semanas antes de la ChampionBot, en el CRM habíamos empezado a trabajar en temas de visión artificial. Se trataba de cosas muy sencillas pero nos dimos cuenta de que existía la posibilidad de que con ayuda de un ordenador, un robot pudiera seguir una línea negra. Solo necesitábamos establecer el sistema de envío de las imágenes al PC y las órdenes adecuadas al robot. Aunque ya era factible el uso de un cable, decidimos seguir con la idea de usar transmisión radio y utilizamos nuestro protocolo de comunicación. Lo cierto es que fue un éxito rotundo ;)
 
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="robots/200X_Cortocircuito/Cortocircuito_files/cortocircuito_colocar.jpg"/><br/>
+    </td>
+    <td width="50%">
+      <img src="robots/200X_Cortocircuito/Cortocircuito_files/cortocircuito_linea.jpg"/><br/>
+    </td>
+  </tr>
+</table>
 
+* (2001) **Sauromón**, el robot de Ramón que está sentado en el sillón. Se comportó como un campeón en [la competición](https://web.archive.org/web/20031112235903id_/http://www.sec.upm.es/agustin/album_fotos/champion01/participantes.htm) :)
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="eventos/2001_ChampionBot/Fotos_Participantes_Championbot_files/sauromon_autor.JPG"/><br/>
+    </td>
+    <td width="50%">
+      <img src="eventos/2001_ChampionBot/Fotos_Participantes_Championbot_files/sauromon_detalle.JPG"/><br/>
+    </td>
+  </tr>
+</table>
+
+* (2001-¿?) **[Coche RC "BARTOLO"](https://github.com/CRM-UAM/coche-RC)** El robot que nos jubirará a todos. Bartolo era inicialmente un coche teledirigido que nos cedió el Grupo de Neurocomputación Biológica de la EPS. Lleva con nosotros [¡desde 2001!](https://web.archive.org/web/20030821212209id_/http://www.ii.uam.es/~mecatron/index.php3?seccion=4&pagina=7) y cada año tiene nuevas modificaciones 😆
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="robots/200X_Bartolo/Bartolo_files/bartolo_championbot3.jpg"/><br/>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/CRM-UAM/coche-RC/master/fotos/2016-05-24%2018.41.45.jpg"/><br/>
+    </td>
+  </tr>
+</table>
 
 
 Fotos de los eventos en los que hemos estado
@@ -164,13 +222,13 @@ OSHWDem 2015 (A Coruña)
 <table border="0" width="100%">
   <tr>
     <td width="30%">
-      <img src="../historia/eventos/2015_OSHWDem/2015-CRMaze_VictorCarlos.jpg"/><br/>
+      <img src="eventos/2015_OSHWDem/2015-CRMaze_VictorCarlos.jpg"/><br/>
     </td>
     <td width="30%">
-      <img src="../historia/eventos/2015_OSHWDem/2015-11-07_montajeLaberinto2.jpg"/><br/>
+      <img src="eventos/2015_OSHWDem/2015-11-07_montajeLaberinto2.jpg"/><br/>
     </td>
     <td width="40%">
-      <img src="../historia/eventos/2015_OSHWDem/2015-11-07_publico.jpg"/><br/>
+      <img src="eventos/2015_OSHWDem/2015-11-07_publico.jpg"/><br/>
     </td>
   </tr>
 </table>
@@ -227,7 +285,7 @@ Campus Party 2006
 
 Sup-izq: Alejandro Alonso (autor de Melanie) y Andrés Prieto Moreno. [**Vídeo de la Hormiga Benita (construida en 1996)**](https://www.youtube.com/watch?v=5pRC8NfJ7X0). Inf-Izq: Gedeón Domínguez e Iván González. Derecha: Daniel Álvarez, Alberto Calvo, Francisco Reinoso "Furri" y Alejandro Alonso.  
 
-[Primer vídeo en YouTube de la Campus Party 2006](https://www.youtube.com/watch?v=ehymwnycVmg) por Gedeón Domínguez (se ve en primer plano a Juan González).  
+[Primer vídeo en YouTube de la Campus Party 2006](eventos/200X_CampusParty/2006_CampusParty_primerVideo_Gedeon_y_Juan.mp4) por Gedeón Domínguez (se ve en primer plano a Juan González).
 
 
 Robolid 2005
@@ -272,8 +330,27 @@ HISPABOT 2004
 UAM-Team: En la derecha están Alejandro, Juan, el grupo Papón, Ramón y Cristina que se pasaron para ver el concurso (ellos participaron el año anterior, también en la prueba libre). En la parte inferior de la foto se ven los robots robot Hexápodo Melanie , Cube Revolutions y Papón.
 
 
+"Asalto al Hall" de la EPS (2003)
+==
+
+El jueves 22 de Mayo, [nos llevamos a Observer al hall de la Escuela](https://web.archive.org/web/20040105072359id_/http://www.ii.uam.es/%7Emecatron/index.php3?seccion=3&pagina=7) para realizar pruebas del alcance de los módulos de comunicación radio. Para ello nos llevamos una mesa, que situamos primero a un lado del hall y posteriormente en el centro del mismo, donde colocar el ordenador de control de Observer. Para la medición de distancia controlamos a Observer por los pasillos laterales al hall, para probar hasta donde era posible llegar obteniendo una buena calidad en la imagen recibida y sin que se perdiese el control del microbot. Incluso lo colamos en una de las aulas en plena clase :P
+
+<table border="0" width="100%">
+  <tr>
+    <td width="60%">
+      <img src="eventos/2003_asaltoAlHallEPS/hall_assault_files/puesto_control.jpg"/><br/>
+    </td>
+    <td width="40%">
+      <img src="eventos/2003_asaltoAlHallEPS/hall_assault_files/observer_aula.jpg"/><br/>
+    </td>
+  </tr>
+</table>
+
+
 IV feria Madrid por la Ciencia (14-Feb-2003 en IFEMA)
 ==
+
+Este año, la EPS era la encargada de representar a la UAM en la IV Feria Madrid por la Ciencia. Para nosotros era una oportunidad interesante de presentar nuestros robots y no dudamos en aprovechar la posibilidad de participar. [Presentamos](https://web.archive.org/web/20030819044019/http://www.ii.uam.es/~mecatron/index.php3?seccion=3&pagina=6) todos los robots disponibles en el CRM.
 
 <table border="0" width="100%">
   <tr>
@@ -298,8 +375,48 @@ Alcabot 2002
 <img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" height="200px"/><br/>
 Equipo: Antonio Carballo Antón, Luis Jorge Alloza Román, y Ramón Vazquez Pablo. Sostienen el robot velocista **MACH I**
 
-<br/>
 
+
+
+ChampionBot 2001
+==
+
+Como alguien tenía que llevar a los robots al concurso ;P, el CRM estuvo representado en la [ChampionBot](https://web.archive.org/web/20031001234512id_/http://www.sia.eui.upm.es/championbot/) por [cuatro miembros](https://web.archive.org/web/20031027051833id_/http://www.ii.uam.es/~mecatron/index.php3?seccion=3&pagina=2) además del profesor Guillermo González de Rivera. Además de a Cortocircuito, nos llevamos a Bartolo para mostrarlo en la prueba libre. Como robot más representativo del CRM no podía faltar, y demostró a todos los asistentes su mal genio ;P
+
+<table border="0" width="100%">
+  <tr>
+    <td width="40%">
+      <img src="eventos/2001_ChampionBot/Fotos_Competicion_Finales_Championbot_files/GUS085.JPG"/><br/>
+    </td>
+    <td width="40%">
+      <img src="eventos/2001_ChampionBot/Fotos_Competicion_Finales_Championbot_files/GUS091.JPG"/><br/>
+    </td>
+    <td width="20%">
+      <img src="eventos/2001_ChampionBot/Fotos_Competicion_Finales_Championbot_files/GUS073.jpg"/><br/>
+    </td>
+  </tr>
+</table>
+
+
+Curso de Robótica en 1999
+==
+
+A principios de Julio de 1999, recien acabados los exámenes de Junio, el club organizó un curso de una semana de duración orientado a la fabricación de un pequeño microrrobot. [El curso](https://web.archive.org/web/20040108031003id_/http://www.ii.uam.es/~mecatron/index.php3?seccion=6&pagina=1) tuvo un gran aceptación y tuvo lugar en el local que el club tenía en la antigua ubicación de la ETSI de Informática de la UAM en el módulo IV de la Escuela Universitaria de Profesorado Santa María.
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="eventos/1999_CursoMicrorrobot/Curso_Microrrobot_files/foto3.jpg"/><br/>
+    </td>
+    <td width="50%">
+      <img src="eventos/1999_CursoMicrorrobot/Curso_Microrrobot_files/foto4.jpg"/><br/>
+    </td>
+  </tr>
+</table>
+
+En definitiva el curso fue un éxito y sus integrantes mostraron gran satisfacción por el mismo. Basta decir que hasta nos ayudó a quitar gran parte de la inquietud de estar pendientes de las notas de los exámenes de Junio :)
+
+<br/>
 
 Más actividades organizadas por el CRM:
 --
