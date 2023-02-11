@@ -19,7 +19,7 @@ Robots que han pasado por el CRM
 --
 _Hay muchas más ¡Recuerda añadir tus robots!_
 
-* (2023) **Máquina arcade** (David, Carlos y Pablo). ¡Por finn terminamos la máquina arcade! :D
+* (2022) **Máquina arcade** (David, Carlos y Pablo). ¡Por finn terminamos la máquina arcade! :D
 
 <table border="0" width="100%">
   <tr>
@@ -133,14 +133,14 @@ _Hay muchas más ¡Recuerda añadir tus robots!_
 * (circa 2004) Queen-Mary y robot anónimo. Ambos son robots seguidores de línea. [vídeo de Queen Mary en Hispabot'04](https://www.youtube.com/watch?v=Af-piKdG3yk)  
 <center><img src="eventos/2004_HISPABOT/2004_HISPABOT_iearobotics_files/queen-mary.png" height="200px"/></center><br/>
 
-* (2003) [**OBSERVER**](https://web.archive.org/web/20030821212619id_/http://www.ii.uam.es/~mecatron/index.php3?seccion=4&pagina=6). El microbot CRM-Observer fue especialmente construido con motivo de la IV Feria "Madrid por la Ciencia", en la que el CRM tuvo la oportunidad de participar representando a la Escuela Politécnica Superior de la UAM. Tras el diseño de [BARTOLO](https://web.archive.org/web/20030821212209id_/http://www.ii.uam.es/~mecatron/index.php3?seccion=4&pagina=7) y dada la complejidad de su manejo, en el CRM teníamos intención de desarrollar un pequeño robot que tuviera las mismas características de Bartolo pero de un tamaño y velocidad más reducidas. De este modo, es posible controlar el robot aunque no lo estemos viendo, ya que podemos manipularlo con la información recibida de la mini-cámara. Aquí teneís un ejemplo de como se vé:
+* (2003) [**OBSERVER**](https://web.archive.org/web/20030821212619id_/http://www.ii.uam.es/~mecatron/index.php3?seccion=4&pagina=6). El microbot CRM-Observer fue especialmente construido con motivo de la IV Feria "Madrid por la Ciencia", en la que el CRM tuvo la oportunidad de participar representando a la Escuela Politécnica Superior de la UAM. Tras el diseño de [BARTOLO](https://web.archive.org/web/20030821212209id_/http://www.ii.uam.es/~mecatron/index.php3?seccion=4&pagina=7) y dada la complejidad de su manejo, en el CRM teníamos intención de desarrollar un pequeño robot que tuviera las mismas características de Bartolo pero de un tamaño y velocidad más reducidas. De este modo, es posible controlar el robot aunque no lo estemos viendo, ya que podemos manipularlo con la información recibida de la mini-cámara. Aquí teneís un ejemplo de como se ve:
 
 <table border="0" width="100%">
   <tr>
-    <td width="30%">
+    <td width="40%">
       <img src="robots/200X_Observer/Observer_files/imagen_minicamara.jpg"/><br/>
     </td>
-    <td width="70%">
+    <td width="60%">
       <img src="eventos/2005_sesionesRoboticaUPSAM/diapositivas/2005_UPSAM_diapositiva-38.jpg"/><br/>
     </td>
   </tr>
@@ -149,14 +149,14 @@ _Hay muchas más ¡Recuerda añadir tus robots!_
 * (2002) **Mach I**, un robot seguidor de línea, participante en Alcabot'02 (Antonio Carballo)  
 <center><img src="robots/2002_Mach-I.jpg" height="200px"/></center><br/>
 
-* (2001) [**CORTOCIRCUITO**](https://web.archive.org/web/20040105071722id_/http://www.ii.uam.es/%7Emecatron/index.php3?seccion=3&pagina=5). Algunas semanas antes de la ChampionBot, en el CRM habíamos empezado a trabajar en temas de visión artificial. Se trataba de cosas muy sencillas pero nos dimos cuenta de que existía la posibilidad de que con ayuda de un ordenador, un robot pudiera seguir una línea negra. Solo necesitábamos establecer el sistema de envío de las imágenes al PC y las órdenes adecuadas al robot. Aunque ya era factible el uso de un cable, decidimos seguir con la idea de usar transmisión radio y utilizamos nuestro protocolo de comunicación. Lo cierto es que fue un éxito rotundo ;)
+* (2001) [**CORTOCIRCUITO**](https://web.archive.org/web/20040105071722id_/http://www.ii.uam.es/%7Emecatron/index.php3?seccion=3&pagina=5). Algunas semanas antes de la ChampionBot, en el CRM habíamos empezado a trabajar en temas de visión artificial. Se trataba de cosas muy sencillas pero nos dimos cuenta de que existía la posibilidad de que con ayuda de un ordenador, un robot pudiera seguir una línea negra. Solo necesitábamos establecer el sistema de envío de las imágenes al PC y las órdenes adecuadas al robot. Aunque ya era factible el uso de un cable, decidimos seguir con la idea de usar transmisión radio y utilizamos nuestro protocolo de comunicación. ¡Lo cierto es que fue un éxito rotundo!
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%">
+    <td width="40%">
       <img src="robots/200X_Cortocircuito/Cortocircuito_files/cortocircuito_colocar.jpg"/><br/>
     </td>
-    <td width="50%">
+    <td width="60%">
       <img src="robots/200X_Cortocircuito/Cortocircuito_files/cortocircuito_linea.jpg"/><br/>
     </td>
   </tr>
@@ -195,8 +195,7 @@ Fotos de los eventos en los que hemos estado
 Feria de las Asociaciones de la UAM 2015 (EPS Cantoblanco)
 ==
 
-<img src="eventos/2015_FeriaDeLasAsociacionesUAM/2015_FeriaAsociaciones_CarlosCrisVictorJaviPablo.jpg" height="200px"/><br/>
-<a href="../blog/2015/12/15/FeriaDeLasAsociacionesUAM.html"><b>Entrada en nuestro blog</b></a>
+<a href="../blog/2015/12/15/FeriaDeLasAsociacionesUAM.html"><img src="eventos/2015_FeriaDeLasAsociacionesUAM/2015_FeriaAsociaciones_CarlosCrisVictorJaviPablo.jpg" width="60%"/><br/><b>Entrada en nuestro blog</b></a>
 
 
 V Jornada GMV de Robótica 2015 (Tres Cantos)
@@ -221,13 +220,10 @@ OSHWDem 2015 (A Coruña)
 
 <table border="0" width="100%">
   <tr>
-    <td width="30%">
-      <img src="eventos/2015_OSHWDem/2015-CRMaze_VictorCarlos.jpg"/><br/>
-    </td>
-    <td width="30%">
+    <td width="40%">
       <img src="eventos/2015_OSHWDem/2015-11-07_montajeLaberinto2.jpg"/><br/>
     </td>
-    <td width="40%">
+    <td width="60%">
       <img src="eventos/2015_OSHWDem/2015-11-07_publico.jpg"/><br/>
     </td>
   </tr>
@@ -327,7 +323,7 @@ HISPABOT 2004
   </tr>
 </table>
 
-UAM-Team: En la derecha están Alejandro, Juan, el grupo Papón, Ramón y Cristina que se pasaron para ver el concurso (ellos participaron el año anterior, también en la prueba libre). En la parte inferior de la foto se ven los robots robot Hexápodo Melanie , Cube Revolutions y Papón.
+UAM-Team: En la derecha están Alejandro, Juan, el grupo Papón, Ramón y Cristina que se pasaron para ver el concurso (ellos participaron el año anterior, también en la prueba libre). En la parte inferior de la foto se ven los robots robot Hexápodo Melanie, Cube Revolutions y Papón.
 
 
 "Asalto al Hall" de la EPS (2003)
@@ -350,7 +346,7 @@ El jueves 22 de Mayo, [nos llevamos a Observer al hall de la Escuela](https://we
 IV feria Madrid por la Ciencia (14-Feb-2003 en IFEMA)
 ==
 
-Este año, la EPS era la encargada de representar a la UAM en la IV Feria Madrid por la Ciencia. Para nosotros era una oportunidad interesante de presentar nuestros robots y no dudamos en aprovechar la posibilidad de participar. [Presentamos](https://web.archive.org/web/20030819044019/http://www.ii.uam.es/~mecatron/index.php3?seccion=3&pagina=6) todos los robots disponibles en el CRM.
+Este año, la EPS era la encargada de representar a la UAM en la IV Feria Madrid por la Ciencia. Para nosotros era una oportunidad interesante de presentar nuestros robots y no dudamos en aprovechar la posibilidad de participar. [Presentamos](https://web.archive.org/web/20030819044019/http://www.ii.uam.es/~mecatron/index.php3?seccion=3&pagina=6) todos los robots disponibles en el CRM:
 
 <table border="0" width="100%">
   <tr>
@@ -372,7 +368,7 @@ Fotos del evento y el artículo que apareció al día siguiente en la *Gaceta Un
 Alcabot 2002
 ==
 
-<img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" height="200px"/><br/>
+<img src="eventos/2002_Alcabot_Antonio-Luis-Ramon.jpg" width="60%"/><br/>
 Equipo: Antonio Carballo Antón, Luis Jorge Alloza Román, y Ramón Vazquez Pablo. Sostienen el robot velocista **MACH I**
 
 
@@ -388,10 +384,10 @@ Como alguien tenía que llevar a los robots al concurso ;P, el CRM estuvo repres
     <td width="40%">
       <img src="eventos/2001_ChampionBot/Fotos_Competicion_Finales_Championbot_files/GUS085.JPG"/><br/>
     </td>
-    <td width="40%">
+    <td width="30%">
       <img src="eventos/2001_ChampionBot/Fotos_Competicion_Finales_Championbot_files/GUS091.JPG"/><br/>
     </td>
-    <td width="20%">
+    <td width="30%">
       <img src="eventos/2001_ChampionBot/Fotos_Competicion_Finales_Championbot_files/GUS073.jpg"/><br/>
     </td>
   </tr>
@@ -469,7 +465,7 @@ Presencia del Club de Robótica en eventos frikis
 
 
 
-*Créditos de las imágenes: La mayoría de las fotos pre-2009 han sido obtenidas de la web <http://iearobotics.com/>. Gracias a Juan González por recuperar las fotos de la feria "Madrid por la Ciencia"*
+*Créditos de las imágenes: La mayoría de las fotos pre-2009 han sido obtenidas del Internet Archive y de la web <http://iearobotics.com/>. Gracias a Juan González por recuperar las fotos de la feria "Madrid por la Ciencia"*
 
 *¿Algún link roto? (webs, fotos, vídeos, etc). Recupéralo en [nuestro archivo](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/historia) y [avísanos](../contacto).*  
 
