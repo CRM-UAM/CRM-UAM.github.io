@@ -5,9 +5,7 @@ permalink: /logotipo/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
-Aunque desconocemos el autor original del logotipo, sabemos que se basó en la siguiente obra de la colección [**"animals"**](http://www.russianpaintings.net/russian_paintings.vphp?author=971&sort=size) del ilustrador japonés [**Hajime Sorayama**](https://en.wikipedia.org/wiki/Hajime_Sorayama):  
-<img src="animal_n15_Hajime_Sorayama.jpg" width="400"/>  
-*Animal. #15* by Hajime Sorayama  
+Aunque desconocemos el autor original del logotipo, sabemos que se basó en la obra [*Animal. #15*](animal_n15_Hajime_Sorayama.jpg) del ilustrador japonés [**Hajime Sorayama**](https://en.wikipedia.org/wiki/Hajime_Sorayama).
 
 Nuestro logotipo en HD:
 ==
