@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ideas para competiciones de robótica"
+title:  "Ideas para competiciones de robótica 🤔"
 author: "CRM"
 mostrarEnPortada: false
 estiloEnPortada: "border-radius: 25px; background: #fcf8dd; border: 3px solid #fcdb05; padding: 20px; width: 90%;"
@@ -11,7 +11,8 @@ Indagando en la historia del CRM hemos encontrado en [ChampionBot 2001](https://
 - [**Juego de las Sillas**](https://web.archive.org/web/20031013073302/http://www.sia.eui.upm.es/championbot/sillas.final.shtml)
 _Al ritmo de la música, los robots se irán moviendo alrededor de una zona Circular, la cual dispondrá de unos pequeños recintos ("sillas") en los cuales deberá meterse cada robot cuando la música deje de sonar. Como la detección de la música puede resultar muy complicada, entre otras cosas por el ruido ambiente, se propone sincronizar la parada de la música con el apagado de una luz potente (foco que alumbra toda la zona mientras la música esté sonando). El robot debe detectar este evento e intentar rápidamente entrar en uno de los recintos. Al final de cada uno, habrá otro foco de luz (bombilla) y un sensor de contacto que será pulsado por el robot con el fin de apagar la luz encendida, acto que será interpretado como "el robot se ha sentado en la silla y por tanto, sigue jugando"._
 
-<img src="/historia/eventos/2001_ChampionBot/Fotos_Preliminares_Championbot_files/GUS097.JPG"/><br/>
+<img src="/historia/eventos/2001_ChampionBot/Fotos_Preliminares_Championbot_files/GUS097.JPG" align="middle"/>
+/><br/>
 
 
 - [**Slalom**](https://web.archive.org/web/20031028070035/http://www.sia.eui.upm.es/championbot/slalom.shtml)
@@ -34,10 +35,10 @@ _La idea es realizar un gran torneo medieval con robots. Donde se enfrenten util
 _Esta prueba tiene un cierto parecido al sumo, el área de juego es una mancha negra sobre un fondo blanco. Uno de los equipos debe defender el castillo, mientras que el equipo contrario ataca. Hay un tiempo máximo de juego, durante el cual el equipo atacante puede puntuar introduciendo a sus robots dentro del castillo y permaneciendo estos dentro durante un tiempo mínimo. La forma de puntuar puede ser, por ej. 1 punto por robot introducido, 3 puntos si 2 robots toman a la vez el castillo, 6 puntos si lo hacen 3 a la vez... Por otro lado, los que defienden obtienen puntos por evitar que un robot entre en el castillo y por echar a uno introducido sin permitirle marcar. En cada partida hay dos tandas, en la primera el equipo atacante es el defensor de la segunda tanda, y viceversa._
 
 
--[**La Caza del Zorrobot**](https://web.archive.org/web/20031013072357/http://www.sia.eui.upm.es/championbot/caza.final.shtml)
+- [**La Caza del Zorrobot**](https://web.archive.org/web/20031013072357/http://www.sia.eui.upm.es/championbot/caza.final.shtml)
 _El objetivo del juego es que una serie de participantes busquen y encuentren al robot "zorro", el primero que llegue es el que gana. El zorro es un robot robusto que llevará en la parte superior un emisor de infrarrojos que emitirá una portadora cada cierto tiempo. Dispone de bumpers en todo su contorno de tal forma que puede detectar cuando algo choca contra él. El microbot que primero encuentre al zorrobot tocará un bumper que al activarse cancelará la emisión de la portadora. SERÍA EL GANADOR y recibe el máximo de puntos. Habrá un juez que manualmente retirará al microbot del zorrobot para liberar el bumper y así dar una nueva posibilidad de que otro participante lo encuentre._
 
-<img src="/historia/eventos/2001_ChampionBot/Fotos_Competicion_Finales_Championbot_files/GUS090.JPG"/><br/>
+<img src="/historia/eventos/2001_ChampionBot/Fotos_Competicion_Finales_Championbot_files/GUS090.JPG" align="middle"/><br/>
 
 
 - [**Juego del Pañuelo**](https://web.archive.org/web/20030728122354/http://www.sia.eui.upm.es/championbot/panuelo.shtml)
