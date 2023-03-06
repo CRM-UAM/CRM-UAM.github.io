@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lista de imágenes
-permalink: /lista_imagenes/
+permalink: /imagenes/
 AVISO: Éste es el repositorio GitHub, la web está en http://crm.ii.uam.es/
 ---
 
