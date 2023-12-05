@@ -17,7 +17,7 @@ _*Nota: Para evitar spam, las direcciones deben completarse con_ estudiante.uam.
 
 ## Presidente
 
-David García Fernández, _david.garciaf02_
+Violeta Tejera Munguía
 
 ### Responsabilidades:
 
@@ -31,7 +31,7 @@ David García Fernández, _david.garciaf02_
 
 ## Vicepresidente
 
-David Ramírez Mesón, _david.ramirezm_
+Carmen Giménez Muñoz
 
 ### Responsabilidades
 
@@ -45,7 +45,7 @@ asociación.
 
 ## Tesorero
 
-Cristian Tatu, _cristian.tatu_
+Fernando Fernández del Cerro
 
 ### Responsabilidades
 
@@ -57,7 +57,7 @@ Cristian Tatu, _cristian.tatu_
 
 ## Secretario
 
-Manuel Contreras, _manuelj.contreras_
+Aarón García García
 
 ### Responsabilidades
 
@@ -69,7 +69,10 @@ Manuel Contreras, _manuelj.contreras_
 
 ## Vocales
 
-Carlos García, _carlos.garciasaura_ 
+Nahúm Méndez Chazarra
+Francisco Javier Vera Verdezoto
+Laura Bermúdez Garrido
+Samuel Palacios Valdepeñas
 
 ### Responsabilidades
 
