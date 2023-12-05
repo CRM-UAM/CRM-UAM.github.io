@@ -159,6 +159,13 @@ Histórico de la junta directiva
     <td>Inflacio Mundialis</td> <!--Tesorero-->
     <td>Seguimos :)</td> <!--Vocales-->
   </tr>
+  <tr>
+    <td><i>2022-23</i></td>
+    <td>Violeta Tejera</td> <!--Presidente-->
+    <td>Carmen Giménez</td> <!--Vice-presidente-->
+    <td>Carlos García</td> <!--Secretario-->
+    <td>Pablo Soëtard</td> <!--Tesorero-->
+  </tr>
 </table>
 <br/>
 
