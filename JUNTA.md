@@ -166,6 +166,14 @@ Histórico de la junta directiva
     <td>Carlos García</td> <!--Secretario-->
     <td>Pablo Soëtard</td> <!--Tesorero-->
   </tr>
+  <tr>
+    <td><i>2023-24</i></td>
+    <td>Violeta Tejera</td> <!--Presidente-->
+    <td>Carmen Giménez</td> <!--Vice-presidente-->
+    <td>Fernando Fernández</td> <!--Secretario-->
+    <td>Aarón García</td> <!--Tesorero-->
+    <td>Nahúm Méndez<br/>Francisco Vera<br/>Laura Bermúdez<br/>Samuel Palacios</td>
+  </tr>
 </table>
 <br/>
 
