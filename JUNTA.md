@@ -69,10 +69,7 @@ Aarón García García
 
 ## Vocales
 
-Nahúm Méndez Chazarra<br\>
-Francisco Javier Vera Verdezoto<br\>
-Laura Bermúdez Garrido<br\>
-Samuel Palacios Valdepeñas<br\>
+Nahúm Méndez Chazarra, Francisco Javier Vera Verdezoto, Laura Bermúdez Garrido, Samuel Palacios Valdepeñas
 
 ### Responsabilidades
 
