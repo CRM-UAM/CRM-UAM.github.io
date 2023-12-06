@@ -69,7 +69,7 @@ Aarón García García
 
 ## Vocales
 
-Nahúm Méndez Chazarra, Francisco Javier Vera Verdezoto, Laura Bermúdez Garrido, Samuel Palacios Valdepeñas
+ Laura Bermúdez Garrido, Samuel Palacios Valdepeñas, Francisco Javier Vera Verdezoto
 
 ### Responsabilidades
 
@@ -172,7 +172,7 @@ Histórico de la junta directiva
     <td>Carmen Giménez</td> <!--Vice-presidente-->
     <td>Fernando Fernández</td> <!--Secretario-->
     <td>Aarón García</td> <!--Tesorero-->
-    <td>Nahúm Méndez<br/>Francisco Vera<br/>Laura Bermúdez<br/>Samuel Palacios</td>
+    <td><br/>Laura Bermúdez<br/>Samuel Palacios<br/>Francisco Vera</td>
   </tr>
 </table>
 <br/>
