@@ -172,7 +172,7 @@ Histórico de la junta directiva
     <td>Carmen Giménez</td> <!--Vice-presidente-->
     <td>Fernando Fernández</td> <!--Secretario-->
     <td>Aarón García</td> <!--Tesorero-->
-    <td><br/>Laura Bermúdez<br/>Samuel Palacios<br/>Francisco Vera</td>
+    <td>Laura Bermúdez<br/>Samuel Palacios<br/>Francisco Vera</td>
   </tr>
 </table>
 <br/>
