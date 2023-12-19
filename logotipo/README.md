@@ -18,6 +18,12 @@ Antes de este logo teníamos el siguiente (año ~1999) :)
 
 <a href="1999_logo_antiguo_mecatron.jpg"><img src="1999_logo_antiguo_mecatron.jpg"/></a>
 
+Para pegatinas y camisetas:
+==
+<a href="https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/logotipo/nuevoLogo"><img src="nuevoLogo/logo_en_cortadora.jpg" width="500px"/></a>  
+[.svg](https://github.com/CRM-UAM/CRM-UAM.github.io/tree/master/logotipo/nuevoLogo) (carpeta con todos los SVG originales, ojo antes instalar todas las fuentes .TTF en el sistema)  
+[.svg](nuevoLogo/pegatina_CRM_pequena.svg) (diseño optimizado para la cortadora de vinilos)  
+
 Para la web:
 ==
 Logos muy comprimidos, con fondo transparente:  
