@@ -175,7 +175,7 @@ Histórico de la junta directiva
     <td>Laura Bermúdez<br/>Samuel Palacios<br/>Francisco Vera</td>
   </tr>
  <tr>
-    <td><i>2023-24</i></td>
+    <td><i>2024-25</i></td>
     <td>Violeta Tejera</td> <!--Presidente-->
     <td>Aarón García</td> <!--Vice-presidente-->
     <td>Ángel Quiles</td> <!--Secretario-->
